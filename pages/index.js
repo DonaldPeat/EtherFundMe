@@ -1,5 +1,16 @@
-import React from 'react';
+import React, { Component } from 'react';
+import factory from '../ethereum/factory';
 
-export default () => {
-  return <h1> HOME PAGE </h1>;
-};
+class CampaignIndex extends Component {
+  async compoundDidMount() {
+    const campaigns = await factory.methods.getDeployedCampaigns().call();
+
+    console.log(campaigns);
+  }
+
+  render() {
+    return <div> campaigns index </div>;
+  }
+}
+
+export default CampaignIndex;
