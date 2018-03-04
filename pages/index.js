@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import factory from '../ethereum/factory';
 import { Card, Button } from 'semantic-ui-react';
 import Layout from '../components/Layout';
+import { Link } from '../routes';
 
 class CampaignIndex extends Component {
   //next requires static to call method directly
@@ -14,7 +15,11 @@ class CampaignIndex extends Component {
     const items = this.props.campaigns.map(address => {
       return {
         header: address,
-        description: <a>View Campaign</a>,
+        description: (
+          <Link route={`/campaigns/${address}`}>
+            <a>View Campaign</a>
+          </Link>
+        ),
         fluid: true //semantic use entire width of card container
       };
     });
@@ -25,12 +30,16 @@ class CampaignIndex extends Component {
       <Layout>
         <div>
           <h3>Current Campaigns</h3>
-          <Button
-            content="Create Campaign"
-            icon="add"
-            floated="right"
-            primary
-          />
+          <Link route="/campaigns/new">
+            <a>
+              <Button
+                content="Create Campaign"
+                icon="add"
+                floated="right"
+                primary
+              />
+            </a>
+          </Link>
           {this.renderCampaigns()}
         </div>
       </Layout>
