@@ -9,7 +9,9 @@ class RequestNew extends Component {
   state = {
     value: '',
     description: '',
-    recipient: ''
+    recipient: '',
+    loading: false,
+    errorMessage: ''
   };
 
   static async getInitialProps(props) {
@@ -18,11 +20,26 @@ class RequestNew extends Component {
     return { address };
   }
 
+  onSubmit = async e => {
+    e.preventDefault();
+
+    const campaign = Campaign(this.props.address);
+
+    const { description, value, recipient } = this.state;
+
+    try {
+      const accounts = await web3.eth.getAccounts();
+      await campaign.methods
+        .createRequest(description, web3.utils.toWei(value, 'ether'), recipient)
+        .send({ from: accounts[0] });
+    } catch (err) {}
+  };
+
   render() {
     return (
       <Layout>
         <h3>Create A Request</h3>
-        <Form>
+        <Form onSubmit={this.onSubmit}>
           <Form.Field>
             <label>Description</label>
             <Input
@@ -34,7 +51,7 @@ class RequestNew extends Component {
           <Form.Field>
             <label>Value (Ether)</label>
             <Input
-              value={this.state.description}
+              value={this.state.value}
               onChange={e => this.setState({ value: e.target.value })}
             />
           </Form.Field>
@@ -42,12 +59,14 @@ class RequestNew extends Component {
           <Form.Field>
             <label>Recipient</label>
             <Input
-              value={this.state.description}
+              value={this.state.recipient}
               onChange={e => this.setState({ recipient: e.target.value })}
             />
           </Form.Field>
 
-          <Button primary>Create Request! </Button>
+          <Button primary loading={this.state.loading}>
+            Create Request!{' '}
+          </Button>
         </Form>
       </Layout>
     );
