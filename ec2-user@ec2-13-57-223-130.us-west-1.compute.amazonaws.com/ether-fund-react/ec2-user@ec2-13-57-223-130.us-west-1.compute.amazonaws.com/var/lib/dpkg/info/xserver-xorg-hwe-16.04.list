@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/xserver-xorg-hwe-16.04
+/usr/share/doc/xserver-xorg-hwe-16.04/copyright
+/usr/share/doc/xserver-xorg-hwe-16.04/NEWS.Debian.gz
+/usr/share/bug
+/usr/share/bug/xorg
+/usr/share/bug/xorg/control
+/usr/share/bug/xserver-xorg
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/xserver-xorg-hwe-16.04
+/usr/share/doc/xserver-xorg-hwe-16.04/changelog.gz
+/usr/share/bug/xserver-xorg/script

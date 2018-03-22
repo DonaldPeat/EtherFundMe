@@ -1,0 +1,10 @@
+Document: swh-plugins
+Section: Sound
+Title: swh-plugins Manual
+Author: Steve Harris
+Abstract: This manual describes Steve Harris's (swh) plugins
+ and how they can be used to manipulate audio with LADSPA hosts
+
+Format: HTML
+Index: /usr/share/doc/swh-plugins/html/ladspa-swh.html
+Files: /usr/share/doc/swh-plugins/html/ladspa-swh.html

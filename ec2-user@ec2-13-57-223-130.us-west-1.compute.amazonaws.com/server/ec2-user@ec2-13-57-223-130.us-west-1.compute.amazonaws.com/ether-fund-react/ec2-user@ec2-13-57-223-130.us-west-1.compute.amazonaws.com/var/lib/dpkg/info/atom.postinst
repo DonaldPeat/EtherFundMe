@@ -1,0 +1,33 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+
+  configure)
+    cd /opt/atom/
+    tar -xf atom*.tar.xz
+    rm -rf atom*.tar.xz
+    chown -R root:root /opt/atom
+    if [ ! -e /usr/bin/apm ]; then
+        ln -s /opt/atom/resources/app/apm/node_modules/.bin/apm /usr/bin/
+    fi
+    if [ -x /usr/bin/desktop-file-install ]; then
+        desktop-file-install /usr/share/applications/atom.desktop > /dev/null 2>&1
+    fi
+  ;;
+
+  abort-upgrade|abort-remove|abort-deconfigure)
+    exit 0
+  ;;
+
+  *)
+    echo "postinst called with unknown argument \`$1'" >&2
+    exit 1
+  ;;
+
+esac
+
+
+
+exit 0

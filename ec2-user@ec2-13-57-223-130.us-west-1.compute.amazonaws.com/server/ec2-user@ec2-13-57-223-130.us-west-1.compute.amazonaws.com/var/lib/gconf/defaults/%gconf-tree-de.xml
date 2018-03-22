@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Zeige Countdown Anzeige an">
+						<longdesc>Ob eine Beschriftung mit der Zeit zum nächsten Alarm, rechts vom Icon angezeigt wird.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Befehl">
+							<longdesc>Der auszuführende Befehl bei Benachrichtigungenstyp mit Befehl.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Klang wiederholen">
+							<longdesc>Ob der Alarm Ton wiederholt werden soll.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Klangdatei">
+							<longdesc>Der Ton zur Wiedergabe bei Benachrichtigungstyp mit Ton.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Benachrichtigungstyp">
+							<longdesc>Der Typ der Benachrichtigung wenn dieser ausgelöst wird. Dies kann einer der folgenden sein: &quot;Ton&quot; gibt einen Ton wieder ( festgelegt in der &quot;Ton_Datei&quot; Eigenschaft.) &quot;Befehl&quot; welcher einen Befehl ausführt ( festgelegt in der &quot;Befehl&quot; Eigenschaft.)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Alarm Wiederholung">
+							<longdesc>Eine Liste der Tage, an denen der Alarm wiederholt wird. Diese Einstellung ist nur für Alarme mit Uhrzeit.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Status des Alarms">
+							<longdesc>Zeigt ob der Alarm gestartet worden ist.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Alarm Nachricht">
+							<longdesc>Eine kurze Nachricht die den Alarm beschreibt.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Alarm Zeit">
+							<longdesc>Die Uhrzeit des Alarms. Sollte bei Uhrzeit im GMT Format oder bei Dauer Alarmen in Sekunden sein.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Alarm Zeitstempel">
+							<longdesc>Der Unix-Zeitstempel für den Alarm. Muss gesetzt sein, bevor dieser aktiviert ist.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Alarm-Typ">
+							<longdesc>Der Typ des Alarms. Entweder &quot;Wecker&quot;  für einen Alarm zu einer bestimmten Uhrzeit des Tages oder &quot;Timer&quot; für einen Alarm nach einer bestimmten Dauer.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

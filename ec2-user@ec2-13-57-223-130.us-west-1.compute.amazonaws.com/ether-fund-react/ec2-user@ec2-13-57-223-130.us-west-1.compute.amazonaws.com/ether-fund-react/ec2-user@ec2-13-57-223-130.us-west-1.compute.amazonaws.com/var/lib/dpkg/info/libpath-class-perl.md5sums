@@ -1,0 +1,10 @@
+36cde17e1c78208a1f5aa090b8e24f40  usr/share/doc/libpath-class-perl/changelog.Debian.gz
+baac0f6e44475222569fc70d7f3e8537  usr/share/doc/libpath-class-perl/copyright
+90b1e1bc3d3e4c18120f077d335ef5db  usr/share/man/man3/Path::Class.3pm.gz
+9169eb83492eb40bfa177bb42ecba85a  usr/share/man/man3/Path::Class::Dir.3pm.gz
+056fa6b7da9133c6b6314177a47ea497  usr/share/man/man3/Path::Class::Entity.3pm.gz
+1feeee432e94269df2287eb599d9a02a  usr/share/man/man3/Path::Class::File.3pm.gz
+172caa92f2c9d5e57840404de5bf417c  usr/share/perl5/Path/Class.pm
+d057747eb223d50fc490ba44c6b07080  usr/share/perl5/Path/Class/Dir.pm
+522fcdbd765168b63796e6f9e947bf73  usr/share/perl5/Path/Class/Entity.pm
+5190b4a4e4d9a784189186b3fb625aaf  usr/share/perl5/Path/Class/File.pm

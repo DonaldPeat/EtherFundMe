@@ -1,0 +1,79 @@
+Mar 19 09:24:58 LaMancha NetworkManager[878]: <warn>  [1521476698.5628] sup-iface[0x159b940,wlp5s0]: connection disconnected (reason -4)
+Mar 19 09:24:58 LaMancha NetworkManager[878]: <info>  [1521476698.5676] device (wlp5s0): supplicant interface state: completed -> disconnected
+Mar 19 09:24:58 LaMancha NetworkManager[878]: <info>  [1521476698.6675] device (wlp5s0): supplicant interface state: disconnected -> scanning
+Mar 19 09:25:01 LaMancha kernel: [73978.717515] wlp5s0: authenticate with 00:23:6a:9a:cc:0c
+Mar 19 09:25:01 LaMancha NetworkManager[878]: <info>  [1521476701.7776] device (wlp5s0): supplicant interface state: scanning -> authenticating
+Mar 19 09:25:01 LaMancha kernel: [73978.728600] wlp5s0: send auth to 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 09:25:01 LaMancha kernel: [73978.732275] wlp5s0: authenticated
+Mar 19 09:25:01 LaMancha NetworkManager[878]: <info>  [1521476701.7864] device (wlp5s0): supplicant interface state: authenticating -> associating
+Mar 19 09:25:01 LaMancha kernel: [73978.736113] wlp5s0: associate with 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 09:25:01 LaMancha kernel: [73978.739841] wlp5s0: RX AssocResp from 00:23:6a:9a:cc:0c (capab=0x411 status=0 aid=1)
+Mar 19 09:25:01 LaMancha kernel: [73978.739941] wlp5s0: associated
+Mar 19 09:25:01 LaMancha NetworkManager[878]: <info>  [1521476701.7943] device (wlp5s0): supplicant interface state: associating -> associated
+Mar 19 09:25:01 LaMancha NetworkManager[878]: <info>  [1521476701.8523] device (wlp5s0): supplicant interface state: associated -> 4-way handshake
+Mar 19 09:25:01 LaMancha NetworkManager[878]: <info>  [1521476701.8702] device (wlp5s0): supplicant interface state: 4-way handshake -> completed
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7354]   address 192.168.1.3
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7354]   plen 24 (255.255.255.0)
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7354]   gateway 192.168.1.1
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7355]   server identifier 192.168.1.1
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7355]   lease time 86400
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7355]   nameserver '192.168.1.1'
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7355]   domain name 'Home'
+Mar 19 10:21:38 LaMancha NetworkManager[878]: <info>  [1521480098.7355] dhcp4 (enp4s0): state changed bound -> bound
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5362]   address 192.168.1.4
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5362]   plen 24 (255.255.255.0)
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5362]   gateway 192.168.1.1
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5362]   server identifier 192.168.1.1
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5363]   lease time 86400
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5363]   nameserver '192.168.1.1'
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5363]   domain name 'Home'
+Mar 19 11:24:24 LaMancha NetworkManager[878]: <info>  [1521483864.5363] dhcp4 (wlp5s0): state changed bound -> bound
+Mar 19 12:40:45 LaMancha NetworkManager[878]: <warn>  [1521488445.8629] sup-iface[0x159b940,wlp5s0]: connection disconnected (reason -4)
+Mar 19 12:40:45 LaMancha NetworkManager[878]: <info>  [1521488445.8951] device (wlp5s0): supplicant interface state: completed -> disconnected
+Mar 19 12:40:45 LaMancha NetworkManager[878]: <info>  [1521488445.9679] device (wlp5s0): supplicant interface state: disconnected -> scanning
+Mar 19 12:40:49 LaMancha kernel: [85726.164970] wlp5s0: authenticate with 00:23:6a:9a:cc:0c
+Mar 19 12:40:49 LaMancha NetworkManager[878]: <info>  [1521488449.0780] device (wlp5s0): supplicant interface state: scanning -> authenticating
+Mar 19 12:40:49 LaMancha kernel: [85726.175964] wlp5s0: send auth to 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 12:40:49 LaMancha kernel: [85726.178202] wlp5s0: authenticated
+Mar 19 12:40:49 LaMancha kernel: [85726.179268] wlp5s0: associate with 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 12:40:49 LaMancha NetworkManager[878]: <info>  [1521488449.0853] device (wlp5s0): supplicant interface state: authenticating -> associating
+Mar 19 12:40:49 LaMancha kernel: [85726.188781] wlp5s0: RX AssocResp from 00:23:6a:9a:cc:0c (capab=0x411 status=0 aid=1)
+Mar 19 12:40:49 LaMancha kernel: [85726.188876] wlp5s0: associated
+Mar 19 12:40:49 LaMancha NetworkManager[878]: <info>  [1521488449.0959] device (wlp5s0): supplicant interface state: associating -> associated
+Mar 19 12:40:49 LaMancha NetworkManager[878]: <info>  [1521488449.1062] device (wlp5s0): supplicant interface state: associated -> 4-way handshake
+Mar 19 12:40:49 LaMancha NetworkManager[878]: <info>  [1521488449.1239] device (wlp5s0): supplicant interface state: 4-way handshake -> completed
+Mar 19 15:07:36 LaMancha NetworkManager[878]: <warn>  [1521497256.3629] sup-iface[0x159b940,wlp5s0]: connection disconnected (reason -4)
+Mar 19 15:07:36 LaMancha NetworkManager[878]: <info>  [1521497256.3954] device (wlp5s0): supplicant interface state: completed -> disconnected
+Mar 19 15:07:36 LaMancha NetworkManager[878]: <info>  [1521497256.4678] device (wlp5s0): supplicant interface state: disconnected -> scanning
+Mar 19 15:07:39 LaMancha kernel: [94536.769210] wlp5s0: authenticate with 00:23:6a:9a:cc:0c
+Mar 19 15:07:39 LaMancha NetworkManager[878]: <info>  [1521497259.5791] device (wlp5s0): supplicant interface state: scanning -> authenticating
+Mar 19 15:07:39 LaMancha kernel: [94536.780341] wlp5s0: send auth to 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 15:07:39 LaMancha kernel: [94536.787208] wlp5s0: authenticated
+Mar 19 15:07:39 LaMancha kernel: [94536.787784] wlp5s0: associate with 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 15:07:39 LaMancha kernel: [94536.791649] wlp5s0: RX AssocResp from 00:23:6a:9a:cc:0c (capab=0x411 status=0 aid=1)
+Mar 19 15:07:39 LaMancha kernel: [94536.791744] wlp5s0: associated
+Mar 19 15:07:39 LaMancha NetworkManager[878]: <info>  [1521497259.5897] device (wlp5s0): supplicant interface state: authenticating -> associated
+Mar 19 15:07:39 LaMancha NetworkManager[878]: <info>  [1521497259.6202] device (wlp5s0): supplicant interface state: associated -> 4-way handshake
+Mar 19 15:07:39 LaMancha NetworkManager[878]: <info>  [1521497259.6435] device (wlp5s0): supplicant interface state: 4-way handshake -> completed
+Mar 19 20:01:17 LaMancha NetworkManager[878]: <warn>  [1521514877.3587] sup-iface[0x159b940,wlp5s0]: connection disconnected (reason -4)
+Mar 19 20:01:17 LaMancha NetworkManager[878]: <info>  [1521514877.3950] device (wlp5s0): supplicant interface state: completed -> disconnected
+Mar 19 20:01:17 LaMancha NetworkManager[878]: <info>  [1521514877.4638] device (wlp5s0): supplicant interface state: disconnected -> scanning
+Mar 19 20:01:20 LaMancha kernel: [112157.988735] wlp5s0: authenticate with 00:23:6a:9a:cc:0c
+Mar 19 20:01:20 LaMancha NetworkManager[878]: <info>  [1521514880.5794] device (wlp5s0): supplicant interface state: scanning -> authenticating
+Mar 19 20:01:20 LaMancha kernel: [112158.000382] wlp5s0: send auth to 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 20:01:20 LaMancha kernel: [112158.002758] wlp5s0: authenticated
+Mar 19 20:01:20 LaMancha kernel: [112158.003483] wlp5s0: associate with 00:23:6a:9a:cc:0c (try 1/3)
+Mar 19 20:01:20 LaMancha NetworkManager[878]: <info>  [1521514880.5855] device (wlp5s0): supplicant interface state: authenticating -> associating
+Mar 19 20:01:20 LaMancha kernel: [112158.008629] wlp5s0: RX AssocResp from 00:23:6a:9a:cc:0c (capab=0x411 status=0 aid=1)
+Mar 19 20:01:20 LaMancha kernel: [112158.008722] wlp5s0: associated
+Mar 19 20:01:20 LaMancha NetworkManager[878]: <info>  [1521514880.5916] device (wlp5s0): supplicant interface state: associating -> associated
+Mar 19 20:01:20 LaMancha NetworkManager[878]: <info>  [1521514880.6154] device (wlp5s0): supplicant interface state: associated -> 4-way handshake
+Mar 19 20:01:20 LaMancha NetworkManager[878]: <info>  [1521514880.6375] device (wlp5s0): supplicant interface state: 4-way handshake -> completed
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2310]   address 192.168.1.3
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2311]   plen 24 (255.255.255.0)
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2311]   gateway 192.168.1.1
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2311]   server identifier 192.168.1.1
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2311]   lease time 86400
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2311]   nameserver '192.168.1.1'
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2312]   domain name 'Home'
+Mar 19 20:23:21 LaMancha NetworkManager[878]: <info>  [1521516201.2312] dhcp4 (enp4s0): state changed bound -> bound

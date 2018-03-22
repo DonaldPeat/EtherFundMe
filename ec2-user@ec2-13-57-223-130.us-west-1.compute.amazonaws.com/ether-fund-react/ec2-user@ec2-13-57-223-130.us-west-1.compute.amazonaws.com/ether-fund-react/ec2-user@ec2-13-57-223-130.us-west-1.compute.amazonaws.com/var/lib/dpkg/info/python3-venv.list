@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/man
+/usr/share/man/man1
+/usr/bin
+/usr/share/doc/python3-venv
+/usr/share/man/man1/pyvenv.1.gz
+/usr/bin/pyvenv

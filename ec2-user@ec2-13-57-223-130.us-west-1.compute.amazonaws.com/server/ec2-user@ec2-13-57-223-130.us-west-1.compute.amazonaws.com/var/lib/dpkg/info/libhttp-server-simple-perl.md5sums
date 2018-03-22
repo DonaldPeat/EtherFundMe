@@ -1,0 +1,9 @@
+194d8941e40e6bdb3723fa8eadda3c97  usr/share/doc/libhttp-server-simple-perl/changelog.Debian.gz
+8bbb64ce8295087b8423bb2d47e977f3  usr/share/doc/libhttp-server-simple-perl/copyright
+2085e0d379035b737f984e6ce5fbcaab  usr/share/doc/libhttp-server-simple-perl/examples/sample_server
+8246afe7a96d6fed0f8fc13ac25e4b11  usr/share/man/man3/HTTP::Server::Simple.3pm.gz
+4a863e15d4b4dd9094cf3440e09a3ce9  usr/share/man/man3/HTTP::Server::Simple::CGI.3pm.gz
+55d980e92e949d58f906984828ab1c15  usr/share/man/man3/HTTP::Server::Simple::CGI::Environment.3pm.gz
+88e009fc51db3844bb4576288c2db938  usr/share/perl5/HTTP/Server/Simple.pm
+256866708c30998ff2f907efd6ecd8bb  usr/share/perl5/HTTP/Server/Simple/CGI.pm
+cb33a67d19123655b4a10096b6aba79d  usr/share/perl5/HTTP/Server/Simple/CGI/Environment.pm

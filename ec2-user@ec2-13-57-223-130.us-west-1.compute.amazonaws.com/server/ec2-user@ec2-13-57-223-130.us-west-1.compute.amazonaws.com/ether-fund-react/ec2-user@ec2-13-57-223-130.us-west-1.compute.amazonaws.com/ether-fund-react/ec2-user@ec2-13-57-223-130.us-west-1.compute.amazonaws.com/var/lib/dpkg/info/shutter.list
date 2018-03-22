@@ -1,0 +1,1027 @@
+/.
+/usr
+/usr/bin
+/usr/bin/shutter
+/usr/share
+/usr/share/pixmaps
+/usr/share/pixmaps/shutter.png
+/usr/share/locale
+/usr/share/locale/ur
+/usr/share/locale/ur/LC_MESSAGES
+/usr/share/locale/ur/LC_MESSAGES/shutter.mo
+/usr/share/locale/ur/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ko
+/usr/share/locale/ko/LC_MESSAGES
+/usr/share/locale/ko/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ko/LC_MESSAGES/shutter.mo
+/usr/share/locale/ko/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/uk
+/usr/share/locale/uk/LC_MESSAGES
+/usr/share/locale/uk/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/uk/LC_MESSAGES/shutter.mo
+/usr/share/locale/uk/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ast
+/usr/share/locale/ast/LC_MESSAGES
+/usr/share/locale/ast/LC_MESSAGES/shutter.mo
+/usr/share/locale/as
+/usr/share/locale/as/LC_MESSAGES
+/usr/share/locale/as/LC_MESSAGES/shutter.mo
+/usr/share/locale/nl
+/usr/share/locale/nl/LC_MESSAGES
+/usr/share/locale/nl/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/nl/LC_MESSAGES/shutter.mo
+/usr/share/locale/nl/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/hy
+/usr/share/locale/hy/LC_MESSAGES
+/usr/share/locale/hy/LC_MESSAGES/shutter.mo
+/usr/share/locale/fr
+/usr/share/locale/fr/LC_MESSAGES
+/usr/share/locale/fr/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/fr/LC_MESSAGES/shutter.mo
+/usr/share/locale/fr/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/kk
+/usr/share/locale/kk/LC_MESSAGES
+/usr/share/locale/kk/LC_MESSAGES/shutter.mo
+/usr/share/locale/kk/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ca
+/usr/share/locale/ca/LC_MESSAGES
+/usr/share/locale/ca/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ca/LC_MESSAGES/shutter.mo
+/usr/share/locale/ca/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ja
+/usr/share/locale/ja/LC_MESSAGES
+/usr/share/locale/ja/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ja/LC_MESSAGES/shutter.mo
+/usr/share/locale/ja/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ms
+/usr/share/locale/ms/LC_MESSAGES
+/usr/share/locale/ms/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ms/LC_MESSAGES/shutter.mo
+/usr/share/locale/ms/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/tr
+/usr/share/locale/tr/LC_MESSAGES
+/usr/share/locale/tr/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/tr/LC_MESSAGES/shutter.mo
+/usr/share/locale/tr/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/shn
+/usr/share/locale/shn/LC_MESSAGES
+/usr/share/locale/shn/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/shn/LC_MESSAGES/shutter.mo
+/usr/share/locale/hu
+/usr/share/locale/hu/LC_MESSAGES
+/usr/share/locale/hu/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/hu/LC_MESSAGES/shutter.mo
+/usr/share/locale/hu/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/nn
+/usr/share/locale/nn/LC_MESSAGES
+/usr/share/locale/nn/LC_MESSAGES/shutter.mo
+/usr/share/locale/af
+/usr/share/locale/af/LC_MESSAGES
+/usr/share/locale/af/LC_MESSAGES/shutter.mo
+/usr/share/locale/id
+/usr/share/locale/id/LC_MESSAGES
+/usr/share/locale/id/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/id/LC_MESSAGES/shutter.mo
+/usr/share/locale/id/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/sl
+/usr/share/locale/sl/LC_MESSAGES
+/usr/share/locale/sl/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/sl/LC_MESSAGES/shutter.mo
+/usr/share/locale/sl/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/fi
+/usr/share/locale/fi/LC_MESSAGES
+/usr/share/locale/fi/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/fi/LC_MESSAGES/shutter.mo
+/usr/share/locale/fi/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/zh_HK
+/usr/share/locale/zh_HK/LC_MESSAGES
+/usr/share/locale/zh_HK/LC_MESSAGES/shutter.mo
+/usr/share/locale/bn
+/usr/share/locale/bn/LC_MESSAGES
+/usr/share/locale/bn/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/bn/LC_MESSAGES/shutter.mo
+/usr/share/locale/bn/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/en_GB
+/usr/share/locale/en_GB/LC_MESSAGES
+/usr/share/locale/en_GB/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/en_GB/LC_MESSAGES/shutter.mo
+/usr/share/locale/en_GB/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ar
+/usr/share/locale/ar/LC_MESSAGES
+/usr/share/locale/ar/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ar/LC_MESSAGES/shutter.mo
+/usr/share/locale/ar/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/et
+/usr/share/locale/et/LC_MESSAGES
+/usr/share/locale/et/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/et/LC_MESSAGES/shutter.mo
+/usr/share/locale/et/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/lv
+/usr/share/locale/lv/LC_MESSAGES
+/usr/share/locale/lv/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/lv/LC_MESSAGES/shutter.mo
+/usr/share/locale/lv/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/pl
+/usr/share/locale/pl/LC_MESSAGES
+/usr/share/locale/pl/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/pl/LC_MESSAGES/shutter.mo
+/usr/share/locale/pl/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/pt_BR
+/usr/share/locale/pt_BR/LC_MESSAGES
+/usr/share/locale/pt_BR/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/shutter.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/he
+/usr/share/locale/he/LC_MESSAGES
+/usr/share/locale/he/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/he/LC_MESSAGES/shutter.mo
+/usr/share/locale/he/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/fa
+/usr/share/locale/fa/LC_MESSAGES
+/usr/share/locale/fa/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/fa/LC_MESSAGES/shutter.mo
+/usr/share/locale/is
+/usr/share/locale/is/LC_MESSAGES
+/usr/share/locale/is/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ro
+/usr/share/locale/ro/LC_MESSAGES
+/usr/share/locale/ro/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ro/LC_MESSAGES/shutter.mo
+/usr/share/locale/ro/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/pt
+/usr/share/locale/pt/LC_MESSAGES
+/usr/share/locale/pt/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/pt/LC_MESSAGES/shutter.mo
+/usr/share/locale/pt/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/da
+/usr/share/locale/da/LC_MESSAGES
+/usr/share/locale/da/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/da/LC_MESSAGES/shutter.mo
+/usr/share/locale/da/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ug/LC_MESSAGES/shutter.mo
+/usr/share/locale/ug/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/be
+/usr/share/locale/be/LC_MESSAGES
+/usr/share/locale/be/LC_MESSAGES/shutter.mo
+/usr/share/locale/kn
+/usr/share/locale/kn/LC_MESSAGES
+/usr/share/locale/kn/LC_MESSAGES/shutter.mo
+/usr/share/locale/lt
+/usr/share/locale/lt/LC_MESSAGES
+/usr/share/locale/lt/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/lt/LC_MESSAGES/shutter.mo
+/usr/share/locale/lt/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/si
+/usr/share/locale/si/LC_MESSAGES
+/usr/share/locale/si/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/si/LC_MESSAGES/shutter.mo
+/usr/share/locale/si/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/eu
+/usr/share/locale/eu/LC_MESSAGES
+/usr/share/locale/eu/LC_MESSAGES/shutter.mo
+/usr/share/locale/fo
+/usr/share/locale/fo/LC_MESSAGES
+/usr/share/locale/fo/LC_MESSAGES/shutter.mo
+/usr/share/locale/en_AU
+/usr/share/locale/en_AU/LC_MESSAGES
+/usr/share/locale/en_AU/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/te
+/usr/share/locale/te/LC_MESSAGES
+/usr/share/locale/te/LC_MESSAGES/shutter.mo
+/usr/share/locale/te/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ta
+/usr/share/locale/ta/LC_MESSAGES
+/usr/share/locale/ta/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ta/LC_MESSAGES/shutter.mo
+/usr/share/locale/ta/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ru
+/usr/share/locale/ru/LC_MESSAGES
+/usr/share/locale/ru/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/ru/LC_MESSAGES/shutter.mo
+/usr/share/locale/ru/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/gl
+/usr/share/locale/gl/LC_MESSAGES
+/usr/share/locale/gl/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/gl/LC_MESSAGES/shutter.mo
+/usr/share/locale/gl/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/zh_TW
+/usr/share/locale/zh_TW/LC_MESSAGES
+/usr/share/locale/zh_TW/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/shutter.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/vi
+/usr/share/locale/vi/LC_MESSAGES
+/usr/share/locale/vi/LC_MESSAGES/shutter.mo
+/usr/share/locale/vi/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/en_CA
+/usr/share/locale/en_CA/LC_MESSAGES
+/usr/share/locale/en_CA/LC_MESSAGES/shutter.mo
+/usr/share/locale/en_CA/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/th
+/usr/share/locale/th/LC_MESSAGES
+/usr/share/locale/th/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/th/LC_MESSAGES/shutter.mo
+/usr/share/locale/th/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/cy
+/usr/share/locale/cy/LC_MESSAGES
+/usr/share/locale/cy/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/cy/LC_MESSAGES/shutter.mo
+/usr/share/locale/cy/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/el
+/usr/share/locale/el/LC_MESSAGES
+/usr/share/locale/el/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/el/LC_MESSAGES/shutter.mo
+/usr/share/locale/el/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/it
+/usr/share/locale/it/LC_MESSAGES
+/usr/share/locale/it/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/it/LC_MESSAGES/shutter.mo
+/usr/share/locale/it/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/sr
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/sr/LC_MESSAGES/shutter.mo
+/usr/share/locale/sr/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/sk
+/usr/share/locale/sk/LC_MESSAGES
+/usr/share/locale/sk/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/sk/LC_MESSAGES/shutter.mo
+/usr/share/locale/sk/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/zh_CN
+/usr/share/locale/zh_CN/LC_MESSAGES
+/usr/share/locale/zh_CN/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/shutter.mo
+/usr/share/locale/zh_CN/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/nb
+/usr/share/locale/nb/LC_MESSAGES
+/usr/share/locale/nb/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/nb/LC_MESSAGES/shutter.mo
+/usr/share/locale/nb/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/bg
+/usr/share/locale/bg/LC_MESSAGES
+/usr/share/locale/bg/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/bg/LC_MESSAGES/shutter.mo
+/usr/share/locale/bg/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/ber
+/usr/share/locale/ber/LC_MESSAGES
+/usr/share/locale/ber/LC_MESSAGES/shutter.mo
+/usr/share/locale/hi
+/usr/share/locale/hi/LC_MESSAGES
+/usr/share/locale/hi/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/hi/LC_MESSAGES/shutter.mo
+/usr/share/locale/hi/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/es
+/usr/share/locale/es/LC_MESSAGES
+/usr/share/locale/es/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/es/LC_MESSAGES/shutter.mo
+/usr/share/locale/es/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/de
+/usr/share/locale/de/LC_MESSAGES
+/usr/share/locale/de/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/de/LC_MESSAGES/shutter.mo
+/usr/share/locale/de/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/hr
+/usr/share/locale/hr/LC_MESSAGES
+/usr/share/locale/hr/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/hr/LC_MESSAGES/shutter.mo
+/usr/share/locale/hr/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/bs
+/usr/share/locale/bs/LC_MESSAGES
+/usr/share/locale/bs/LC_MESSAGES/shutter.mo
+/usr/share/locale/bs/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/cs
+/usr/share/locale/cs/LC_MESSAGES
+/usr/share/locale/cs/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/cs/LC_MESSAGES/shutter.mo
+/usr/share/locale/cs/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/oc
+/usr/share/locale/oc/LC_MESSAGES
+/usr/share/locale/oc/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/oc/LC_MESSAGES/shutter.mo
+/usr/share/locale/oc/LC_MESSAGES/shutter-plugins.mo
+/usr/share/locale/az
+/usr/share/locale/az/LC_MESSAGES
+/usr/share/locale/az/LC_MESSAGES/shutter.mo
+/usr/share/locale/sv
+/usr/share/locale/sv/LC_MESSAGES
+/usr/share/locale/sv/LC_MESSAGES/shutter-upload-plugins.mo
+/usr/share/locale/sv/LC_MESSAGES/shutter.mo
+/usr/share/locale/sv/LC_MESSAGES/shutter-plugins.mo
+/usr/share/applications
+/usr/share/applications/shutter.desktop
+/usr/share/shutter
+/usr/share/shutter/update-notifier-shutter
+/usr/share/shutter/resources
+/usr/share/shutter/resources/credits
+/usr/share/shutter/resources/credits/art
+/usr/share/shutter/resources/credits/dev
+/usr/share/shutter/resources/system
+/usr/share/shutter/resources/system/upload_plugins
+/usr/share/shutter/resources/system/upload_plugins/Template.pm
+/usr/share/shutter/resources/system/upload_plugins/upload
+/usr/share/shutter/resources/system/upload_plugins/upload/vgyme.pm
+/usr/share/shutter/resources/system/upload_plugins/upload/TwitPic.pm
+/usr/share/shutter/resources/system/upload_plugins/upload/ITmages.pm
+/usr/share/shutter/resources/system/upload_plugins/upload/ToileLibre.pm
+/usr/share/shutter/resources/system/upload_plugins/upload/Minus.pm
+/usr/share/shutter/resources/system/upload_plugins/upload/Imgur.pm
+/usr/share/shutter/resources/system/upload_plugins/upload/Dropbox.pm
+/usr/share/shutter/resources/system/plugins
+/usr/share/shutter/resources/system/plugins/perl
+/usr/share/shutter/resources/system/plugins/perl/spwatermark
+/usr/share/shutter/resources/system/plugins/perl/spwatermark/spwatermark
+/usr/share/shutter/resources/system/plugins/perl/spwatermark/spwatermark.svg
+/usr/share/shutter/resources/system/plugins/perl/sppolaroid
+/usr/share/shutter/resources/system/plugins/perl/sppolaroid/sppolaroid
+/usr/share/shutter/resources/system/plugins/perl/sppolaroid/sppolaroid.svg
+/usr/share/shutter/resources/system/plugins/perl/spsepia
+/usr/share/shutter/resources/system/plugins/perl/spsepia/spsepia.svg
+/usr/share/shutter/resources/system/plugins/perl/spsepia/spsepia
+/usr/share/shutter/resources/system/plugins/perl/spnegate
+/usr/share/shutter/resources/system/plugins/perl/spnegate/spnegate
+/usr/share/shutter/resources/system/plugins/perl/spnegate/spnegate.svg
+/usr/share/shutter/resources/system/plugins/perl/spshadow
+/usr/share/shutter/resources/system/plugins/perl/spshadow/spshadow.svg
+/usr/share/shutter/resources/system/plugins/perl/spshadow/spshadow
+/usr/share/shutter/resources/system/plugins/perl/spresize
+/usr/share/shutter/resources/system/plugins/perl/spresize/Unlocked.svg
+/usr/share/shutter/resources/system/plugins/perl/spresize/Locked.svg
+/usr/share/shutter/resources/system/plugins/perl/spresize/spresize.svg
+/usr/share/shutter/resources/system/plugins/perl/spresize/spresize
+/usr/share/shutter/resources/system/plugins/perl/spbardistortion
+/usr/share/shutter/resources/system/plugins/perl/spbardistortion/spbardistortion.png
+/usr/share/shutter/resources/system/plugins/perl/spbardistortion/spbardistortion
+/usr/share/shutter/resources/system/plugins/shell
+/usr/share/shutter/resources/system/plugins/shell/spgrayscale
+/usr/share/shutter/resources/system/plugins/shell/spgrayscale/spgrayscale
+/usr/share/shutter/resources/system/plugins/shell/spgrayscale/spgrayscale.svg
+/usr/share/shutter/resources/system/plugins/shell/spraise
+/usr/share/shutter/resources/system/plugins/shell/spraise/spraise
+/usr/share/shutter/resources/system/plugins/shell/spraise/spraise.svg
+/usr/share/shutter/resources/system/plugins/shell/sptrim
+/usr/share/shutter/resources/system/plugins/shell/sptrim/sptrim
+/usr/share/shutter/resources/system/plugins/shell/sptrim/sptrim.svg
+/usr/share/shutter/resources/system/plugins/shell/sptornedpaper
+/usr/share/shutter/resources/system/plugins/shell/sptornedpaper/sptornedpaper
+/usr/share/shutter/resources/system/plugins/shell/sptornedpaper/sptornedpaper.png
+/usr/share/shutter/resources/system/plugins/shell/spsunk
+/usr/share/shutter/resources/system/plugins/shell/spsunk/spsunk
+/usr/share/shutter/resources/system/plugins/shell/spsunk/spsunk.svg
+/usr/share/shutter/resources/system/plugins/shell/spsoftedges
+/usr/share/shutter/resources/system/plugins/shell/spsoftedges/spsoftedges
+/usr/share/shutter/resources/system/plugins/shell/spsoftedges/spsoftedges.svg
+/usr/share/shutter/resources/system/plugins/shell/spoffset
+/usr/share/shutter/resources/system/plugins/shell/spoffset/spoffset.svg
+/usr/share/shutter/resources/system/plugins/shell/spoffset/spoffset
+/usr/share/shutter/resources/conf
+/usr/share/shutter/resources/conf/shape.conf
+/usr/share/shutter/resources/po
+/usr/share/shutter/resources/po/shutter-upload-plugins
+/usr/share/shutter/resources/po/shutter-upload-plugins/en_AU.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ug.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/th.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/zh_CN.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/zh_TW.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/nl.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/he.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/el.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/pl.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/fi.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ca.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ro.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/shutter-upload-plugins.pot
+/usr/share/shutter/resources/po/shutter-upload-plugins/pt_BR.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/bg.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/sv.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/it.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/da.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/cy.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/hu.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/hr.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ja.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/sk.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ko.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/gl.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/lv.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/es.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/nb.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/is.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/de.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/hi.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/sl.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ru.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/tr.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/fr.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/lt.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ms.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/et.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/shn.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/bn.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ar.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/pt.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/uk.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/ta.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/si.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/id.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/oc.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/fa.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/cs.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/sr.po
+/usr/share/shutter/resources/po/shutter-upload-plugins/en_GB.po
+/usr/share/shutter/resources/po/shutter-plugins
+/usr/share/shutter/resources/po/shutter-plugins/en_CA.po
+/usr/share/shutter/resources/po/shutter-plugins/ug.po
+/usr/share/shutter/resources/po/shutter-plugins/th.po
+/usr/share/shutter/resources/po/shutter-plugins/zh_CN.po
+/usr/share/shutter/resources/po/shutter-plugins/zh_TW.po
+/usr/share/shutter/resources/po/shutter-plugins/nl.po
+/usr/share/shutter/resources/po/shutter-plugins/he.po
+/usr/share/shutter/resources/po/shutter-plugins/shutter-plugins.pot
+/usr/share/shutter/resources/po/shutter-plugins/el.po
+/usr/share/shutter/resources/po/shutter-plugins/pl.po
+/usr/share/shutter/resources/po/shutter-plugins/fi.po
+/usr/share/shutter/resources/po/shutter-plugins/ca.po
+/usr/share/shutter/resources/po/shutter-plugins/ro.po
+/usr/share/shutter/resources/po/shutter-plugins/pt_BR.po
+/usr/share/shutter/resources/po/shutter-plugins/bg.po
+/usr/share/shutter/resources/po/shutter-plugins/sv.po
+/usr/share/shutter/resources/po/shutter-plugins/it.po
+/usr/share/shutter/resources/po/shutter-plugins/da.po
+/usr/share/shutter/resources/po/shutter-plugins/ur.po
+/usr/share/shutter/resources/po/shutter-plugins/cy.po
+/usr/share/shutter/resources/po/shutter-plugins/hu.po
+/usr/share/shutter/resources/po/shutter-plugins/hr.po
+/usr/share/shutter/resources/po/shutter-plugins/ja.po
+/usr/share/shutter/resources/po/shutter-plugins/sk.po
+/usr/share/shutter/resources/po/shutter-plugins/ko.po
+/usr/share/shutter/resources/po/shutter-plugins/gl.po
+/usr/share/shutter/resources/po/shutter-plugins/lv.po
+/usr/share/shutter/resources/po/shutter-plugins/es.po
+/usr/share/shutter/resources/po/shutter-plugins/nb.po
+/usr/share/shutter/resources/po/shutter-plugins/de.po
+/usr/share/shutter/resources/po/shutter-plugins/hi.po
+/usr/share/shutter/resources/po/shutter-plugins/sl.po
+/usr/share/shutter/resources/po/shutter-plugins/vi.po
+/usr/share/shutter/resources/po/shutter-plugins/bs.po
+/usr/share/shutter/resources/po/shutter-plugins/ru.po
+/usr/share/shutter/resources/po/shutter-plugins/tr.po
+/usr/share/shutter/resources/po/shutter-plugins/kk.po
+/usr/share/shutter/resources/po/shutter-plugins/fr.po
+/usr/share/shutter/resources/po/shutter-plugins/lt.po
+/usr/share/shutter/resources/po/shutter-plugins/ms.po
+/usr/share/shutter/resources/po/shutter-plugins/et.po
+/usr/share/shutter/resources/po/shutter-plugins/bn.po
+/usr/share/shutter/resources/po/shutter-plugins/ar.po
+/usr/share/shutter/resources/po/shutter-plugins/pt.po
+/usr/share/shutter/resources/po/shutter-plugins/uk.po
+/usr/share/shutter/resources/po/shutter-plugins/ta.po
+/usr/share/shutter/resources/po/shutter-plugins/si.po
+/usr/share/shutter/resources/po/shutter-plugins/te.po
+/usr/share/shutter/resources/po/shutter-plugins/id.po
+/usr/share/shutter/resources/po/shutter-plugins/oc.po
+/usr/share/shutter/resources/po/shutter-plugins/cs.po
+/usr/share/shutter/resources/po/shutter-plugins/sr.po
+/usr/share/shutter/resources/po/shutter-plugins/en_GB.po
+/usr/share/shutter/resources/po/shutter
+/usr/share/shutter/resources/po/shutter/shutter.pot
+/usr/share/shutter/resources/po/shutter/en_CA.po
+/usr/share/shutter/resources/po/shutter/ug.po
+/usr/share/shutter/resources/po/shutter/th.po
+/usr/share/shutter/resources/po/shutter/zh_CN.po
+/usr/share/shutter/resources/po/shutter/zh_TW.po
+/usr/share/shutter/resources/po/shutter/nl.po
+/usr/share/shutter/resources/po/shutter/he.po
+/usr/share/shutter/resources/po/shutter/el.po
+/usr/share/shutter/resources/po/shutter/pl.po
+/usr/share/shutter/resources/po/shutter/fi.po
+/usr/share/shutter/resources/po/shutter/fo.po
+/usr/share/shutter/resources/po/shutter/ca.po
+/usr/share/shutter/resources/po/shutter/ro.po
+/usr/share/shutter/resources/po/shutter/az.po
+/usr/share/shutter/resources/po/shutter/pt_BR.po
+/usr/share/shutter/resources/po/shutter/bg.po
+/usr/share/shutter/resources/po/shutter/sv.po
+/usr/share/shutter/resources/po/shutter/it.po
+/usr/share/shutter/resources/po/shutter/da.po
+/usr/share/shutter/resources/po/shutter/ur.po
+/usr/share/shutter/resources/po/shutter/cy.po
+/usr/share/shutter/resources/po/shutter/ber.po
+/usr/share/shutter/resources/po/shutter/hu.po
+/usr/share/shutter/resources/po/shutter/hr.po
+/usr/share/shutter/resources/po/shutter/ja.po
+/usr/share/shutter/resources/po/shutter/sk.po
+/usr/share/shutter/resources/po/shutter/ko.po
+/usr/share/shutter/resources/po/shutter/gl.po
+/usr/share/shutter/resources/po/shutter/af.po
+/usr/share/shutter/resources/po/shutter/lv.po
+/usr/share/shutter/resources/po/shutter/es.po
+/usr/share/shutter/resources/po/shutter/nb.po
+/usr/share/shutter/resources/po/shutter/nn.po
+/usr/share/shutter/resources/po/shutter/de.po
+/usr/share/shutter/resources/po/shutter/kn.po
+/usr/share/shutter/resources/po/shutter/hi.po
+/usr/share/shutter/resources/po/shutter/ast.po
+/usr/share/shutter/resources/po/shutter/sl.po
+/usr/share/shutter/resources/po/shutter/vi.po
+/usr/share/shutter/resources/po/shutter/bs.po
+/usr/share/shutter/resources/po/shutter/zh_HK.po
+/usr/share/shutter/resources/po/shutter/ru.po
+/usr/share/shutter/resources/po/shutter/tr.po
+/usr/share/shutter/resources/po/shutter/kk.po
+/usr/share/shutter/resources/po/shutter/fr.po
+/usr/share/shutter/resources/po/shutter/lt.po
+/usr/share/shutter/resources/po/shutter/be.po
+/usr/share/shutter/resources/po/shutter/ms.po
+/usr/share/shutter/resources/po/shutter/eu.po
+/usr/share/shutter/resources/po/shutter/et.po
+/usr/share/shutter/resources/po/shutter/shn.po
+/usr/share/shutter/resources/po/shutter/bn.po
+/usr/share/shutter/resources/po/shutter/ar.po
+/usr/share/shutter/resources/po/shutter/as.po
+/usr/share/shutter/resources/po/shutter/pt.po
+/usr/share/shutter/resources/po/shutter/uk.po
+/usr/share/shutter/resources/po/shutter/ta.po
+/usr/share/shutter/resources/po/shutter/si.po
+/usr/share/shutter/resources/po/shutter/te.po
+/usr/share/shutter/resources/po/shutter/id.po
+/usr/share/shutter/resources/po/shutter/oc.po
+/usr/share/shutter/resources/po/shutter/fa.po
+/usr/share/shutter/resources/po/shutter/hy.po
+/usr/share/shutter/resources/po/shutter/cs.po
+/usr/share/shutter/resources/po/shutter/sr.po
+/usr/share/shutter/resources/po/shutter/en_GB.po
+/usr/share/shutter/resources/license
+/usr/share/shutter/resources/license/gplv3
+/usr/share/shutter/resources/license/gplv3_hint
+/usr/share/shutter/resources/icons
+/usr/share/shutter/resources/icons/shutter_cursor_frame.png
+/usr/share/shutter/resources/icons/sel_window.svg
+/usr/share/shutter/resources/icons/executable.svg
+/usr/share/shutter/resources/icons/logo-imagebanana.png
+/usr/share/shutter/resources/icons/notify.svg
+/usr/share/shutter/resources/icons/lpi-help.png
+/usr/share/shutter/resources/icons/web_image.svg
+/usr/share/shutter/resources/icons/drawing_tool
+/usr/share/shutter/resources/icons/drawing_tool/draw-rectangle.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-text.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-raise.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-backtext.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-highlighter.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-lower.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-line.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-eraser.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-locked.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-freehand.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-callouts.png
+/usr/share/shutter/resources/icons/drawing_tool/cursor
+/usr/share/shutter/resources/icons/drawing_tool/cursor/ellipse
+/usr/share/shutter/resources/icons/drawing_tool/cursor/arrow
+/usr/share/shutter/resources/icons/drawing_tool/cursor/rect
+/usr/share/shutter/resources/icons/drawing_tool/cursor/text
+/usr/share/shutter/resources/icons/drawing_tool/cursor/censor
+/usr/share/shutter/resources/icons/drawing_tool/cursor/number
+/usr/share/shutter/resources/icons/drawing_tool/cursor/backtext
+/usr/share/shutter/resources/icons/drawing_tool/cursor/line
+/usr/share/shutter/resources/icons/drawing_tool/cursor/freehand
+/usr/share/shutter/resources/icons/drawing_tool/cursor/pixelize
+/usr/share/shutter/resources/icons/drawing_tool/draw-unlocked.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-ellipse.png
+/usr/share/shutter/resources/icons/drawing_tool/objects
+/usr/share/shutter/resources/icons/drawing_tool/objects/question.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/tux.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/cssed.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Horizontal Resize.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Handwriting.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Diagonal Resize 1.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Unavailable.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Text.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Normal.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Diagonal Resize 2.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Precision.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Link.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Move.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Help.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Vertical Resize.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Alternate.cur
+/usr/share/shutter/resources/icons/drawing_tool/objects/notice.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/error-round.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/information-yellow.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/information-red.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/error.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/warning.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/important-red.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/apply.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/software-update-urgent.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/image-loading.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-visiting.icon
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-transmit.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-severe-alert.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-drag-accept.icon
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/mail-attachment.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/dialog-warning.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-wireless-encrypted.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-drag-accept.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-transmit-receive.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-clear-night.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-showers-scattered.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-error.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-low.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/software-update-available.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/dialog-error.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/battery-caution.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/user-trash-full.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-visiting.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/image-missing.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-few-clouds-night.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-overcast.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-receive.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-medium.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-snow.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-storm.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-clear.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-idle.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/printer-error.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/dialog-information.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-muted.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-high.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-open.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-few-clouds.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-offline.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-showers.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-internet.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-graphics.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-accessories.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/preferences-desktop-peripherals.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/preferences-desktop.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-other.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-multimedia.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-system.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-games.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-office.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-development.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/preferences-system.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-screensaver.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-font.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-multimedia.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/utilities-terminal.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-system-network-proxy.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/office-calendar.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-software-update.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-file-manager.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/accessories-text-editor.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-mail.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-group-chat.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-keyboard-shortcuts.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/utilities-system-monitor.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-installer.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-web-browser.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-remote-desktop.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-assistive-technology.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/accessories-character-map.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-system-session.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-locale.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-users.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-theme.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/help-browser.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-accessibility.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/accessories-calculator.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-news-reader.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-system-windows.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-wallpaper.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-important.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-readonly.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-photos.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-favorite.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-symbolic-link.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-system.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-unreadable.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/audio-input-microphone.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/printer.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/drive-optical.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/battery.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/media-optical.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/video-display.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/input-mouse.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/media-floppy.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/media-flash.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/computer.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/network-wired.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/camera-video.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/network-wireless.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/input-keyboard.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/audio-card.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/drive-harddisk.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/camera-photo.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/multimedia-player.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/drive-removable-media.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/input-gaming.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/list-add.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-undo.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-playback-stop.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-first.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-down.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-reply-all.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-shutdown.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-properties.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-bold.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-save-as.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/address-book-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-search.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-playback-pause.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/window-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-delete.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-copy.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-find-replace.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/process-stop.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-last.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-mark-junk.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/tab-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-forward.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-log-out.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/bookmark-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-message-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/view-refresh.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/list-remove.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-select-all.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-previous.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-redo.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-paste.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-clear.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-indent-more.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-skip-backward.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-fill.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-jump.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-italic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-top.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-strikethrough.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-save.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-bottom.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/folder-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-seek-backward.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-print.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-home.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/contact-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-up.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-find.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-record.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-next.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-indent-less.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-skip-forward.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-lock-screen.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/appointment-new.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-send-receive.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-reply-sender.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-print-preview.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-open.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-underline.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-eject.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-seek-forward.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-playback-start.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-cut.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/view-fullscreen.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-wink.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-crying.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-monkey.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-smile-big.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-angel.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-kiss.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-sad.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-grin.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-devilish.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-surprise.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-glasses.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-plain.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-smile.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/user-home.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/network-workgroup.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/start-here.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder-remote.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/network-server.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder.icon
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder-saved-search.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/user-desktop.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/user-trash.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-drawing-template.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-drawing.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-document-template.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/application-x-executable.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-document.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/video-x-generic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/package-x-generic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-spreadsheet-template.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-presentation-template.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-spreadsheet.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-address-book.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-x-generic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/application-certificate.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-presentation.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/image-x-generic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-html.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-calendar.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/audio-x-generic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/font-x-generic.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-x-script.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-x-generic-template.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rectangle_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_right_top.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rounded_rectangle_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rectangle_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rounded_rectangle_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_round_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_left_top.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_circle_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_round_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_circle_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_center_top.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rounded_rectangle_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented_center.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_circle_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_center_bottom.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_round_left.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rectangle_right.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/stop-hand.svg
+/usr/share/shutter/resources/icons/drawing_tool/objects/star.svg
+/usr/share/shutter/resources/icons/drawing_tool/draw-pointer.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-pixelize.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-arrow.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-image.svg
+/usr/share/shutter/resources/icons/drawing_tool/transform-crop.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-censor.png
+/usr/share/shutter/resources/icons/drawing_tool/draw-number.png
+/usr/share/shutter/resources/icons/sel_window_section.svg
+/usr/share/shutter/resources/icons/document-send.svg
+/usr/share/shutter/resources/icons/fullscreen.svg
+/usr/share/shutter/resources/icons/throbber.gif
+/usr/share/shutter/resources/icons/Image.svg
+/usr/share/shutter/resources/icons/lpi-translate.png
+/usr/share/shutter/resources/icons/draw.svg
+/usr/share/shutter/resources/icons/Normal.cur
+/usr/share/shutter/resources/icons/shutter_cursor.png
+/usr/share/shutter/resources/icons/sel_window_active.svg
+/usr/share/shutter/resources/icons/lpi-bug.png
+/usr/share/shutter/resources/icons/throbber_16x16.gif
+/usr/share/shutter/resources/icons/desktop.svg
+/usr/share/shutter/resources/icons/selection.svg
+/usr/share/shutter/resources/icons/logo-imageshack.png
+/usr/share/shutter/resources/icons/sel_window_menu.svg
+/usr/share/shutter/resources/icons/sel_window_tooltip.svg
+/usr/share/doc
+/usr/share/doc/shutter
+/usr/share/doc/shutter/copyright
+/usr/share/doc/shutter/changelog.Debian.gz
+/usr/share/perl5
+/usr/share/perl5/Shutter
+/usr/share/perl5/Shutter/Draw
+/usr/share/perl5/Shutter/Draw/DrawingTool.pm
+/usr/share/perl5/Shutter/Upload
+/usr/share/perl5/Shutter/Upload/Shared.pm
+/usr/share/perl5/Shutter/Upload/FTP.pm
+/usr/share/perl5/Shutter/Geometry
+/usr/share/perl5/Shutter/Geometry/Region.pm
+/usr/share/perl5/Shutter/Screenshot
+/usr/share/perl5/Shutter/Screenshot/Web.pm
+/usr/share/perl5/Shutter/Screenshot/History.pm
+/usr/share/perl5/Shutter/Screenshot/Error.pm
+/usr/share/perl5/Shutter/Screenshot/Workspace.pm
+/usr/share/perl5/Shutter/Screenshot/Main.pm
+/usr/share/perl5/Shutter/Screenshot/WindowXid.pm
+/usr/share/perl5/Shutter/Screenshot/SelectorAdvanced.pm
+/usr/share/perl5/Shutter/Screenshot/Window.pm
+/usr/share/perl5/Shutter/Screenshot/SelectorAuto.pm
+/usr/share/perl5/Shutter/Screenshot/WindowName.pm
+/usr/share/perl5/Shutter/Pixbuf
+/usr/share/perl5/Shutter/Pixbuf/Border.pm
+/usr/share/perl5/Shutter/Pixbuf/Save.pm
+/usr/share/perl5/Shutter/Pixbuf/Thumbnail.pm
+/usr/share/perl5/Shutter/Pixbuf/Load.pm
+/usr/share/perl5/Shutter/App
+/usr/share/perl5/Shutter/App/Directories.pm
+/usr/share/perl5/Shutter/App/ShutterNotification.pm
+/usr/share/perl5/Shutter/App/SimpleDialogs.pm
+/usr/share/perl5/Shutter/App/TrashInfo.pm
+/usr/share/perl5/Shutter/App/Common.pm
+/usr/share/perl5/Shutter/App/Autostart.pm
+/usr/share/perl5/Shutter/App/AboutDialog.pm
+/usr/share/perl5/Shutter/App/Options.pm
+/usr/share/perl5/Shutter/App/GlobalSettings.pm
+/usr/share/perl5/Shutter/App/HelperFunctions.pm
+/usr/share/perl5/Shutter/App/Toolbar.pm
+/usr/share/perl5/Shutter/App/Notification.pm
+/usr/share/perl5/Shutter/App/Menu.pm
+/usr/share/perl5/Shutter/App/Optional
+/usr/share/perl5/Shutter/App/Optional/Exif.pm
+/usr/share/perl5/WebService
+/usr/share/perl5/WebService/Dropbox.pm
+/usr/share/icons
+/usr/share/icons/ubuntu-mono-dark
+/usr/share/icons/ubuntu-mono-dark/24x24
+/usr/share/icons/ubuntu-mono-dark/24x24/apps
+/usr/share/icons/ubuntu-mono-dark/24x24/apps/shutter-panel.png
+/usr/share/icons/ubuntu-mono-dark/22x22
+/usr/share/icons/ubuntu-mono-dark/22x22/apps
+/usr/share/icons/ubuntu-mono-dark/22x22/apps/shutter-panel.png
+/usr/share/icons/ubuntu-mono-dark/16x16
+/usr/share/icons/ubuntu-mono-dark/16x16/apps
+/usr/share/icons/ubuntu-mono-dark/16x16/apps/shutter-panel.png
+/usr/share/icons/ubuntu-mono-dark/scalable
+/usr/share/icons/ubuntu-mono-dark/scalable/apps
+/usr/share/icons/ubuntu-mono-dark/scalable/apps/shutter-panel.svg
+/usr/share/icons/hicolor
+/usr/share/icons/hicolor/96x96
+/usr/share/icons/hicolor/96x96/apps
+/usr/share/icons/hicolor/96x96/apps/shutter.png
+/usr/share/icons/hicolor/192x192
+/usr/share/icons/hicolor/192x192/apps
+/usr/share/icons/hicolor/192x192/apps/shutter.png
+/usr/share/icons/hicolor/64x64
+/usr/share/icons/hicolor/64x64/apps
+/usr/share/icons/hicolor/64x64/apps/shutter.png
+/usr/share/icons/hicolor/256x256
+/usr/share/icons/hicolor/256x256/apps
+/usr/share/icons/hicolor/256x256/apps/shutter.png
+/usr/share/icons/hicolor/24x24
+/usr/share/icons/hicolor/24x24/apps
+/usr/share/icons/hicolor/24x24/apps/shutter-panel.png
+/usr/share/icons/hicolor/24x24/apps/shutter.png
+/usr/share/icons/hicolor/72x72
+/usr/share/icons/hicolor/72x72/apps
+/usr/share/icons/hicolor/72x72/apps/shutter.png
+/usr/share/icons/hicolor/22x22
+/usr/share/icons/hicolor/22x22/apps
+/usr/share/icons/hicolor/22x22/apps/shutter-panel.png
+/usr/share/icons/hicolor/22x22/apps/shutter.png
+/usr/share/icons/hicolor/32x32
+/usr/share/icons/hicolor/32x32/apps
+/usr/share/icons/hicolor/32x32/apps/shutter.png
+/usr/share/icons/hicolor/48x48
+/usr/share/icons/hicolor/48x48/apps
+/usr/share/icons/hicolor/48x48/apps/shutter.png
+/usr/share/icons/hicolor/36x36
+/usr/share/icons/hicolor/36x36/apps
+/usr/share/icons/hicolor/36x36/apps/shutter.png
+/usr/share/icons/hicolor/16x16
+/usr/share/icons/hicolor/16x16/apps
+/usr/share/icons/hicolor/16x16/apps/shutter-panel.png
+/usr/share/icons/hicolor/16x16/apps/shutter.png
+/usr/share/icons/hicolor/scalable
+/usr/share/icons/hicolor/scalable/apps
+/usr/share/icons/hicolor/scalable/apps/shutter-panel.svg
+/usr/share/icons/hicolor/scalable/apps/shutter.svg
+/usr/share/icons/hicolor/128x128
+/usr/share/icons/hicolor/128x128/apps
+/usr/share/icons/hicolor/128x128/apps/shutter.png
+/usr/share/icons/ubuntu-mono-light
+/usr/share/icons/ubuntu-mono-light/24x24
+/usr/share/icons/ubuntu-mono-light/24x24/apps
+/usr/share/icons/ubuntu-mono-light/24x24/apps/shutter-panel.png
+/usr/share/icons/ubuntu-mono-light/22x22
+/usr/share/icons/ubuntu-mono-light/22x22/apps
+/usr/share/icons/ubuntu-mono-light/22x22/apps/shutter-panel.png
+/usr/share/icons/ubuntu-mono-light/16x16
+/usr/share/icons/ubuntu-mono-light/16x16/apps
+/usr/share/icons/ubuntu-mono-light/16x16/apps/shutter-panel.png
+/usr/share/icons/ubuntu-mono-light/scalable
+/usr/share/icons/ubuntu-mono-light/scalable/apps
+/usr/share/icons/ubuntu-mono-light/scalable/apps/shutter-panel.svg
+/usr/share/icons/HighContrast
+/usr/share/icons/HighContrast/scalable
+/usr/share/icons/HighContrast/scalable/apps
+/usr/share/icons/HighContrast/scalable/apps/shutter-panel.svg
+/usr/share/icons/HighContrast/scalable/apps/shutter.svg
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/shutter.1.gz

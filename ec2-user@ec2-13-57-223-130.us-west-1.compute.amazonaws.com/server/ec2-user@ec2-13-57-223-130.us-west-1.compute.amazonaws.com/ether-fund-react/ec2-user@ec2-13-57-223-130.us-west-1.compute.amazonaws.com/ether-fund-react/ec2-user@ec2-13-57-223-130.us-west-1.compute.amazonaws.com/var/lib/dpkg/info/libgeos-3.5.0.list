@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libgeos-3.5.0.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgeos-3.5.0
+/usr/share/doc/libgeos-3.5.0/copyright
+/usr/share/doc/libgeos-3.5.0/changelog.Debian.gz
+/usr/share/doc/libgeos-3.5.0/NEWS.Debian.gz

@@ -1,0 +1,8 @@
+# This is private data. Do not parse.
+WHAT=handle-power-key:handle-suspend-key:handle-hibernate-key
+MODE=block
+UID=1000
+PID=1489
+WHO=donquixote
+WHY=GNOME handling keypresses
+FIFO=/run/systemd/inhibit/4.ref

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Perintah">
+							<longdesc>Perintah yang dijalankan bagi tipe pemberitahuan &quot;perintah&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Ulangi Suara">
+							<longdesc>Apakah akan mengulang suara alarm.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Berkas Suara">
+							<longdesc>Berkas suara untuk dimainkan bagi tipe pemberitahuan &quot;suara&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Jenis Pemberitahuan">
+							<longdesc>Tipe pemberitahuan yang dipakai ketika alarm terjadi. Ini bisa salah satu dari: &quot;sound&quot; (suara) untuk memainkan suatu suara (dinyatakan dalam properti &quot;sound_file&quot;), &quot;command&quot; (perintah) untuk menjalankan suatu perintah (dinyatakan dalam properti &quot;command&quot;).</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Ulangi Alarm">
+							<longdesc>Daftar hari ketika alarm mesti diulang. Tatanan ini hanya berlaku bagi alarm &quot;jam&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Status Alarm Berjalan">
+							<longdesc>Terindikasi apakah alarm sudah mulai.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Pesan Alarm">
+							<longdesc>Pesan singkat yang mendeskripsikan alarm.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Waktu Alarm">
+							<longdesc>Waktu bagi alarm. Mesti dalam GMT bagi alarm &quot;jam&quot; atau lama waktu dalam detik bagi alarm &quot;pewaktu&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Penanda Waktu Alarm">
+							<longdesc>Penanda waktu UNIX bagi alarm. Mesti ditata sebelum alarm diaktifkan.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Tipe Alarm">
+							<longdesc>Tipe alarm. Bisa &quot;clock&quot; untuk alarm pada suatu saat, atau &quot;timer&quot; untuk alarm setelah suatu perioda waktu yang dinyatakan.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

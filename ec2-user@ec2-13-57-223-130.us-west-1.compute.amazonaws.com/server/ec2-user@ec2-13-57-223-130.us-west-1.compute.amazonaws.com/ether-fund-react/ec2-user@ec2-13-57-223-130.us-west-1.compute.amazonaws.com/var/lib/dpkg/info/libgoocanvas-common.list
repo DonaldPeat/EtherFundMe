@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/locale
+/usr/share/locale/en_GB
+/usr/share/locale/en_GB/LC_MESSAGES
+/usr/share/locale/en_GB/LC_MESSAGES/goocanvas.mo
+/usr/share/locale/es
+/usr/share/locale/es/LC_MESSAGES
+/usr/share/locale/es/LC_MESSAGES/goocanvas.mo
+/usr/share/locale/ja
+/usr/share/locale/ja/LC_MESSAGES
+/usr/share/locale/ja/LC_MESSAGES/goocanvas.mo
+/usr/share/doc
+/usr/share/doc/libgoocanvas-common
+/usr/share/doc/libgoocanvas-common/copyright
+/usr/share/doc/libgoocanvas-common/changelog.Debian.gz

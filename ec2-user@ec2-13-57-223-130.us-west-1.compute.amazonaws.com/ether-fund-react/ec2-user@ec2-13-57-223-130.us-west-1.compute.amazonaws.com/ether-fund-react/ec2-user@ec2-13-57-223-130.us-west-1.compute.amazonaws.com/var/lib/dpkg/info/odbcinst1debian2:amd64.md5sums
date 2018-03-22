@@ -1,0 +1,16 @@
+c6c6005ac2dbebf9ff636929b2538db5  usr/lib/x86_64-linux-gnu/libodbcinst.so.2.0.0
+b62e0b0f91d13e89a76125f28b8c623e  usr/lib/x86_64-linux-gnu/odbc/libesoobS.so
+e6f32849a8d9cb8b22efb94f20f66712  usr/lib/x86_64-linux-gnu/odbc/libmimerS.so
+cdda03e9632e69d494195635c23eb0a8  usr/lib/x86_64-linux-gnu/odbc/libodbcdrvcfg1S.so
+6089fbd718347bcfa2f7f2c6772907c7  usr/lib/x86_64-linux-gnu/odbc/libodbcdrvcfg2S.so
+b05b4622e78f00a5a2fb13ab6e5c696e  usr/lib/x86_64-linux-gnu/odbc/libodbcminiS.so
+81fab0b077b741c53a5c46a3ff67af23  usr/lib/x86_64-linux-gnu/odbc/libodbcmyS.so
+9c16c763ef49bc522134a054db8cf8c4  usr/lib/x86_64-linux-gnu/odbc/libodbcnnS.so
+e7e891b844ac76245d1768bd3a9774a5  usr/lib/x86_64-linux-gnu/odbc/libodbcpsqlS.so
+a65a2c5eb2b2bb28eea905c098a566f5  usr/lib/x86_64-linux-gnu/odbc/libodbctxtS.so
+6eea5c5bc51b95e3319b070cd0a243ac  usr/lib/x86_64-linux-gnu/odbc/liboplodbcS.so
+8740f91ca68061048bd02e1ffae78bc8  usr/lib/x86_64-linux-gnu/odbc/liboraodbcS.so
+a9f9999d9fbc472d4990fb4cae54d8a3  usr/lib/x86_64-linux-gnu/odbc/libsapdbS.so
+df711f6f65f4d2aa5d569bc851457861  usr/lib/x86_64-linux-gnu/odbc/libtdsS.so
+0b1e9837a9135ddbba7fbb425d78cd4e  usr/share/doc/odbcinst1debian2/copyright
+245cd2f7ec99342ab3fcca1d52be797b  usr/share/lintian/overrides/odbcinst1debian2

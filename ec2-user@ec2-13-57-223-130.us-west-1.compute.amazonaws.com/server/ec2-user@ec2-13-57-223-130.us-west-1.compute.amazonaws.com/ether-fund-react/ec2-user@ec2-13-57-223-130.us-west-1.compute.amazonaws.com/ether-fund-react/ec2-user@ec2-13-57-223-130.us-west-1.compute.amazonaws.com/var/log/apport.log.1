@@ -1,0 +1,12 @@
+ERROR: apport (pid 25416) Mon Mar 19 07:18:36 2018: called for pid 19232, signal 11, core limit 0, dump mode 1
+ERROR: ERROR: apport (pid 25416) Mon Mar 19 07:18:36 2018: Unhandled exception:
+Traceback (most recent call last):
+  File "/usr/share/apport/apport", line 512, in <module>
+    (info['ExecutablePath'], info['ProcCmdline']))
+  File "/usr/share/apport/apport", line 123, in error_log
+    apport.error('apport (pid %s) %s: %s', os.getpid(), time.asctime(), msg)
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 44, in error
+    sys.stderr.write(msg % args)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 1013-1129: ordinal not in range(128)
+ERROR: apport (pid 25416) Mon Mar 19 07:18:36 2018: pid: 25416, uid: 1000, gid: 1000, euid: 0, egid: 0
+ERROR: apport (pid 25416) Mon Mar 19 07:18:36 2018: environment: environ({})

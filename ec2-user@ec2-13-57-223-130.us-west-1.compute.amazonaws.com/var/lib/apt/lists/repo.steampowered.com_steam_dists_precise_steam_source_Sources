@@ -1,0 +1,25 @@
+Package: steam
+Format: 3.0 (native)
+Binary: steam-launcher, steam
+Architecture: all i386
+Version: 1.0.0.54
+Maintainer: Valve Corporation <linux@steampowered.com>
+Homepage: http://www.steampowered.com/
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 8.0.0), python-all (>= 2.6.6-3~)
+Package-List:
+ steam deb oldlibs extra
+ steam-launcher deb games optional
+Priority: optional
+Section: games
+Directory: pool/steam/s/steam
+Files: 
+ 7f0b3a5892da026d66a65e51003546f3 1178 steam_1.0.0.54.dsc
+ d1398490635615c428165e984a1ec71b 2750102 steam_1.0.0.54.tar.gz
+Checksums-Sha1: 
+ d7439f366b31b0e7127beaf1c0f9b5ce4476ce91 1178 steam_1.0.0.54.dsc
+ a6c8726104f1b0191f385feaa68ad16eb535278a 2750102 steam_1.0.0.54.tar.gz
+Checksums-Sha256: 
+ 99786ef1f5b5165191dd1c3c8bd2c874248e6862d4cc44b898e85a89daf0a5ff 1178 steam_1.0.0.54.dsc
+ 42531bf2615afed54c333ae9afeebe8cb68a31304ddfcf90e61b3532a5597386 2750102 steam_1.0.0.54.tar.gz
+

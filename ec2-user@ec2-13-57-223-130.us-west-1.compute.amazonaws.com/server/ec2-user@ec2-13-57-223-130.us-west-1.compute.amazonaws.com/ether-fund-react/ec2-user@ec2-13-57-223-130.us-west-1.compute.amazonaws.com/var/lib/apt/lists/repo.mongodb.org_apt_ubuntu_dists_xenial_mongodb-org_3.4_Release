@@ -1,0 +1,40 @@
+Origin: mongodb
+Label: mongodb
+Suite: xenial
+Codename: xenial/mongodb-org
+Architectures: amd64 arm64 i386
+Components: multiverse
+Description: MongoDB packages
+Date: Wed, 25 Oct 2017 20:50:52 UTC
+MD5Sum:
+ 59140f1368820d50777ff69a8f0968ba             3457 Release
+ af7af6a5bdd308b719f4681d3582ad46           185283 multiverse/binary-amd64/Packages
+ 0c5b8bac4b747141053659735ed9afa8             8276 multiverse/binary-amd64/Packages.gz
+ 832c8e2f428662eb66c40c527d11830f           185283 multiverse/binary-arm64/Packages
+ b086c0701e494b1ae10191ca10916940             8284 multiverse/binary-arm64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 multiverse/binary-i386/Packages
+ f11a2de86b5d9ba069a5af71f460f514               23 multiverse/binary-i386/Packages.gz
+SHA1:
+ 3c0deff0e4a404bf4f82eb221c63990be41205a1             3457 Release
+ ef6c5bb90c23c8fc481efe96124891e4172b9407           185283 multiverse/binary-amd64/Packages
+ b8015d846f4a9966cf96d9687ac329eb65171131             8276 multiverse/binary-amd64/Packages.gz
+ b184b6790f6b9d343898df54b5b7a8ab68408ba4           185283 multiverse/binary-arm64/Packages
+ 74f439d0e6ab761eaccfaf870d2da65403839806             8284 multiverse/binary-arm64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 multiverse/binary-i386/Packages
+ 55672b582e908e028dc47deeac4b3bea6f904b71               23 multiverse/binary-i386/Packages.gz
+SHA256:
+ 88881d7de1ab80fc8c2302c1d60bd5fbcc81304cdce424776f614302021f7ba8             3457 Release
+ 5b6f340ad889409874ae6c4ca8f102ddcffd4cb52982b75e8b4686827bdb21b5           185283 multiverse/binary-amd64/Packages
+ a085a9522fcaecff03e99862450d7192f5439b4a235f1bb39b99cbc90fa243be             8276 multiverse/binary-amd64/Packages.gz
+ 45840fb9f0b8038b54ee13d9b04f983e1fff2ddf42a36b715acc88ab386d2bd6           185283 multiverse/binary-arm64/Packages
+ b2302bf6b02819bbc1a74f9a1708c1f248a26026378e5018777806ce68777098             8284 multiverse/binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 multiverse/binary-i386/Packages
+ 4227d8856e9381f7d7e815786e3871d88a725507e6605311486aa1511f49b1bc               23 multiverse/binary-i386/Packages.gz
+SHA512:
+ 3ad8d33f086589002e86d71171c6d732ec30e6dcb525e0cbb5d8761dcf2096d776585e36809bde8572fa2fd176b23d992c1b300c990e6d539f2c27ae1e9188c5             3457 Release
+ 86b15fbcf9559538d0da707b690ea7ae1369fa98f6f4a864add4226b1e9d628b949846611d897b34e81648daef280e154ef58f27c1013a7a8250876bf9cda8a1           185283 multiverse/binary-amd64/Packages
+ def93a3e86e8400735f8b89c68936b6d27299448c831c18367e901a165b11f35c0d26ffee8c5d4d547bf8bf74ceec06eaca779317a1005a36ec778b460aaacf5             8276 multiverse/binary-amd64/Packages.gz
+ 5a63ace9a912919a806681da089cf2e78c1d542d544dd7f5dfdf279acd83ce0f0e4793d72c37b95b16436ef5a7991a471472ace839bcbb8fa58fa93307c903e1           185283 multiverse/binary-arm64/Packages
+ 5e1be23f786c45748d7c4946eaa0ac5bad55da475ae60e14bfc9391d0318365619905b84a694724f5136d56581116775cafd22bed8442ba0970767f247fa4c2b             8284 multiverse/binary-arm64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 multiverse/binary-i386/Packages
+ c16467760bd3220eb6d6d38ed10f7e773a98ba2de65622744277d284db86d951bd1f21f5d36f65d8e1a50278f567b6049ae7cff5234b9ea0fb53a3163de404ed               23 multiverse/binary-i386/Packages.gz

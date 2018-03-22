@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="უკუთვლის წარწერის ჩვენება">
+						<longdesc>ხატულის მარჯვენა მხარეს წარწერა დროით შემდეგი მაღვიძარის ჩართვამდე.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="ბრძანება">
+							<longdesc>შესასრულებელი ბრძანება &quot;ბძანების&quot; შეტყობინებისათვის.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="ხმის გამეორება">
+							<longdesc>მაღვიძარის ხმის გამეორება.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="ხმოვანი ფაილი">
+							<longdesc>დასაკვრელი ხმოვანი ფაილი &quot;ხმოვანი&quot; შეტყობინებისათვის.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="შეტყობინების ტიპი">
+							<longdesc>მოქმედება მაღვიძარის ჩართვისას. აირჩიეთ ერთ-ერთი: ხმოვანი ფაილის დაკვრა (უნდა მიუთითოთ &quot;sound_file&quot; ), ან ბრძანების შესრულება (მიუთითებთ ველში &quot;ბრძანება&quot;)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="მაღვიძარის გამეორება">
+							<longdesc>დღეების ჩამონათვალი, როცა განგაში გამეორდება. ეს პარამეტრი გამოყენებადია მხოლოდ &quot;მაღვიძარისთვის&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="მაღვიძარის მდგომარეობა">
+							<longdesc>აჩვენებს მაღვიძარა ჩართულია თუ არა.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="მაღვიძარის შეტყობინება">
+							<longdesc>მაღვიძარის მოკლე აღწერა</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="მაღვიძარის დრო">
+							<longdesc>ჩართვის დრო. მიუთითეთ დრო GMT-ს მიხედვით &quot;მაღვიძარისთვის&quot;, ან დრო წამებში &quot;წამზომისთვის&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="მაღვიძარის დროის ანაბეჭდი">
+							<longdesc>UNIX დროის ანაბეჭდი მაღვიძარისათვის. უნდა იყოს მითითებული მაღვიძარის გააქტიურებამდე.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="მაღვიძარის ტიპი">
+							<longdesc>განგაშის სახეობა. &quot;მაღვიძარა&quot; ჩაირთვება მოცემულ დროს, ხოლო &quot;წამზომი&quot; კი - მითითებული დროის შემდეგ.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

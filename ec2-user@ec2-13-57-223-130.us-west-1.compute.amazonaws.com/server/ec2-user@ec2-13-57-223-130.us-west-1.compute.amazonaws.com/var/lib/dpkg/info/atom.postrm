@@ -1,0 +1,14 @@
+#!/bin/bash
+
+set -e
+
+case "$1" in
+	remove|abort-install|purge)
+		rm -f /usr/bin/apm
+		rm -rf "/opt/atom"
+	;;
+esac
+
+
+
+exit 0

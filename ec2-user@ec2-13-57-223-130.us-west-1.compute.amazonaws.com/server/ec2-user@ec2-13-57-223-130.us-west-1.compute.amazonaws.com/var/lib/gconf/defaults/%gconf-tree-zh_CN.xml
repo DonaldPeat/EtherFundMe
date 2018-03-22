@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="查看倒计时标签">
+						<longdesc>是否在图标右侧显示距离下次闹铃的剩余时间。</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="命令">
+							<longdesc>“命令”通知类型下要运行的命令。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="重复响铃">
+							<longdesc>是否要重复闹钟响铃。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="声音文件">
+							<longdesc>“响铃”通知类型下要播放的声音文件。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="通知类型">
+							<longdesc>闹钟起闹时的通知类型。可以是下列之一：“响铃” 播放一个声音文件(在“声音文件”属性中指定。) “命令” 运行一个命令(在“命令”属性中指定。)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="循环闹铃">
+							<longdesc>闹钟的重复列表。此设置仅应用于“时钟”闹钟。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="闹钟运行状态">
+							<longdesc>用于指示闹钟是否启动。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="闹钟消息">
+							<longdesc>描述闹钟的简短消息。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="闹铃时间">
+							<longdesc>闹铃时间。“时钟”闹钟下应为 GMT 时间，“计时器”闹钟下应为秒长。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="闹铃时间戳">
+							<longdesc>闹钟的 UNIX 时间戳。必须在闹钟激活前设定。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="闹铃类型">
+							<longdesc>闹钟类型。“时钟”为在特定时间起闹，“计时器”为经过一特定时间段后起闹。</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

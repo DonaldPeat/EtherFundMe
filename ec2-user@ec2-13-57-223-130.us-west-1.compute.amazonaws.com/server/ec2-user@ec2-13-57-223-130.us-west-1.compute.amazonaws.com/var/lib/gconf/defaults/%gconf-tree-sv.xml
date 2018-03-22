@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Visa nedräkning">
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Kommando">
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Upprepa ljud">
+							<longdesc>Om alarmljudet ska upprepas.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Ljudfil">
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Meddelandetyp">
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Återupprepa alarm">
+							<longdesc>En lista på dagar när alarmet ska återupprepas. Denna inställning är endast tillgänglig för väckarklockor.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Tillstånd: Alarmet körs">
+							<longdesc>Indikerar om alarmet har startat.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Alarm-meddelande">
+							<longdesc>En kort beskrivning av alarmet</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Alarmtid">
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Tidsstämpel för alarm">
+							<longdesc>UNIX-tidsstämpeln för alarmet. Måste sättas innan alarmet aktiveras.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Alarmtyp">
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

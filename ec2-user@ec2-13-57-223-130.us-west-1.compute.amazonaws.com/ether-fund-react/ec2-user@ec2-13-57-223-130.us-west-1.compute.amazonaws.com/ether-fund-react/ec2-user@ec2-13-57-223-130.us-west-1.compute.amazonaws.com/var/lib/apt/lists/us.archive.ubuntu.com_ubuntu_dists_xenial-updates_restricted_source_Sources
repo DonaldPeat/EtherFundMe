@@ -1,0 +1,190 @@
+Package: bcmwl
+Format: 1.0
+Binary: bcmwl-kernel-source
+Architecture: i386 amd64
+Version: 6.30.223.271+bdcom-0ubuntu1~1.2
+Priority: optional
+Section: restricted/admin
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Alberto Milone <alberto.milone@canonical.com>
+Standards-Version: 3.9.1
+Build-Depends: debhelper (>= 7.0.50~), dh-modaliases
+Directory: pool/restricted/b/bcmwl
+Package-List:
+ bcmwl-kernel-source deb admin optional arch=i386,amd64
+Files:
+ 29e617e8b42e8e38eccef14a516c49d1 1890 bcmwl_6.30.223.271+bdcom-0ubuntu1~1.2.dsc
+ 4381c7c0eb0fe569e803212c6419aff1 5661606 bcmwl_6.30.223.271+bdcom.orig.tar.gz
+ b0de4a22f25606a7d03ddd8eb6a4209e 24462 bcmwl_6.30.223.271+bdcom-0ubuntu1~1.2.diff.gz
+Checksums-Sha1:
+ ad32095ddb5720aa89636d5fbf431acd6adb1a23 1890 bcmwl_6.30.223.271+bdcom-0ubuntu1~1.2.dsc
+ a72d2526235399ea43ff4ba1bf156b581e915f0c 5661606 bcmwl_6.30.223.271+bdcom.orig.tar.gz
+ c58ba79c1b042e722d2d810e1294fa820dfdbea8 24462 bcmwl_6.30.223.271+bdcom-0ubuntu1~1.2.diff.gz
+Checksums-Sha256:
+ ab01c5fe6d034561ee0ba37e52dd42f60fd88fe5d7a549326e9f125166d28c90 1890 bcmwl_6.30.223.271+bdcom-0ubuntu1~1.2.dsc
+ c2e88bb1a311ee80846a7802ebabcb4f3351354de4fc8712254cd19b08e5d2c4 5661606 bcmwl_6.30.223.271+bdcom.orig.tar.gz
+ 021ba1ddd5934300a4ac768373edeec2fdae460b9a6de771f6f1936f6f49b241 24462 bcmwl_6.30.223.271+bdcom-0ubuntu1~1.2.diff.gz
+
+Package: nvidia-graphics-drivers-304
+Format: 1.0
+Binary: nvidia-304, nvidia-304-dev, libcuda1-304, nvidia-libopencl1-304, nvidia-opencl-icd-304, nvidia-304-updates, nvidia-304-updates-dev, nvidia-libopencl1-304-updates, nvidia-opencl-icd-304-updates, libcuda1-304-updates, nvidia-current, nvidia-current-dev
+Architecture: i386 amd64
+Version: 304.135-0ubuntu0.16.04.2
+Priority: optional
+Section: restricted/misc
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 6.0.7~), sed (>> 3.0), libxext6, bzip2, xserver-xorg-dev (>= 2:1.4), execstack, cdbs, libc6, libxvmc1, dh-modaliases, libxv1
+Vcs-Browser: http://github.com/tseliot/nvidia-graphics-drivers
+Vcs-Git: git://github.com/tseliot/nvidia-graphics-drivers.git
+Directory: pool/restricted/n/nvidia-graphics-drivers-304
+Package-List:
+ libcuda1-304 deb restricted/misc optional arch=i386,amd64
+ libcuda1-304-updates deb restricted/misc optional arch=i386,amd64
+ nvidia-304 deb restricted/misc optional arch=i386,amd64
+ nvidia-304-dev deb restricted/misc optional arch=i386,amd64
+ nvidia-304-updates deb restricted/misc optional arch=i386,amd64
+ nvidia-304-updates-dev deb restricted/misc optional arch=i386,amd64
+ nvidia-current deb restricted/misc optional arch=i386,amd64
+ nvidia-current-dev deb restricted/misc optional arch=i386,amd64
+ nvidia-libopencl1-304 deb restricted/misc optional arch=i386,amd64
+ nvidia-libopencl1-304-updates deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-304 deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-304-updates deb restricted/misc optional arch=i386,amd64
+Files:
+ 688ddd0baea29f1f4dadced0ad993ad5 3120 nvidia-graphics-drivers-304_304.135-0ubuntu0.16.04.2.dsc
+ 3e2a9309d59fb68fa4042aae27a70c03 80798330 nvidia-graphics-drivers-304_304.135.orig.tar.gz
+ 3b8005f4cc1c9ed0063ef3a0a78fbd2a 154137 nvidia-graphics-drivers-304_304.135-0ubuntu0.16.04.2.diff.gz
+Checksums-Sha1:
+ 1a06d393b4a65d2b6f4e6fea732202a153e0be19 3120 nvidia-graphics-drivers-304_304.135-0ubuntu0.16.04.2.dsc
+ 7c8d324aa8c78e0010811d5e4202dbf1f5d59c32 80798330 nvidia-graphics-drivers-304_304.135.orig.tar.gz
+ 655b6c2e4b3abb26e22071cfbc05997e58054ba0 154137 nvidia-graphics-drivers-304_304.135-0ubuntu0.16.04.2.diff.gz
+Checksums-Sha256:
+ 8621041365138178d975fded2515101a827764a988510f9d11f6fbf81f12038e 3120 nvidia-graphics-drivers-304_304.135-0ubuntu0.16.04.2.dsc
+ a318c91ed95602d34793ba5bc3029d7ba98d42df96c4dc836dc635e61b3408f1 80798330 nvidia-graphics-drivers-304_304.135.orig.tar.gz
+ 577ae18dd464f337b30fc02b137d363eee9a3ddb17aace018f5583517ff39b3f 154137 nvidia-graphics-drivers-304_304.135-0ubuntu0.16.04.2.diff.gz
+
+Package: nvidia-graphics-drivers-340
+Format: 1.0
+Binary: nvidia-340, nvidia-340-dev, libcuda1-340, nvidia-libopencl1-340, nvidia-opencl-icd-340, nvidia-340-uvm, nvidia-331, nvidia-331-dev, nvidia-331-uvm, nvidia-libopencl1-331, nvidia-opencl-icd-331, libcuda1-331, nvidia-331-updates, nvidia-331-updates-dev, nvidia-331-updates-uvm, nvidia-libopencl1-331-updates, nvidia-opencl-icd-331-updates, libcuda1-331-updates, nvidia-340-updates, nvidia-340-updates-dev, nvidia-libopencl1-340-updates, nvidia-opencl-icd-340-updates, libcuda1-340-updates
+Architecture: i386 amd64 armhf
+Version: 340.104-0ubuntu0.16.04.1
+Priority: optional
+Section: restricted/misc
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 8.0.0), sed (>> 3.0), libxext6, bzip2, xserver-xorg-dev (>= 2:1.4), execstack, libc6, libxvmc1, dh-modaliases, libxv1
+Vcs-Browser: http://github.com/tseliot/nvidia-graphics-drivers
+Vcs-Git: git://github.com/tseliot/nvidia-graphics-drivers.git
+Directory: pool/restricted/n/nvidia-graphics-drivers-340
+Package-List:
+ libcuda1-331 deb restricted/misc optional arch=i386,amd64,armhf
+ libcuda1-331-updates deb restricted/misc optional arch=i386,amd64,armhf
+ libcuda1-340 deb restricted/misc optional arch=i386,amd64,armhf
+ libcuda1-340-updates deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-331 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-331-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-331-updates deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-331-updates-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-331-updates-uvm deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-331-uvm deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-340 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-340-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-340-updates deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-340-updates-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-340-uvm deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-libopencl1-331 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-libopencl1-331-updates deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-libopencl1-340 deb restricted/misc optional arch=i386,amd64
+ nvidia-libopencl1-340-updates deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-331 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-opencl-icd-331-updates deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-opencl-icd-340 deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-340-updates deb restricted/misc optional arch=i386,amd64
+Files:
+ 142335f0f14e541fc815385e2cbfadd7 4203 nvidia-graphics-drivers-340_340.104-0ubuntu0.16.04.1.dsc
+ 80614794b5e0c6cf33dcb60d99a34f4b 100909155 nvidia-graphics-drivers-340_340.104.orig.tar.gz
+ 1f423474dea73274138333d064def178 155887 nvidia-graphics-drivers-340_340.104-0ubuntu0.16.04.1.diff.gz
+Checksums-Sha1:
+ 0994153285ee6d413c8ce8fce2d4ddea81d8ed14 4203 nvidia-graphics-drivers-340_340.104-0ubuntu0.16.04.1.dsc
+ 611f4df64de43d01a734325abc9f4ecffe5cc0b2 100909155 nvidia-graphics-drivers-340_340.104.orig.tar.gz
+ 340a901cb2f73e5f0cf8f7c4a564d1735e8450a5 155887 nvidia-graphics-drivers-340_340.104-0ubuntu0.16.04.1.diff.gz
+Checksums-Sha256:
+ 6e7a6781f5f86566bcfd3aca555a8775e08ce7bd821780c508624c7143a152f4 4203 nvidia-graphics-drivers-340_340.104-0ubuntu0.16.04.1.dsc
+ f0883d7c29a073e8eb9d727790128285b84d19499bcc7baee29c4204ad417ea0 100909155 nvidia-graphics-drivers-340_340.104.orig.tar.gz
+ d178e86a7b98731d143e4160f28be8b909507e0a778b513069b48f2fce728b91 155887 nvidia-graphics-drivers-340_340.104-0ubuntu0.16.04.1.diff.gz
+
+Package: nvidia-graphics-drivers-367
+Format: 1.0
+Binary: nvidia-367, nvidia-367-dev, libcuda1-367, nvidia-libopencl1-367, nvidia-opencl-icd-367, nvidia-361, nvidia-361-dev, nvidia-libopencl1-361, nvidia-opencl-icd-361, libcuda1-361
+Architecture: i386 amd64 armhf
+Version: 367.57-0ubuntu0.16.04.1
+Priority: optional
+Section: restricted/misc
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 8.0.0), sed (>> 3.0), libxext6, bzip2, xserver-xorg-dev (>= 2:1.4), execstack, libc6, libxvmc1, dh-modaliases, libxv1, libwayland-dev
+Vcs-Browser: http://github.com/tseliot/nvidia-graphics-drivers
+Vcs-Git: git://github.com/tseliot/nvidia-graphics-drivers.git
+Directory: pool/restricted/n/nvidia-graphics-drivers-367
+Package-List:
+ libcuda1-361 deb restricted/misc optional arch=i386,amd64,armhf
+ libcuda1-367 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-361 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-361-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-367 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-367-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-libopencl1-361 deb restricted/misc optional arch=i386,amd64
+ nvidia-libopencl1-367 deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-361 deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-367 deb restricted/misc optional arch=i386,amd64
+Files:
+ 6e703e43394db79ab3520b6301711d8e 2925 nvidia-graphics-drivers-367_367.57-0ubuntu0.16.04.1.dsc
+ 90647b0560c1f19fe9b70336f7abe42a 113304872 nvidia-graphics-drivers-367_367.57.orig.tar.gz
+ 6fd7c0afddfae103aa18fdf92437b0d7 156121 nvidia-graphics-drivers-367_367.57-0ubuntu0.16.04.1.diff.gz
+Checksums-Sha1:
+ 481827cf28a595a5a98b559c8d9227d53312de1c 2925 nvidia-graphics-drivers-367_367.57-0ubuntu0.16.04.1.dsc
+ c0183a362a0c468ada19787d5730fe9ded0a618d 113304872 nvidia-graphics-drivers-367_367.57.orig.tar.gz
+ 03387778d40467cad3fdd2e35c8ec803f3f13426 156121 nvidia-graphics-drivers-367_367.57-0ubuntu0.16.04.1.diff.gz
+Checksums-Sha256:
+ 67255ba0cb0f36ddeff0235470f907a5d1e40c8439fae0455eac18f62e27282e 2925 nvidia-graphics-drivers-367_367.57-0ubuntu0.16.04.1.dsc
+ 0671c5391c5d479c3f9e6cd564cef137177757b70ae54b4cde92d6eccba2960c 113304872 nvidia-graphics-drivers-367_367.57.orig.tar.gz
+ 154110284e76d7f1c477c51843a9e6f8c17e4a048c252646f693a98152f7b3b2 156121 nvidia-graphics-drivers-367_367.57-0ubuntu0.16.04.1.diff.gz
+
+Package: nvidia-graphics-drivers-375
+Format: 1.0
+Binary: nvidia-375, nvidia-375-dev, libcuda1-375, nvidia-libopencl1-375, nvidia-opencl-icd-375, nvidia-367, nvidia-367-dev, nvidia-libopencl1-367, nvidia-opencl-icd-367, libcuda1-367
+Architecture: i386 amd64 armhf
+Version: 375.66-0ubuntu0.16.04.1
+Priority: optional
+Section: restricted/misc
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 8.0.0), sed (>> 3.0), libxext6, bzip2, xserver-xorg-dev (>= 2:1.4), execstack, libc6, libxvmc1, dh-modaliases, libxv1, libwayland-dev
+Vcs-Browser: http://github.com/tseliot/nvidia-graphics-drivers
+Vcs-Git: git://github.com/tseliot/nvidia-graphics-drivers.git
+Directory: pool/restricted/n/nvidia-graphics-drivers-375
+Package-List:
+ libcuda1-367 deb restricted/misc optional arch=i386,amd64,armhf
+ libcuda1-375 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-367 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-367-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-375 deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-375-dev deb restricted/misc optional arch=i386,amd64,armhf
+ nvidia-libopencl1-367 deb restricted/misc optional arch=i386,amd64
+ nvidia-libopencl1-375 deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-367 deb restricted/misc optional arch=i386,amd64
+ nvidia-opencl-icd-375 deb restricted/misc optional arch=i386,amd64
+Files:
+ 37127467f62da9b81ac8b5199d7eb8f7 2925 nvidia-graphics-drivers-375_375.66-0ubuntu0.16.04.1.dsc
+ a37a2fb48080b5ad78a9db1ed5edf0b2 112867659 nvidia-graphics-drivers-375_375.66.orig.tar.gz
+ e8feb251833ea179e16357581f249268 160384 nvidia-graphics-drivers-375_375.66-0ubuntu0.16.04.1.diff.gz
+Checksums-Sha1:
+ 796ab7b1278bd4b1f069358431f27e5349f70565 2925 nvidia-graphics-drivers-375_375.66-0ubuntu0.16.04.1.dsc
+ 03b9e4ed39a1aac181c4d1c5821ac73972f0b91d 112867659 nvidia-graphics-drivers-375_375.66.orig.tar.gz
+ 2031dc4c1c47c006cb73301be9fc5fce5c28aca8 160384 nvidia-graphics-drivers-375_375.66-0ubuntu0.16.04.1.diff.gz
+Checksums-Sha256:
+ 91f29564123b35a6f15d71781fc2a8c6e6320bbb031eb84a1b946184d439c2f4 2925 nvidia-graphics-drivers-375_375.66-0ubuntu0.16.04.1.dsc
+ a5d802a31a13094535f684aa4db44d78f3ff972d0630d8f67afd6e7f43818f56 112867659 nvidia-graphics-drivers-375_375.66.orig.tar.gz
+ b80398e31c003fe31ad0492b17f1839fda7f3238f67b76608bdeec25a493576f 160384 nvidia-graphics-drivers-375_375.66-0ubuntu0.16.04.1.diff.gz
+

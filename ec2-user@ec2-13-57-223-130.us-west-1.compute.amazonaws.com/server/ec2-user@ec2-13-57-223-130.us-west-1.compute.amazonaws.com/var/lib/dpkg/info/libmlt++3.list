@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libmlt++.so.6.0.0
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmlt++3
+/usr/share/doc
+/usr/share/doc/libmlt++3
+/usr/share/doc/libmlt++3/copyright
+/usr/share/doc/libmlt++3/changelog.Debian.gz
+/usr/lib/x86_64-linux-gnu/libmlt++.so.3

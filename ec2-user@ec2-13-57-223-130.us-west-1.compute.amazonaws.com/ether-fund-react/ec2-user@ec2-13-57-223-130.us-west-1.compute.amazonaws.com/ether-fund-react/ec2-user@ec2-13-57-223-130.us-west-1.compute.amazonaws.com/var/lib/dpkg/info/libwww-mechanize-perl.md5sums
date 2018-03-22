@@ -1,0 +1,17 @@
+37a175c516c79067387841733fccac9c  usr/bin/mech-dump
+714d52fbc5062c6c00b9189b88be9371  usr/share/doc/libwww-mechanize-perl/NEWS.Debian.gz
+ecae4ce9dd680a9623313711dff06329  usr/share/doc/libwww-mechanize-perl/changelog.Debian.gz
+29e9b05a358ac61d00719ab1c66cc67d  usr/share/doc/libwww-mechanize-perl/copyright
+3295ce0f0abc556f09d78dae762d0d8c  usr/share/man/man1/mech-dump.1p.gz
+971f07fa1ee514692b546d32e62a9982  usr/share/man/man3/WWW::Mechanize.3pm.gz
+b6c45ff77b861dfbf5454e7906d205fd  usr/share/man/man3/WWW::Mechanize::Cookbook.3pm.gz
+32a9b1d6e90b3c977dd844f88b538472  usr/share/man/man3/WWW::Mechanize::Examples.3pm.gz
+481fd2d74ade8b9ab0bf67217a8d4ed1  usr/share/man/man3/WWW::Mechanize::FAQ.3pm.gz
+6039d048c40456c2ee7f1cb5a33ae2e4  usr/share/man/man3/WWW::Mechanize::Image.3pm.gz
+53a70abd38c406dea4dfbf8de0bd3635  usr/share/man/man3/WWW::Mechanize::Link.3pm.gz
+dcce68a35d817d8fc47fdb9eaafe977a  usr/share/perl5/WWW/Mechanize.pm
+fb4d52afc6ea7cef6e3bb9d879014153  usr/share/perl5/WWW/Mechanize/Cookbook.pod
+a2f746ea64374c9b7ce2d4b933476c17  usr/share/perl5/WWW/Mechanize/Examples.pod
+79fa87c4436c382457854d4afa238e56  usr/share/perl5/WWW/Mechanize/FAQ.pod
+c38832f23796a912caa6eefe9d15b7ac  usr/share/perl5/WWW/Mechanize/Image.pm
+dbba0b73e0d07142bea0a78034a5184e  usr/share/perl5/WWW/Mechanize/Link.pm

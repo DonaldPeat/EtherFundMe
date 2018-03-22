@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/lib
+/usr/lib/i386-linux-gnu
+/usr/lib/i386-linux-gnu/pkcs11
+/usr/lib/i386-linux-gnu/pkcs11/p11-kit-trust.so
+/usr/share/doc/p11-kit-modules
+/usr/lib/i386-linux-gnu/p11-kit-proxy.so

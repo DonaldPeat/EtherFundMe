@@ -1,0 +1,4 @@
+41e697cc5ea44f10372b77d406fbf887  lib/systemd/system/whoopsie.service
+351a15937644442e2c9cab90de207388  usr/bin/whoopsie
+8e651b40a5f2ebb5389a7c31bd51a3e8  usr/share/apport/package-hooks/whoopsie.py
+a31b0c550ae4b2b84382bd78a1b0b691  usr/share/doc/whoopsie/copyright

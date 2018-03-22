@@ -1,0 +1,775 @@
+8bd7c444abe7baefc0f3043c0270a249  usr/bin/shutter
+4c7b5d47fc28ba1832cb0d350902e2d9  usr/share/applications/shutter.desktop
+18f9e224a881b586e5907a472ec250f8  usr/share/doc/shutter/changelog.Debian.gz
+d10caa477abf0b4c108987029cf23ea0  usr/share/doc/shutter/copyright
+763900957b9d57fe7f91898a46ea7e30  usr/share/icons/HighContrast/scalable/apps/shutter-panel.svg
+763900957b9d57fe7f91898a46ea7e30  usr/share/icons/HighContrast/scalable/apps/shutter.svg
+67ecdcf933d4ac56d3aa8ae19acacb2c  usr/share/icons/hicolor/128x128/apps/shutter.png
+a3a8108babca4f78bf7d123f271e42bd  usr/share/icons/hicolor/16x16/apps/shutter-panel.png
+a3a8108babca4f78bf7d123f271e42bd  usr/share/icons/hicolor/16x16/apps/shutter.png
+77b9a2ab04271178f24d5594158f6df9  usr/share/icons/hicolor/192x192/apps/shutter.png
+0502c8a12552cc5897837ef28f3dc3f3  usr/share/icons/hicolor/22x22/apps/shutter-panel.png
+0502c8a12552cc5897837ef28f3dc3f3  usr/share/icons/hicolor/22x22/apps/shutter.png
+97f257221a3a481f3618fb28d9036d2c  usr/share/icons/hicolor/24x24/apps/shutter-panel.png
+97f257221a3a481f3618fb28d9036d2c  usr/share/icons/hicolor/24x24/apps/shutter.png
+a346f4f6f3c3d3485398a5b646e52871  usr/share/icons/hicolor/256x256/apps/shutter.png
+41a1a104a65b4a2e5f9526bbefb1b5fc  usr/share/icons/hicolor/32x32/apps/shutter.png
+a168c83eed68d0a5c4170b2a9af39919  usr/share/icons/hicolor/36x36/apps/shutter.png
+148ca6e9871f2952b3807fb4de2ce500  usr/share/icons/hicolor/48x48/apps/shutter.png
+2434bc5449670c8c972283cdbd9273e8  usr/share/icons/hicolor/64x64/apps/shutter.png
+8fceb3f243298443f21f21bb30292a3e  usr/share/icons/hicolor/72x72/apps/shutter.png
+080036b76ebee74461b08a89f127820f  usr/share/icons/hicolor/96x96/apps/shutter.png
+982893d20837158f011ace0dc2d00c9f  usr/share/icons/hicolor/scalable/apps/shutter-panel.svg
+982893d20837158f011ace0dc2d00c9f  usr/share/icons/hicolor/scalable/apps/shutter.svg
+e1be388acf7191901e8e3a8143901c15  usr/share/icons/ubuntu-mono-dark/16x16/apps/shutter-panel.png
+e37a8ad68ca6690522e0b5459139fc6f  usr/share/icons/ubuntu-mono-dark/22x22/apps/shutter-panel.png
+825299424f412092c8cb0659a1dae371  usr/share/icons/ubuntu-mono-dark/24x24/apps/shutter-panel.png
+93a1cf2bc16f7ad87857973e6e977dc0  usr/share/icons/ubuntu-mono-dark/scalable/apps/shutter-panel.svg
+6eb2b38f0aa9e906ceca9fe0a46e73f9  usr/share/icons/ubuntu-mono-light/16x16/apps/shutter-panel.png
+77d5b62f4e70713027f0c33526e507d4  usr/share/icons/ubuntu-mono-light/22x22/apps/shutter-panel.png
+6f21557c406555e9041dc4642f1b0c1e  usr/share/icons/ubuntu-mono-light/24x24/apps/shutter-panel.png
+74ddfc4fb84a7d627289b249a72c2f46  usr/share/icons/ubuntu-mono-light/scalable/apps/shutter-panel.svg
+84cbee921208a36abc6063067e95be52  usr/share/locale/af/LC_MESSAGES/shutter.mo
+1f21a01424cf8142e9c0b70e21046810  usr/share/locale/ar/LC_MESSAGES/shutter-plugins.mo
+6551daa749dd15fda489cfaadaa544eb  usr/share/locale/ar/LC_MESSAGES/shutter-upload-plugins.mo
+0fae7050b106a4a5b57478754f978a1c  usr/share/locale/ar/LC_MESSAGES/shutter.mo
+4ba44bebc82b80b25a74ec1a16a754bf  usr/share/locale/as/LC_MESSAGES/shutter.mo
+29effcd3a0c8e341fd7e614a97fef76a  usr/share/locale/ast/LC_MESSAGES/shutter.mo
+3ed95c438eca14d037210c117b4ad7f5  usr/share/locale/az/LC_MESSAGES/shutter.mo
+b1202fd5135e1ae5e322b39591a3cf71  usr/share/locale/be/LC_MESSAGES/shutter.mo
+e090665b1d39e10143c98132c43d7994  usr/share/locale/ber/LC_MESSAGES/shutter.mo
+c3b912926a4cb2634055f9f158540612  usr/share/locale/bg/LC_MESSAGES/shutter-plugins.mo
+e3a30f942e66e73055e0e2ce18a82ca8  usr/share/locale/bg/LC_MESSAGES/shutter-upload-plugins.mo
+dc5b3772ce4c8cd0a135e8d8d3c80b27  usr/share/locale/bg/LC_MESSAGES/shutter.mo
+80a85a4fd49bcd039aabecd2c0223aef  usr/share/locale/bn/LC_MESSAGES/shutter-plugins.mo
+3005fa977d9544bdf66b40b7cfa02aa3  usr/share/locale/bn/LC_MESSAGES/shutter-upload-plugins.mo
+930c71a328f8f1a8db1bafabcf7bdd56  usr/share/locale/bn/LC_MESSAGES/shutter.mo
+a7c77b0bf2a653bc3dfec3a040470bc2  usr/share/locale/bs/LC_MESSAGES/shutter-plugins.mo
+87284a23ec015242b9d77eddda73e31c  usr/share/locale/bs/LC_MESSAGES/shutter.mo
+38789d57c489a1ee91536873bf7be164  usr/share/locale/ca/LC_MESSAGES/shutter-plugins.mo
+91040d012ebd24442b2a4ee0c359e568  usr/share/locale/ca/LC_MESSAGES/shutter-upload-plugins.mo
+227c2ea3ee114903d759c0f8e7217722  usr/share/locale/ca/LC_MESSAGES/shutter.mo
+ec5f4db8216e77da8c20faa71f8688a2  usr/share/locale/cs/LC_MESSAGES/shutter-plugins.mo
+8b4f0e2ef8d69a082fc13760e8f99724  usr/share/locale/cs/LC_MESSAGES/shutter-upload-plugins.mo
+674321e863587de2276c040246eb7598  usr/share/locale/cs/LC_MESSAGES/shutter.mo
+b84334b4e427aec9e18df4e990f8e655  usr/share/locale/cy/LC_MESSAGES/shutter-plugins.mo
+ed88435d23d846da0e0524c9a17bde4d  usr/share/locale/cy/LC_MESSAGES/shutter-upload-plugins.mo
+d42fdbcc500234c58939e4ea9aa4d16d  usr/share/locale/cy/LC_MESSAGES/shutter.mo
+7a82720dc08d0ec8b891b07489dddbe1  usr/share/locale/da/LC_MESSAGES/shutter-plugins.mo
+718b58c4ef39b7e17e9bfa0a9e3ddf5c  usr/share/locale/da/LC_MESSAGES/shutter-upload-plugins.mo
+3cc953e9e8c225f40bed8477fbbedb49  usr/share/locale/da/LC_MESSAGES/shutter.mo
+9c645a63ce49976686eb90765df79ead  usr/share/locale/de/LC_MESSAGES/shutter-plugins.mo
+8412fc3b3c33887170a1dd6d21682765  usr/share/locale/de/LC_MESSAGES/shutter-upload-plugins.mo
+9a295a4bd4cb245260154cca708451b6  usr/share/locale/de/LC_MESSAGES/shutter.mo
+16612fafb0c31b236ad49191482dc5bc  usr/share/locale/el/LC_MESSAGES/shutter-plugins.mo
+c3e4034c0d9b4cfda0a27827cce43b47  usr/share/locale/el/LC_MESSAGES/shutter-upload-plugins.mo
+834140bd557d9b0c6f7b683ab73f62b0  usr/share/locale/el/LC_MESSAGES/shutter.mo
+14d99f843c1c1fd2dbba21079cfc1395  usr/share/locale/en_AU/LC_MESSAGES/shutter-upload-plugins.mo
+ac1a4d248ce293bab745dc1218d4f4f9  usr/share/locale/en_CA/LC_MESSAGES/shutter-plugins.mo
+b090a4ab3a508edd56746b249ca2d927  usr/share/locale/en_CA/LC_MESSAGES/shutter.mo
+3d961d479e89e4ea28f21cbd2b2669ef  usr/share/locale/en_GB/LC_MESSAGES/shutter-plugins.mo
+089c47fbd03cd9ae3b3b6dc57bc1e8ea  usr/share/locale/en_GB/LC_MESSAGES/shutter-upload-plugins.mo
+9e9d8682f5388ce9ea5aae2abe6fb0ca  usr/share/locale/en_GB/LC_MESSAGES/shutter.mo
+330d72a1d824eb0b28f1af6a4a96eefa  usr/share/locale/es/LC_MESSAGES/shutter-plugins.mo
+fe1663c4ef1efb4b634d33525b4d3b8f  usr/share/locale/es/LC_MESSAGES/shutter-upload-plugins.mo
+e1c928afa3152e9bc631f407fd2d8072  usr/share/locale/es/LC_MESSAGES/shutter.mo
+3107de851281f7cc1557e4ceba7592e9  usr/share/locale/et/LC_MESSAGES/shutter-plugins.mo
+750d878e5f7ec6a4288153768d92dff3  usr/share/locale/et/LC_MESSAGES/shutter-upload-plugins.mo
+d68dd95cb3f702c93383fd8eff66987e  usr/share/locale/et/LC_MESSAGES/shutter.mo
+7b6c841d88f7e55ec9f9a79a01245f28  usr/share/locale/eu/LC_MESSAGES/shutter.mo
+8e5b6b94d1c67fa30502f7b7f9bb36a7  usr/share/locale/fa/LC_MESSAGES/shutter-upload-plugins.mo
+51721c41c1cc519cfc3e5865df22bbcb  usr/share/locale/fa/LC_MESSAGES/shutter.mo
+cd692a3b2e945c009c6a3dfadebeb826  usr/share/locale/fi/LC_MESSAGES/shutter-plugins.mo
+75f7b9f54d74dc6e3ccebc027a0fbb65  usr/share/locale/fi/LC_MESSAGES/shutter-upload-plugins.mo
+0498c52f561c08c62c4c44db52dafc3c  usr/share/locale/fi/LC_MESSAGES/shutter.mo
+bd37e8267536928c0c10fedbe2755ad2  usr/share/locale/fo/LC_MESSAGES/shutter.mo
+c079caafda0d0a769bf06593823f8ac6  usr/share/locale/fr/LC_MESSAGES/shutter-plugins.mo
+0702a6862f35076bffc49dec053c1379  usr/share/locale/fr/LC_MESSAGES/shutter-upload-plugins.mo
+fd901a3abde4d62887075c60838bdf99  usr/share/locale/fr/LC_MESSAGES/shutter.mo
+25dfcdc4436a14b8789c3bf5abfb600f  usr/share/locale/gl/LC_MESSAGES/shutter-plugins.mo
+e34fe3ccb30edca1180630454daebfdf  usr/share/locale/gl/LC_MESSAGES/shutter-upload-plugins.mo
+11e1fe39ff09e42447ac89e9fb0dc1a4  usr/share/locale/gl/LC_MESSAGES/shutter.mo
+908bcd9be568467eaaedddb134ba6c2f  usr/share/locale/he/LC_MESSAGES/shutter-plugins.mo
+432f7b99fae43689e68d47ce85664004  usr/share/locale/he/LC_MESSAGES/shutter-upload-plugins.mo
+9ac1164080946fabfbb236bee00ac868  usr/share/locale/he/LC_MESSAGES/shutter.mo
+07e366327e0fdc1a2c53eaf74613eb0c  usr/share/locale/hi/LC_MESSAGES/shutter-plugins.mo
+3a8e09c795e6b03a931c19109c78f99c  usr/share/locale/hi/LC_MESSAGES/shutter-upload-plugins.mo
+143422948cbc2d1a4e4b05bea06fc1c7  usr/share/locale/hi/LC_MESSAGES/shutter.mo
+25641c77b154c77df19b8918c03c26eb  usr/share/locale/hr/LC_MESSAGES/shutter-plugins.mo
+98711ed6030b15fe18657d2eb71e8905  usr/share/locale/hr/LC_MESSAGES/shutter-upload-plugins.mo
+3d34bcdb2e5c61784111294737cd8d02  usr/share/locale/hr/LC_MESSAGES/shutter.mo
+51caff57c38aeec5ddda448a06b2268a  usr/share/locale/hu/LC_MESSAGES/shutter-plugins.mo
+8e7a96200e82f9eb1505bccb64e201c9  usr/share/locale/hu/LC_MESSAGES/shutter-upload-plugins.mo
+0b609876afc861eabcc0ae01bd868550  usr/share/locale/hu/LC_MESSAGES/shutter.mo
+0b8717bc22bc2eae8177c1247991b305  usr/share/locale/hy/LC_MESSAGES/shutter.mo
+b267e28909ff63ebaa4b6c5fb5a09bc4  usr/share/locale/id/LC_MESSAGES/shutter-plugins.mo
+bcccb0a2f0069aee70de396163b29141  usr/share/locale/id/LC_MESSAGES/shutter-upload-plugins.mo
+e82f29a5711df51aa87aaaa6b59abff8  usr/share/locale/id/LC_MESSAGES/shutter.mo
+804c9f555f6e8b8c767b515b0e95a2ff  usr/share/locale/is/LC_MESSAGES/shutter-upload-plugins.mo
+e2051818418b006b5f82db19ef2fede7  usr/share/locale/it/LC_MESSAGES/shutter-plugins.mo
+6ccaf971b1dc224c903eeb138a0f64a0  usr/share/locale/it/LC_MESSAGES/shutter-upload-plugins.mo
+1e56e97ac4a7f077ee775830b5d14ca3  usr/share/locale/it/LC_MESSAGES/shutter.mo
+1773676dc547e9ebc51de2b95753217d  usr/share/locale/ja/LC_MESSAGES/shutter-plugins.mo
+34788d7d1f001d16b439e4334464b87b  usr/share/locale/ja/LC_MESSAGES/shutter-upload-plugins.mo
+354608d3694551ff38565acc6cd345f8  usr/share/locale/ja/LC_MESSAGES/shutter.mo
+c4c63412a61c0aa1b54b1d91d42b13d5  usr/share/locale/kk/LC_MESSAGES/shutter-plugins.mo
+68e73867b0d0d7df3a512e42cddc980d  usr/share/locale/kk/LC_MESSAGES/shutter.mo
+73847484a6dbfe70695c3cb315397006  usr/share/locale/kn/LC_MESSAGES/shutter.mo
+5d927e60e7160e426be712778bee57da  usr/share/locale/ko/LC_MESSAGES/shutter-plugins.mo
+92fe01fe9196f86992a4fda35d05b8fe  usr/share/locale/ko/LC_MESSAGES/shutter-upload-plugins.mo
+cad38fbc08f79d3a7d065f3e2971d6bf  usr/share/locale/ko/LC_MESSAGES/shutter.mo
+69f806149da5516bec7027c9012bf8b5  usr/share/locale/lt/LC_MESSAGES/shutter-plugins.mo
+97e66dcbb23f42df3e8b53b3e91c3912  usr/share/locale/lt/LC_MESSAGES/shutter-upload-plugins.mo
+78dd97034e88e0e4d59344009d0a2ceb  usr/share/locale/lt/LC_MESSAGES/shutter.mo
+06856ec94415ad46b929fc365fe2ac74  usr/share/locale/lv/LC_MESSAGES/shutter-plugins.mo
+d032ec2c2e032d5cf2a4b6c934004538  usr/share/locale/lv/LC_MESSAGES/shutter-upload-plugins.mo
+1e661ca316752e8f3071b29a7452e5e4  usr/share/locale/lv/LC_MESSAGES/shutter.mo
+24773e90d72b13f3afab987f261cdba9  usr/share/locale/ms/LC_MESSAGES/shutter-plugins.mo
+139e338434da304da4812f06bac4a8ca  usr/share/locale/ms/LC_MESSAGES/shutter-upload-plugins.mo
+9cc68da15298bdaac91ab458b04ebde1  usr/share/locale/ms/LC_MESSAGES/shutter.mo
+396e0fe1780082721696cdeea1004861  usr/share/locale/nb/LC_MESSAGES/shutter-plugins.mo
+1fed934368b434e0eafbcca473ff3415  usr/share/locale/nb/LC_MESSAGES/shutter-upload-plugins.mo
+bbb83eff927eb982e06059f7ab64e5e1  usr/share/locale/nb/LC_MESSAGES/shutter.mo
+d34133edf1d6b77e2fa3f45fad67fd81  usr/share/locale/nl/LC_MESSAGES/shutter-plugins.mo
+feae01c07d7415f937a2cb125474f3ee  usr/share/locale/nl/LC_MESSAGES/shutter-upload-plugins.mo
+7905ad727e8203541fa8e8183a2d414a  usr/share/locale/nl/LC_MESSAGES/shutter.mo
+4e17097206c653649052e54260b56494  usr/share/locale/nn/LC_MESSAGES/shutter.mo
+354080db8033c6c37ec63f8b5812e3a8  usr/share/locale/oc/LC_MESSAGES/shutter-plugins.mo
+c974449de3c20130abcad790cd747f29  usr/share/locale/oc/LC_MESSAGES/shutter-upload-plugins.mo
+d8ff372886607e00fece48d04fdbdece  usr/share/locale/oc/LC_MESSAGES/shutter.mo
+9b5d17b7b42eae840fceae4c10dd7e12  usr/share/locale/pl/LC_MESSAGES/shutter-plugins.mo
+f1f15b1a16600e586d85ba6081a2820b  usr/share/locale/pl/LC_MESSAGES/shutter-upload-plugins.mo
+52b76d223d67d6953b82b2a9714fac91  usr/share/locale/pl/LC_MESSAGES/shutter.mo
+eb3d2db2467d502f91f22252419d471b  usr/share/locale/pt/LC_MESSAGES/shutter-plugins.mo
+28ab9be351bc28c737caed5bf5f5d3e0  usr/share/locale/pt/LC_MESSAGES/shutter-upload-plugins.mo
+6c6f36765f378574de44b5247c3a57b7  usr/share/locale/pt/LC_MESSAGES/shutter.mo
+12d80ca3ade2e2d0725fcb012042c1f1  usr/share/locale/pt_BR/LC_MESSAGES/shutter-plugins.mo
+b5fa37ca71b5588362bd018a0a49612c  usr/share/locale/pt_BR/LC_MESSAGES/shutter-upload-plugins.mo
+78a420ecf569c8899f3d073d51f5f958  usr/share/locale/pt_BR/LC_MESSAGES/shutter.mo
+8d6b10082511387b82de38fa522716f4  usr/share/locale/ro/LC_MESSAGES/shutter-plugins.mo
+184a7782c63e33e0a27feeb7542f8c4a  usr/share/locale/ro/LC_MESSAGES/shutter-upload-plugins.mo
+b4c8d10ec3c4cb07bff33075918ae9de  usr/share/locale/ro/LC_MESSAGES/shutter.mo
+62029c0227b31aa4284b103978cc74ab  usr/share/locale/ru/LC_MESSAGES/shutter-plugins.mo
+abb3e3e379ad68facbeb25554e241f33  usr/share/locale/ru/LC_MESSAGES/shutter-upload-plugins.mo
+e8ec9c23f8e6ceb29e56af99c835e4d9  usr/share/locale/ru/LC_MESSAGES/shutter.mo
+b209dc7c7ca0106f11acb8fffd52cffa  usr/share/locale/shn/LC_MESSAGES/shutter-upload-plugins.mo
+d84baeaef58b671c5ffacd13b8b9a269  usr/share/locale/shn/LC_MESSAGES/shutter.mo
+923f501a6686862687b605d9879f867c  usr/share/locale/si/LC_MESSAGES/shutter-plugins.mo
+a3bc9f4becff312b27ed6c669ffea08b  usr/share/locale/si/LC_MESSAGES/shutter-upload-plugins.mo
+e51f1b4fb2f49a56f7e5682c845e3276  usr/share/locale/si/LC_MESSAGES/shutter.mo
+a85ede424e06145e0c048aaff9de6c21  usr/share/locale/sk/LC_MESSAGES/shutter-plugins.mo
+45645eea941c539a018ef44c5726df50  usr/share/locale/sk/LC_MESSAGES/shutter-upload-plugins.mo
+aab4927fc39bf0e26ebe7be63fb2f2ec  usr/share/locale/sk/LC_MESSAGES/shutter.mo
+6945e49eeeec36a9ab1d90b0706ee0ca  usr/share/locale/sl/LC_MESSAGES/shutter-plugins.mo
+1902c2e7fabd90985a779542554ac964  usr/share/locale/sl/LC_MESSAGES/shutter-upload-plugins.mo
+529a1eb9c1db95ce1ef9cd55e13d156d  usr/share/locale/sl/LC_MESSAGES/shutter.mo
+45a26d76c3999b8c263a9bc098a1e41b  usr/share/locale/sr/LC_MESSAGES/shutter-plugins.mo
+32d444cbaf05c08c9f07e70d44b08e15  usr/share/locale/sr/LC_MESSAGES/shutter-upload-plugins.mo
+d2b22b3e2f656c868aca0a269609e962  usr/share/locale/sr/LC_MESSAGES/shutter.mo
+855438afc78bb0b572682c01e608a17e  usr/share/locale/sv/LC_MESSAGES/shutter-plugins.mo
+d63baad395bc950172b59757c65cfdec  usr/share/locale/sv/LC_MESSAGES/shutter-upload-plugins.mo
+1273783af212b0471a1cdc9db99853e7  usr/share/locale/sv/LC_MESSAGES/shutter.mo
+43358c7db5ca2a7d180aaabd99c49fcd  usr/share/locale/ta/LC_MESSAGES/shutter-plugins.mo
+1477276b95dce2224e32c3331b33de41  usr/share/locale/ta/LC_MESSAGES/shutter-upload-plugins.mo
+4e447c5759f4b02d7aa03239d4832c04  usr/share/locale/ta/LC_MESSAGES/shutter.mo
+a61ffcd755b529a871d4a92f07a404b0  usr/share/locale/te/LC_MESSAGES/shutter-plugins.mo
+d7eb99b3cac7f923dd8c5b2127e40e56  usr/share/locale/te/LC_MESSAGES/shutter.mo
+c6823a877c484c2a46217607e045bc4e  usr/share/locale/th/LC_MESSAGES/shutter-plugins.mo
+e8ad9d5db735f4a04c91284a6793e91d  usr/share/locale/th/LC_MESSAGES/shutter-upload-plugins.mo
+34347bccb5527fc9ea2e9d53849b8856  usr/share/locale/th/LC_MESSAGES/shutter.mo
+0bf75a426d8566eacd335e34fc98c31c  usr/share/locale/tr/LC_MESSAGES/shutter-plugins.mo
+ae5dca7edd80aa7c2426c9f30c740b97  usr/share/locale/tr/LC_MESSAGES/shutter-upload-plugins.mo
+69131283571013ea2382bb2f9c5dac6e  usr/share/locale/tr/LC_MESSAGES/shutter.mo
+07a18402ce4e5d56f96eef57e169c17a  usr/share/locale/ug/LC_MESSAGES/shutter-plugins.mo
+0fb7aeff40510ded956201e9a20a2e06  usr/share/locale/ug/LC_MESSAGES/shutter-upload-plugins.mo
+5ceb01579c4d571d4cebe9a1677be4cc  usr/share/locale/ug/LC_MESSAGES/shutter.mo
+7041ee923e7cbd3b2417377463e69dd5  usr/share/locale/uk/LC_MESSAGES/shutter-plugins.mo
+d4f113bad77feffa95fe303f88cb4712  usr/share/locale/uk/LC_MESSAGES/shutter-upload-plugins.mo
+753072d90c0355b9c20b4741155b9793  usr/share/locale/uk/LC_MESSAGES/shutter.mo
+0dcf59e445b9b3e0254d867cba28600c  usr/share/locale/ur/LC_MESSAGES/shutter-plugins.mo
+cc04afb9bed0b792b964b62bb13b9d0b  usr/share/locale/ur/LC_MESSAGES/shutter.mo
+9fd814c7563f08899730030a1299f96e  usr/share/locale/vi/LC_MESSAGES/shutter-plugins.mo
+fa59a3a7d9e20ba528017f98025a13e8  usr/share/locale/vi/LC_MESSAGES/shutter.mo
+40152d05d55215aa0a198e9c75d3da79  usr/share/locale/zh_CN/LC_MESSAGES/shutter-plugins.mo
+90b0a90455a55d676d295756b82a1352  usr/share/locale/zh_CN/LC_MESSAGES/shutter-upload-plugins.mo
+6e4d68f00f0fe2428f0bf0175531ca43  usr/share/locale/zh_CN/LC_MESSAGES/shutter.mo
+210fbf4a9adf01e51d37c961dcb02b42  usr/share/locale/zh_HK/LC_MESSAGES/shutter.mo
+80a54e40ebfb6da6bc1cb2308aa41091  usr/share/locale/zh_TW/LC_MESSAGES/shutter-plugins.mo
+4e522da9c55c0e61ce41b4d4c8e37cd2  usr/share/locale/zh_TW/LC_MESSAGES/shutter-upload-plugins.mo
+5514811356ff7327aeb21b9b6d297d00  usr/share/locale/zh_TW/LC_MESSAGES/shutter.mo
+1213fc1e560d4c3d13902ce0e7cd0e51  usr/share/man/man1/shutter.1.gz
+8f0beec6aac19d465927163e0581f324  usr/share/perl5/Shutter/App/AboutDialog.pm
+d84c54e261050fc91f853cda4a584a62  usr/share/perl5/Shutter/App/Autostart.pm
+fee3fd40304c553f319547ce0971015f  usr/share/perl5/Shutter/App/Common.pm
+40be20fec6e623f61ab3fbe64ce03482  usr/share/perl5/Shutter/App/Directories.pm
+979ea6640b4574684d3ce63a07e0fb62  usr/share/perl5/Shutter/App/GlobalSettings.pm
+07db43f35c99b20488656603162810ac  usr/share/perl5/Shutter/App/HelperFunctions.pm
+f77c785a9bd73ef65854b46c0f7b389c  usr/share/perl5/Shutter/App/Menu.pm
+23f46ce983e36dc4a5ec2441988baa1d  usr/share/perl5/Shutter/App/Notification.pm
+c6ec31caa6e79712c640585a75e25a98  usr/share/perl5/Shutter/App/Optional/Exif.pm
+f4656fd42abaac8e60f75e296f9c72ef  usr/share/perl5/Shutter/App/Options.pm
+7163b2e6ea5881a84ed9f31e6b653894  usr/share/perl5/Shutter/App/ShutterNotification.pm
+d583f7e52f7088917ece9b75ca57ef64  usr/share/perl5/Shutter/App/SimpleDialogs.pm
+2b21cfbe65f5174e011fec46cdbcfad8  usr/share/perl5/Shutter/App/Toolbar.pm
+0bb73a104101729b51260fbedbc2f6e7  usr/share/perl5/Shutter/App/TrashInfo.pm
+3a5a4ad9953c8651716545ed3b260b2a  usr/share/perl5/Shutter/Draw/DrawingTool.pm
+a386c21bf03600a5e2fff45861940c46  usr/share/perl5/Shutter/Geometry/Region.pm
+a27a01740694a720eb0354825a76fc93  usr/share/perl5/Shutter/Pixbuf/Border.pm
+bd89891957127729ded69645778e94a4  usr/share/perl5/Shutter/Pixbuf/Load.pm
+92d6b45e1e4c7ce13a6cae04525cf323  usr/share/perl5/Shutter/Pixbuf/Save.pm
+0e3e8b74fc0eb44e2facb62e4694ecbe  usr/share/perl5/Shutter/Pixbuf/Thumbnail.pm
+b1971ab29bf719e5793db4f352d3aad4  usr/share/perl5/Shutter/Screenshot/Error.pm
+a0f120be0e5af40456a60cf44ec1d06d  usr/share/perl5/Shutter/Screenshot/History.pm
+4241f0cd050112a7a230a18648dab8c4  usr/share/perl5/Shutter/Screenshot/Main.pm
+8edebf76b75bf5f399aa4be9e5e3d026  usr/share/perl5/Shutter/Screenshot/SelectorAdvanced.pm
+c12aa015a92ae2655f38533575c6ccb0  usr/share/perl5/Shutter/Screenshot/SelectorAuto.pm
+09134fc7126c1a69cef7bb9d518e17ac  usr/share/perl5/Shutter/Screenshot/Web.pm
+f715ffbdbbcb9d77b7ac274e835e1314  usr/share/perl5/Shutter/Screenshot/Window.pm
+606282d0211b06c196495c1ba394be24  usr/share/perl5/Shutter/Screenshot/WindowName.pm
+9bfcc63c9285cef4de394b485dbb9cc9  usr/share/perl5/Shutter/Screenshot/WindowXid.pm
+6adf41ae84c0e75d833e4b12c6c27e5f  usr/share/perl5/Shutter/Screenshot/Workspace.pm
+350a7521c52f01574c061989de2b84c2  usr/share/perl5/Shutter/Upload/FTP.pm
+44af84cff0d023161e4a24b4f23cf503  usr/share/perl5/Shutter/Upload/Shared.pm
+7da6d980c3bcfde36e37db20392d7620  usr/share/perl5/WebService/Dropbox.pm
+148ca6e9871f2952b3807fb4de2ce500  usr/share/pixmaps/shutter.png
+755ee26c4c5a982c4494aa7ebd2494aa  usr/share/shutter/resources/conf/shape.conf
+710f65da0fb6d0b0c54a1cffa263b851  usr/share/shutter/resources/credits/art
+112db10492504facbe66c85f71c01f82  usr/share/shutter/resources/credits/dev
+25d11b5e175a96d04d094f3c56084f49  usr/share/shutter/resources/icons/Image.svg
+b0bfe0724c3214588cabfbb0fc96b5f5  usr/share/shutter/resources/icons/Normal.cur
+43f6f398fceadbf7fe3be2bdd4b870db  usr/share/shutter/resources/icons/desktop.svg
+c29bd9e3fc94f56fb7f31c102e6f7241  usr/share/shutter/resources/icons/document-send.svg
+9e142f1bc6bd04119a0de00b6bb7e857  usr/share/shutter/resources/icons/draw.svg
+4d22a08d0582911930c4db7f80e05d41  usr/share/shutter/resources/icons/drawing_tool/cursor/arrow
+09d77c1f9bc21c9b9d91d17cdbae582a  usr/share/shutter/resources/icons/drawing_tool/cursor/backtext
+1385281a427a306bd5e73745c01e55b6  usr/share/shutter/resources/icons/drawing_tool/cursor/censor
+8adc1e002d5aaba225f882330dbbc503  usr/share/shutter/resources/icons/drawing_tool/cursor/ellipse
+86047db90ba0d34ae4ba26667e27b1a2  usr/share/shutter/resources/icons/drawing_tool/cursor/freehand
+2121a51dc96d78923c2613b57b1418d9  usr/share/shutter/resources/icons/drawing_tool/cursor/line
+d0248e9e7d7c41eb3537b1f6bd6e0c27  usr/share/shutter/resources/icons/drawing_tool/cursor/number
+86920d3b37b54c30aad8a3dca6d76b79  usr/share/shutter/resources/icons/drawing_tool/cursor/pixelize
+ebe077f09b9c7d580346b952004c650d  usr/share/shutter/resources/icons/drawing_tool/cursor/rect
+09d77c1f9bc21c9b9d91d17cdbae582a  usr/share/shutter/resources/icons/drawing_tool/cursor/text
+51a8bf15cf53ea911fb88b6a712d60bb  usr/share/shutter/resources/icons/drawing_tool/draw-arrow.png
+2bbce3058ed59110fd98eed097901367  usr/share/shutter/resources/icons/drawing_tool/draw-backtext.png
+cefc495e1802757a71833818a5609ab5  usr/share/shutter/resources/icons/drawing_tool/draw-callouts.png
+85b9f1fed9d0b733b2035a138cc52132  usr/share/shutter/resources/icons/drawing_tool/draw-censor.png
+524a664c1f0f82e0a6d417512fcf713a  usr/share/shutter/resources/icons/drawing_tool/draw-ellipse.png
+a29b21a6b3ae60d8192ccc79f2ff3387  usr/share/shutter/resources/icons/drawing_tool/draw-eraser.png
+988bc632b9faaddba5b0a5968aa07f26  usr/share/shutter/resources/icons/drawing_tool/draw-freehand.png
+c80dbed2d7fa997209e515e7ed2ad9fa  usr/share/shutter/resources/icons/drawing_tool/draw-highlighter.png
+25d11b5e175a96d04d094f3c56084f49  usr/share/shutter/resources/icons/drawing_tool/draw-image.svg
+b6a9adb2fe0af80d37a6ab4f57221d7a  usr/share/shutter/resources/icons/drawing_tool/draw-line.png
+9180a6a6a0f00012bc9675983e226cde  usr/share/shutter/resources/icons/drawing_tool/draw-locked.png
+ded3a0429e9cabc9ce49bd0d60435eba  usr/share/shutter/resources/icons/drawing_tool/draw-lower.png
+eb75d074dd9c216c84666ff4da00dcf4  usr/share/shutter/resources/icons/drawing_tool/draw-number.png
+acee4a9841786bc5f8a14a9c8683d0cb  usr/share/shutter/resources/icons/drawing_tool/draw-pixelize.png
+539b62a9ca346b2747e80a10c8e98010  usr/share/shutter/resources/icons/drawing_tool/draw-pointer.png
+8defeecccc483aa6e9886d72714c5172  usr/share/shutter/resources/icons/drawing_tool/draw-raise.png
+dafd6c1cec18914911848f4ac88c1614  usr/share/shutter/resources/icons/drawing_tool/draw-rectangle.png
+07e56464445cbee8c799068ff3f62c54  usr/share/shutter/resources/icons/drawing_tool/draw-text.png
+214c26bdc389e81ea7cdc938d49e2405  usr/share/shutter/resources/icons/drawing_tool/draw-unlocked.png
+edd96aef0347b025a8544d3fac0ce120  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Alternate.cur
+955d2c896f2dbfe8d9e0ccd8c4321e32  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Diagonal Resize 1.cur
+cc3400fad66905ee1bab2b5c46f87d32  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Diagonal Resize 2.cur
+69bf60b7a844482184bbbad58db13547  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Handwriting.cur
+ce594fc23aa96177bf442ec9014b5f65  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Help.cur
+34bedb0f80d05b62e7cce0957a08bef9  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Horizontal Resize.cur
+12b09d063b46948bf17d070c8961aa87  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Link.cur
+03c4d43aa18031f8ddd164547f59ec30  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Move.cur
+b0bfe0724c3214588cabfbb0fc96b5f5  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Normal.cur
+f6f185f1acc6908f1fbe334f21c3ca65  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Precision.cur
+92aaf2cf7de29f901d09d9a526b0a0a4  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Text.cur
+bb59d26725a6cebca42ba84813893e41  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Unavailable.cur
+c6dd96e9f79161dded853ea1c00c3694  usr/share/shutter/resources/icons/drawing_tool/objects/Cursors/Vertical Resize.cur
+dcb8b35143c1cc82cc541546256b0e3b  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_circle_center.svg
+91fba0a0f8f86da219c21a0789a21872  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_circle_left.svg
+0e11bb9af562128ef36734fcac9914ec  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_circle_right.svg
+e440ad3eea21cd4fae6a5a9e27a9ea0c  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud.svg
+3ed48a69ac18f377e311d717d776d81f  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud_center.svg
+3c1ac053a9c6ec5cb6163fc8480bb3c2  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud_left.svg
+273796e6654e0737932796dee64eb86d  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_cloud_right.svg
+5060e8bb0ab942a2da45a84be00dcbe5  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rectangle_center.svg
+ac459a40a2e1096b4dc4589379c6e47e  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rectangle_left.svg
+14f98cc0dfb2a7b4cdd3a19e61572fea  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rectangle_right.svg
+e73a91031924ccbc19b263a41b260503  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_round_center.svg
+9e2134be06e310972272aab52ec11698  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_round_left.svg
+a1f20c3d3471c501a3373c738376b604  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_round_right.svg
+e9d64268ee9a5484ee28aec3fb9b9da7  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rounded_rectangle_center.svg
+393277d217b44993052e15524230611f  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rounded_rectangle_left.svg
+6bcf82cb9443f11bea511fa27fa191ae  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_rounded_rectangle_right.svg
+f31bd88880d5c76f7c7742be1b376162  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented.svg
+1636071fe9bc5308b8695ee411329ad2  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented_center.svg
+64ab08bdc933452e957e792099253354  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented_left.svg
+e16852cfe919b50e5a772c392d3873cf  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_segmented_right.svg
+2a3d59bd180b2dd95a08f7a8fb6a0ec3  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star.svg
+c5ebf460f8ec72e96c9d37f4d667628a  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star_center.svg
+b3a15df611ed1e4933e66f50b0b89359  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star_left.svg
+d05fc95eaf619c74a1455866785f89fe  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_star_right.svg
+3e8bdaaa51cac69c00b21f7f7e43bf03  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_center_bottom.svg
+47808c8957f4185b6ff7d47ba2245060  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_center_top.svg
+58a867c010b94a64c75cc2296b6c8983  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_left.svg
+f394970963ae56556b0b2bcd98c9e4c8  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_left_top.svg
+11fdacae24c754b926f5d5ed57db5d97  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_right.svg
+b0da90462aad5644e25ec79c21429da2  usr/share/shutter/resources/icons/drawing_tool/objects/Forms/Callouts/Callout_ubuntu_right_top.svg
+75e07eef1e8457e6699ee1cb8a3a6f0c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/address-book-new.svg
+3998d139ce8d04527b4dac8eee8600b0  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/appointment-new.svg
+a9fafc6b286633979d78c6379a88ce7b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/bookmark-new.svg
+1597ce735c63d6ee67adcf19971648d5  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/contact-new.svg
+a9043e9958a197bbc62be60ba3b7b513  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-new.svg
+36dc42b41b9a4280016a4ff4cd335351  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-open.svg
+28d24527c28890250198fc7877abe17d  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-print-preview.svg
+31cf26961cbeb3fe21bf6971b58fe103  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-print.svg
+6146cb8bcd0a527faafcdaa4da5e81b7  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-properties.svg
+d03bd180484e37d174a0ccb7fb0012b3  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-save-as.svg
+61d4dab7c28654564695f81e1c160cf4  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/document-save.svg
+607f67128172a478c61aae9aa42c0e41  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-clear.svg
+00c25544e8e3399facca4ee451ff49c4  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-copy.svg
+95bed06a7faa1a1bc4c5278a9d832341  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-cut.svg
+04508e2c5d81091d4410b48b2f1e7bd9  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-delete.svg
+69c13c1afe2894341402a9632bab4646  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-find-replace.svg
+331ccd288957ed6761899eab01745e99  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-find.svg
+08d44916a16b0491271e27263182427e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-paste.svg
+77aaa20897e489cbd3078396aaa3bbf6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-redo.svg
+033687aebf4e0f6079909e6821ee612e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-select-all.svg
+b24f632b479bd041ce8cb26d339ff2eb  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/edit-undo.svg
+ca34991a027d46a0fd496b44c999a899  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/folder-new.svg
+dad1560c82197a792a7d555407c00980  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-indent-less.svg
+5b60f505a86db57ed0ed6103806883cb  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-indent-more.svg
+4d9474beb0efc6202532b90cfc664165  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-center.svg
+d2f8a26b7a2daa4d3cc71a9495b38bc0  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-fill.svg
+9c9383aa0b301f70b56e2b8f39a2e356  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-left.svg
+5467279ac8714551b74d9bc2e107defd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-justify-right.svg
+f05a0952bb73e73507a1401cf890fa02  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-bold.svg
+4e4c67abeca409ca7c42c3545fb9ef0a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-italic.svg
+a25773dd74984d92fcf2e8828dea35aa  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-strikethrough.svg
+43099aed753153a1e783057a4ef3b8ec  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/format-text-underline.svg
+eb707714c4b4a95aba4340a99e692b75  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-bottom.svg
+434c934064b1a1693f3d275974794482  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-down.svg
+f35e165e457cfe58f4858722146f5bd1  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-first.svg
+570a6b8fa628129f50acfb9fce77983f  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-home.svg
+ebc39df8408559be569ca74dbada5b3e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-jump.svg
+029d831fd7c5ba1b5812311135d4a0ae  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-last.svg
+69b25bbf9c4334b930af656d6f718369  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-next.svg
+e4cce66c4b87f5381b123c65483716fa  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-previous.svg
+89c3bfafe7d849916fac6501dd964f45  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-top.svg
+4fc7d6086df0ddf4ee92b062cc5ea28c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/go-up.svg
+d52bcfdd063b31ec1dcc11a8cf834895  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/list-add.svg
+76d6cf5385751bbe7aab24eb5e496144  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/list-remove.svg
+d6b3c2f447f878fa547238356b1e7181  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-forward.svg
+57a225c54f924745e83a78a04ee69fdf  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-mark-junk.svg
+4a69aead5c82f4bb5483c6296109a1ea  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-message-new.svg
+325768f9c525cdd8817cf8a4be2df7ae  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-reply-all.svg
+da6ac52ddbc2e2196e56482dba35f7fb  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-reply-sender.svg
+9d243ffb204544bd723f1de858b41c16  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/mail-send-receive.svg
+70a701f7405443e8d126da904f685020  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-eject.svg
+cd398653fcf11db0ba13d47ceb604183  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-playback-pause.svg
+64355353c9d41c2dfb362d7e7ea8361c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-playback-start.svg
+4de2908449a48eda045371ebbbbf6b3b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-playback-stop.svg
+3fa2c09275980fac51a92aca4cbec30c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-record.svg
+9402f8721dafa5f63efd213d4656f1bd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-seek-backward.svg
+0cf752223f43f18f85224d7c1f6a2125  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-seek-forward.svg
+a28b9ed1a7c4e314fdfce6d163c8e372  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-skip-backward.svg
+5a1102aa36c7606b1cb886b42d88ab84  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/media-skip-forward.svg
+410806be46d452348bf88517be0e7d4c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/process-stop.svg
+2c54632efa8ff050eaa5f86e01bc9d70  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-lock-screen.svg
+3cd5a2376c53a05e30aafcd244084c9f  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-log-out.svg
+2e2d0619f9b3a83dd7edf5e16effcbcd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-search.svg
+776b7db0934f8e0c03f63dd5650f8152  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/system-shutdown.svg
+8a7ca4bcb7a9f594b1a639e71cad1f72  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/tab-new.svg
+6af459a2cabfd895d99e27009ae62d06  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/view-fullscreen.svg
+8dd2d030e24442468d30f234afdff224  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/view-refresh.svg
+0335e6f49f8de555bf0299352a57aec1  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Actions/window-new.svg
+3ba7f8ebe265d4fd3da61b7a5ff32777  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/accessories-calculator.svg
+256ec53d2ad229ae7f5b06c13029c8f0  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/accessories-character-map.svg
+3c44cf7299c4f7cce7d5d00dcb96d59a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/accessories-text-editor.svg
+8e4a927d81be8155bc6268e8190247e7  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/help-browser.svg
+78674a4dd9359c1bcdb249a3fd4f4943  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-group-chat.svg
+1ee273d2791c928834a285600932a34e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-mail.svg
+733e3f0e4cd9d6b2e0778ebea266d04a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-news-reader.svg
+e2172b23763ed225ea50b102ca3ddf5a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/internet-web-browser.svg
+17d9970e964cfe24dfacb9198843968f  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/office-calendar.svg
+4f7193ebf2178f43fc94d4947900fb84  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-accessibility.svg
+20a7d81a406dc47640f55abd1deb3c91  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-assistive-technology.svg
+e8a1d25db0cb513c222da7a4c53292a6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-font.svg
+509f88c4202ec59a315f1c61df246505  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-keyboard-shortcuts.svg
+a9d61e8dc02cdadc4fc8fdd62e515059  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-locale.svg
+a983893f930c7baa2bdd99cdf4c78531  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-multimedia.svg
+c1a133ff4ed30611027fbc2ee3e5edd7  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-remote-desktop.svg
+e15f10b8fa1af8d715f854f19354ba8a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-screensaver.svg
+3d979596e44c1264fb7583571c539bde  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-theme.svg
+fff83b5277ec14c611c1c3f7103c80b1  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-desktop-wallpaper.svg
+6aed959b0f465f17d12534a14ae08b95  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-system-network-proxy.svg
+515b4bcbe083cea99f5daa3df49a07cc  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-system-session.svg
+8171aa0cbbc128e7acd805658b587a12  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/preferences-system-windows.svg
+db505abca29226f6f5e134c004b6525a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-file-manager.svg
+7595597b769ed4a61cbb63970732e79c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-installer.svg
+ac749b37ef4e0313779613fdedc67928  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-software-update.svg
+e71bed0e79152b1ab840555158a7b37a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/system-users.svg
+2817a20edb83cc10210a1743479ebdd7  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/utilities-system-monitor.svg
+6596938a11059bb41de9b640c2dc2abc  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Apps/utilities-terminal.svg
+196e1d243d69a3efda86d7f7768ad9a7  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-accessories.svg
+67c8ed0ef82ab1500dcae210c73a4f5b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-development.svg
+f5fdca9827db533476af5bbac51297dd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-games.svg
+24d76ddd4671d13dc10d4b9aeb299763  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-graphics.svg
+0fb5c8514c315d9d96a4ab826119f977  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-internet.svg
+f2aec4f5a4836a48a9ebb1026638275b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-multimedia.svg
+c1f268e7a6856c6915428dd0223ede89  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-office.svg
+d40c01d50dea73897dc321c2fccd16b4  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-other.svg
+66154e5791e1887feb760b8162c37434  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/applications-system.svg
+730d9c27dbdc6418165340ffc184c673  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/preferences-desktop-peripherals.svg
+137863494a5d39f02b9dcfafe02ede53  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/preferences-desktop.svg
+7631f3f58f75244b7e67849cc4739bbc  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Categories/preferences-system.svg
+1c5d8b70857577ce76587ca0f70a09c1  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/audio-card.svg
+ccf661914b3db4645dc1e7390b86f534  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/audio-input-microphone.svg
+dc12c359244a7f7999bca676fe2e672f  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/battery.svg
+d3a145e9172244c82095d8f08f8e8251  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/camera-photo.svg
+54bc697d4b69184c31acef98dec01986  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/camera-video.svg
+0dc5ad0f87be778c1abe489b40512062  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/computer.svg
+996b12813064dbd148b760273e632065  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/drive-harddisk.svg
+bdad3eef6a2712f34072283983d0bc94  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/drive-optical.svg
+d2f6fa8328082f199cecb5f98724f9b4  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/drive-removable-media.svg
+c8e73d34e10784f1c2df281d1293bb93  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/input-gaming.svg
+96b43d57603733990b8e62c7cb842327  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/input-keyboard.svg
+7e9ffa696372ff66fbee44f7c3c25f75  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/input-mouse.svg
+ecd91ecb8f946966f4bd604690a17f08  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/media-flash.svg
+9303f1e1bc6a49aaee9392a35d277e7b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/media-floppy.svg
+fe623b744590ea20b0a35c6a7b092504  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/media-optical.svg
+465f3f81bdc317bdc33aba5d583c9107  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/multimedia-player.svg
+e2e54d012fbf0102ea1e371f676383b4  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/network-wired.svg
+7825548258e290119b00f9f1f7ce3568  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/network-wireless.svg
+4a0f9eb2c1db26d4bee53922d94ed898  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/printer.svg
+ba36bb4cd62826bfc135714ff87e70f6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Devices/video-display.svg
+4356573c7739f8c4c32dc9228487d89a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-favorite.svg
+66c0f6ae16faa16fca6d8550df49808d  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-important.svg
+0e6a29b55c274ad0d0b68895c2f66fec  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-photos.svg
+0dc1633519c69ee2db5ba56b5738dba0  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-readonly.svg
+8d16b16bbaa5ac51d861965f60a9496c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-symbolic-link.svg
+1ab739b8dc8fd75fc3af7378e719e020  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-system.svg
+a39f4dbb85d0934c58435bd5f7109735  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emblems/emblem-unreadable.svg
+85812063335b285fdaa2d9e35b3acd58  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-angel.svg
+63752798c7052dbbc7e80b8b09450ca8  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-crying.svg
+14f520b1621edefaf17afc4753dd21a6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-devilish.svg
+4a9bc359e821435b7aaa0d532e001dfe  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-glasses.svg
+5529d755274a75f405c8b2e283f6bddd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-grin.svg
+758052e0305148b09a56eb8653bbd436  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-kiss.svg
+06b89cdd0c9c375ee1bb96a086ea8bc0  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-monkey.svg
+16f02d94792858ab642fe0df99e842a9  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-plain.svg
+65e14ac4f06591554cf010acb2647063  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-sad.svg
+5c24c65fc1f89c00da40fda8fc7789cb  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-smile-big.svg
+d138833a7c703d8cccd48eab3917fbd5  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-smile.svg
+bdbd04b0f86d9ef4404427f0bae95193  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-surprise.svg
+09fab7404575bd5686009e0138e114fa  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Emotes/face-wink.svg
+d095fbce968eda02a6c12cf3971c532b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/application-certificate.svg
+7d92af2abdfb019dab680d64a68c3d65  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/application-x-executable.svg
+8672c97da1b029d9528c6643e120463b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/audio-x-generic.svg
+4c2f2fd3bebef40909144b601925ef80  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/font-x-generic.svg
+14345e4a5d276973d4200415c96d141f  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/image-x-generic.svg
+12a72d8fe4660b53fc2e0fa8c9894ead  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/package-x-generic.svg
+7b128fcc31a98e6ea9cede4161b30882  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-html.svg
+0bede33611c072ad98db5707eabc40f6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-x-generic-template.svg
+0070add87464d1e604885084d71d8b44  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-x-generic.svg
+80a27988bce83f0ce33380428d75df3b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/text-x-script.svg
+ffbb1ef13efaf94cbb86530e280fd66e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/video-x-generic.svg
+6f48559daf61334201a0f86c85727a23  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-address-book.svg
+85790490e88c10952a9fd54848c695df  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-calendar.svg
+ad100996b61739629a92f9dbed1dba1a  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-document-template.svg
+c7fb3b0e0c28a53d6704ea535138b69f  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-document.svg
+3543d0c72227c72b08b8d8ad6ea5634c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-drawing-template.svg
+beb785944e571337ce63e2cf162b8fbb  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-drawing.svg
+e3f743d1e29bf18e673607f713c8b9dc  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-presentation-template.svg
+58f85a822d3f5ed8821019f0c44bf5f7  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-presentation.svg
+eacafa0d9d83a4770b712aabc91d7dcd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-spreadsheet-template.svg
+02450af869075c64f68e256b5d2392ab  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/MimeTypes/x-office-spreadsheet.svg
+fe31903e9dc3911280bfbbcb92efa912  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder-remote.svg
+fa0afb15f8e311eab4be949518860879  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder-saved-search.svg
+1155cd6a36e52610b0213624f11310f1  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder.icon
+04f07efbe921bdcb80f5a2d3aa685894  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/folder.svg
+ea79a3406eff89fb19114e4660be2887  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/network-server.svg
+11f71c83ec24b95e1e129b0d5c1a467b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/network-workgroup.svg
+9959c7e809bc663d7b8ddda3d8dcff4d  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/start-here.svg
+04cfdca66d54be46c25d5f4735bf50c2  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/user-desktop.svg
+a338f2c576b648edc1646a29bdc265d3  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/user-home.svg
+324100440a8ba60c2878160335cae8c0  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Places/user-trash.svg
+62c56b524571ccb51e264f5a925fdd19  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-high.svg
+d4818932f55a3da9857f10864cd71d7d  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-low.svg
+4b7528c08b748ec45beeeb2875f0551c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-medium.svg
+2299e04ef860cac8ab871b4f4f542d44  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/audio-volume-muted.svg
+1a6448ff32eb775e500fa72e00873f7e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/battery-caution.svg
+e641a74d3d13653da3be4108acb72397  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/dialog-error.svg
+230d5f3118701ef62ee1aefc4378e718  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/dialog-information.svg
+b80979ca4eb127803c83a6279820d338  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/dialog-warning.svg
+b539d5fa1539495485c9b5f6fb4bfbe6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-drag-accept.icon
+c3c021c6e7212a9bc585899e962efb5b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-drag-accept.svg
+851bb5e39eafe51fe41873f6167ccdbf  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-open.svg
+b539d5fa1539495485c9b5f6fb4bfbe6  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-visiting.icon
+99ee3dc4dcb78ee7524b65bc4794d485  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/folder-visiting.svg
+8d95d0b8121c56b339ca360876f2947c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/image-loading.svg
+90831808aca8a9514a5c7c979784d676  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/image-missing.svg
+a7ecf1643fdf0923ccad395f6dd3722b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/mail-attachment.svg
+e6dd7f42726b5b4f8b445b16b33a3505  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-error.svg
+9e035398ef96bf1b1296545cba28568b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-idle.svg
+32979fa6266158b3106f549663f9dfd8  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-offline.svg
+4d924956989d3e93d297b89470c22097  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-receive.svg
+822e464bd5dc3b63c931bd5568e3ffa9  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-transmit-receive.svg
+0103c10af3186ea86a1d41b3276c349e  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-transmit.svg
+a61a4b57b83a655ef2e22bb00ce107d9  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/network-wireless-encrypted.svg
+3ba330f6303fc05452c3047b9045758c  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/printer-error.svg
+948c9fe573c8e8bc19c7cdf7f20a6167  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/software-update-available.svg
+78d924800df5ed56b2dee5411297ffda  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/software-update-urgent.svg
+f8744baea6794b4757420b87c9c2d3cd  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/user-trash-full.svg
+6aa4201ae54810f13caae7c464b29016  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-clear-night.svg
+63208f9dde9c6cac5256de4793852f92  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-clear.svg
+6c184e6b1d4710079fda50ab018e67cf  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-few-clouds-night.svg
+9b9277540bd5566e1ac509261adafdb3  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-few-clouds.svg
+b9a705c05d972e4c68004c33c8e97c39  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-overcast.svg
+100af972527cae13fc465a2f95c8680b  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-severe-alert.svg
+b3dcf41123a26d6b6d276d0fad6a34f3  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-showers-scattered.svg
+47d7e2886adf853c03bc0d09ace81d15  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-showers.svg
+fb40c78117b1baf0db4ab3d8c0dcbb40  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-snow.svg
+4d2744d03461637138cbcd83eeb79b84  usr/share/shutter/resources/icons/drawing_tool/objects/Tango icon library/Status/weather-storm.svg
+3c3084efe19d978766432a61a4389ea9  usr/share/shutter/resources/icons/drawing_tool/objects/apply.svg
+893e00631d36b7746c3b0225a9e6c326  usr/share/shutter/resources/icons/drawing_tool/objects/cssed.svg
+d7e0dec133c775c090376a9f0e8ffdf0  usr/share/shutter/resources/icons/drawing_tool/objects/error-round.svg
+7c0a8ebcaf127e00efe0a1f4fd6f2fb7  usr/share/shutter/resources/icons/drawing_tool/objects/error.svg
+a29d8d8844645eef753f9b576a7d62b2  usr/share/shutter/resources/icons/drawing_tool/objects/important-red.svg
+2fc613c62c3387d29716ce89e40d9f38  usr/share/shutter/resources/icons/drawing_tool/objects/information-red.svg
+b8bb53006d475f029f9df3a400d576e0  usr/share/shutter/resources/icons/drawing_tool/objects/information-yellow.svg
+c4898c760a618d05234de93d60eb78d6  usr/share/shutter/resources/icons/drawing_tool/objects/notice.svg
+db8131a0ddde0159695e70c0c2bc8953  usr/share/shutter/resources/icons/drawing_tool/objects/question.svg
+346a9ed0d6528e179d0f8ffc45209428  usr/share/shutter/resources/icons/drawing_tool/objects/star.svg
+09125d661038777d7e8fd7616bd029b8  usr/share/shutter/resources/icons/drawing_tool/objects/stop-hand.svg
+cb60ca79fa5760055c1700f83dacbd35  usr/share/shutter/resources/icons/drawing_tool/objects/tux.svg
+1fac52f3316879cdb21707344f4db931  usr/share/shutter/resources/icons/drawing_tool/objects/warning.svg
+7fd6540d41c8d24eee6f5caa816835df  usr/share/shutter/resources/icons/drawing_tool/transform-crop.png
+9f9b0d5e6964f5e54e4f6a726b4ac1c9  usr/share/shutter/resources/icons/executable.svg
+b3175e4a9a73136db654c19e95ec49c0  usr/share/shutter/resources/icons/fullscreen.svg
+72c2e02d367190c42c44eced9622d3d0  usr/share/shutter/resources/icons/logo-imagebanana.png
+414a794d24c8b8efb3a29631a86b96b1  usr/share/shutter/resources/icons/logo-imageshack.png
+b805657bb32bc1d30b7d744f4570be2a  usr/share/shutter/resources/icons/lpi-bug.png
+a41c8e305a7e8a9a0d8d353f35ef7031  usr/share/shutter/resources/icons/lpi-help.png
+c64b23e978bbdcde1c891696627edb97  usr/share/shutter/resources/icons/lpi-translate.png
+35c6327d3f729e6e4d25ae290d6e94af  usr/share/shutter/resources/icons/notify.svg
+820993eb8effb99e24b026c31ffe8298  usr/share/shutter/resources/icons/sel_window.svg
+6f3a3de9a7c75de5b5f26daf22a094b2  usr/share/shutter/resources/icons/sel_window_active.svg
+a5f01aa19814f53875d1b577f6fe3753  usr/share/shutter/resources/icons/sel_window_menu.svg
+0a6a63c9b572a5af934d4d4425bc8d64  usr/share/shutter/resources/icons/sel_window_section.svg
+78674a4dd9359c1bcdb249a3fd4f4943  usr/share/shutter/resources/icons/sel_window_tooltip.svg
+38c8cae9d53e79a533cde0fc0d216b66  usr/share/shutter/resources/icons/selection.svg
+990cb0fb8f25dd07c3bd019dff0b4daa  usr/share/shutter/resources/icons/shutter_cursor.png
+7413e17c187e5d3e325b5120485fe558  usr/share/shutter/resources/icons/shutter_cursor_frame.png
+69f58b3c2cff5df8df289e59362c610e  usr/share/shutter/resources/icons/throbber.gif
+3f5c5f4f887a30b1d1bfed9e4cd4e19e  usr/share/shutter/resources/icons/throbber_16x16.gif
+89acc860762e7635cbe8bdaa7e54fae1  usr/share/shutter/resources/icons/web_image.svg
+879d732bf9a3bb0e1e58c2d985ad4f95  usr/share/shutter/resources/license/gplv3
+32c78f9e452bc7ffb03c32e1939ed75c  usr/share/shutter/resources/license/gplv3_hint
+b38ee9b94a3eb677b5946aac98b66816  usr/share/shutter/resources/po/shutter-plugins/ar.po
+c3d3aa90a471a7ae55c50c05e5ad8d70  usr/share/shutter/resources/po/shutter-plugins/bg.po
+307f033ddc4dad14a29c7d925c49219c  usr/share/shutter/resources/po/shutter-plugins/bn.po
+08d7a536d5fb63cfaa5f3f48716000fe  usr/share/shutter/resources/po/shutter-plugins/bs.po
+783e75902f3149bca43e0c7c0d57b71e  usr/share/shutter/resources/po/shutter-plugins/ca.po
+ae8a8b603b8665be20386a0fc5c31912  usr/share/shutter/resources/po/shutter-plugins/cs.po
+ec5659e1f09595c12f52a1ff9a58c66d  usr/share/shutter/resources/po/shutter-plugins/cy.po
+6eac13920e83e22d104bc39f101c019a  usr/share/shutter/resources/po/shutter-plugins/da.po
+53760f1eb3c0305b063c4e03fc9d6720  usr/share/shutter/resources/po/shutter-plugins/de.po
+7c781dd1f0e7b6a54ddcf97d2b427ed9  usr/share/shutter/resources/po/shutter-plugins/el.po
+596e04b0153cb566216117d15f025c06  usr/share/shutter/resources/po/shutter-plugins/en_CA.po
+a210335bc32f4a09a40c030c482dc46c  usr/share/shutter/resources/po/shutter-plugins/en_GB.po
+3b913c8ff1906f56730a654e933faa14  usr/share/shutter/resources/po/shutter-plugins/es.po
+122c2da04e07647f95e63e951f816f2b  usr/share/shutter/resources/po/shutter-plugins/et.po
+5f7863e2dde404ec0e3ad9e2ffc991a1  usr/share/shutter/resources/po/shutter-plugins/fi.po
+7d1f7bd7e5eaf2f9f2042c0efc4ce088  usr/share/shutter/resources/po/shutter-plugins/fr.po
+ac0b5f8da92d30537cb31c1611630bb5  usr/share/shutter/resources/po/shutter-plugins/gl.po
+6b8398b09df421fd7fd5c96d02e35844  usr/share/shutter/resources/po/shutter-plugins/he.po
+54544f0857a5a1a77eefa896c5358686  usr/share/shutter/resources/po/shutter-plugins/hi.po
+c838f8926aed11020efb6637882c0078  usr/share/shutter/resources/po/shutter-plugins/hr.po
+9c58390d6b9cf6e29fb53fe8101d4ef8  usr/share/shutter/resources/po/shutter-plugins/hu.po
+01ebe0b2a9bc409b5ec5fad2ca91eab1  usr/share/shutter/resources/po/shutter-plugins/id.po
+9a476f66423dc393d82382c75d1a5f76  usr/share/shutter/resources/po/shutter-plugins/it.po
+bdc25b3800481c32a123298e976fa871  usr/share/shutter/resources/po/shutter-plugins/ja.po
+beb10ee4142bd21cf3e11a3d1d628467  usr/share/shutter/resources/po/shutter-plugins/kk.po
+416e28f049fec91fcbf930425ac08538  usr/share/shutter/resources/po/shutter-plugins/ko.po
+e6a6799747828e792e8f3ca38a2c7332  usr/share/shutter/resources/po/shutter-plugins/lt.po
+5aa53b651d63171a8d3edd8d76f76949  usr/share/shutter/resources/po/shutter-plugins/lv.po
+d6a2dd8e42ad5cd9f1970f7ec1264981  usr/share/shutter/resources/po/shutter-plugins/ms.po
+2c3ffc7d6cb2ed8b0529246021da9198  usr/share/shutter/resources/po/shutter-plugins/nb.po
+e6f101d2da43e2749b67249d8e9b215c  usr/share/shutter/resources/po/shutter-plugins/nl.po
+970b5d8d99856d399ff9788f614cb723  usr/share/shutter/resources/po/shutter-plugins/oc.po
+ab15e036deb6e7705aa80dcdd8743461  usr/share/shutter/resources/po/shutter-plugins/pl.po
+725d5d5a4d9742e11fbddabafa31b504  usr/share/shutter/resources/po/shutter-plugins/pt.po
+98ebb0e7e3c20f1fc34c7adb1cf25b88  usr/share/shutter/resources/po/shutter-plugins/pt_BR.po
+b7e380069d0693c6e7366bdcaa5f82d5  usr/share/shutter/resources/po/shutter-plugins/ro.po
+ae35b7827e96ddf04b7a765f01737e30  usr/share/shutter/resources/po/shutter-plugins/ru.po
+c2b5df6255d6ee2e6bd2cc7faecee42d  usr/share/shutter/resources/po/shutter-plugins/shutter-plugins.pot
+5759fb5837a2027ab570eb8f822c935b  usr/share/shutter/resources/po/shutter-plugins/si.po
+a90699361da7b7b7c9d6d689103acffc  usr/share/shutter/resources/po/shutter-plugins/sk.po
+0ffee230d6053bfa3d3e376370358d79  usr/share/shutter/resources/po/shutter-plugins/sl.po
+6dff722002ee42608600df2d12164ed8  usr/share/shutter/resources/po/shutter-plugins/sr.po
+f415e4c63b015c611a92272cf5eebdc9  usr/share/shutter/resources/po/shutter-plugins/sv.po
+30c1185d72aee1dba782f721b53a575e  usr/share/shutter/resources/po/shutter-plugins/ta.po
+2138e81a8708a723d0b9a883f4806e8e  usr/share/shutter/resources/po/shutter-plugins/te.po
+d79cf2320b60f04a97b711d94e904e2b  usr/share/shutter/resources/po/shutter-plugins/th.po
+8f3aa1fdff2cc746d141ffdcae2005a3  usr/share/shutter/resources/po/shutter-plugins/tr.po
+3eb5b86bebdb6fd0c0d54ad26e9f624d  usr/share/shutter/resources/po/shutter-plugins/ug.po
+ee7eab1b4c40ba245212cedfcedce8e3  usr/share/shutter/resources/po/shutter-plugins/uk.po
+891ac671693a935620c4b63f55b8e2f0  usr/share/shutter/resources/po/shutter-plugins/ur.po
+7393fd2b16a39712037bb7ae80d4a8da  usr/share/shutter/resources/po/shutter-plugins/vi.po
+968e97423f56c70a7361ff71487d51c9  usr/share/shutter/resources/po/shutter-plugins/zh_CN.po
+5d863d44db35dae110bcd9c956ed9c4a  usr/share/shutter/resources/po/shutter-plugins/zh_TW.po
+b2c46884d48aa47812154b4a76b8a6b4  usr/share/shutter/resources/po/shutter-upload-plugins/ar.po
+21e8b0ffbd4c91d76580c68e77596842  usr/share/shutter/resources/po/shutter-upload-plugins/bg.po
+e041bf3a347167c3042657320d426453  usr/share/shutter/resources/po/shutter-upload-plugins/bn.po
+6044b646e02df03279c9c99a011e7cf4  usr/share/shutter/resources/po/shutter-upload-plugins/ca.po
+1067720d41ff0b21e8ceaba567593aab  usr/share/shutter/resources/po/shutter-upload-plugins/cs.po
+7adef4499c49c3f3e4f325332307eb34  usr/share/shutter/resources/po/shutter-upload-plugins/cy.po
+cb82018e0009ac661df3c80077350160  usr/share/shutter/resources/po/shutter-upload-plugins/da.po
+c5c4bd097b804fea47f05cbe9381a5be  usr/share/shutter/resources/po/shutter-upload-plugins/de.po
+eccc66bc1221ef0aa5b6c4a48a275404  usr/share/shutter/resources/po/shutter-upload-plugins/el.po
+9a4040117ab6fabafc4a25cfb89db3ca  usr/share/shutter/resources/po/shutter-upload-plugins/en_AU.po
+6fc3c5ce31af6e8fe2f0e5bceead4765  usr/share/shutter/resources/po/shutter-upload-plugins/en_GB.po
+4c047b8bff3ded14d0679c370360c022  usr/share/shutter/resources/po/shutter-upload-plugins/es.po
+c9dfdc333e2380aeea9451905688e9a8  usr/share/shutter/resources/po/shutter-upload-plugins/et.po
+91f97665d58dd9569e894506eb64357b  usr/share/shutter/resources/po/shutter-upload-plugins/fa.po
+058c6534828531d8e494544466511c5e  usr/share/shutter/resources/po/shutter-upload-plugins/fi.po
+423a8c1c0b2019d5e02b36d164368fdd  usr/share/shutter/resources/po/shutter-upload-plugins/fr.po
+526eb69d84d1327c4e807c60287cfac7  usr/share/shutter/resources/po/shutter-upload-plugins/gl.po
+146fb076ccde6bac8a94648337cffee9  usr/share/shutter/resources/po/shutter-upload-plugins/he.po
+4e19fa97c73077f8e74a5d0bffe4eb35  usr/share/shutter/resources/po/shutter-upload-plugins/hi.po
+88680fccba419158264353245c1340e5  usr/share/shutter/resources/po/shutter-upload-plugins/hr.po
+577661afe93afba73988d6750f21ed58  usr/share/shutter/resources/po/shutter-upload-plugins/hu.po
+213a06efc35fca209ef0162b0a89549b  usr/share/shutter/resources/po/shutter-upload-plugins/id.po
+c4c4074c5ac7d14afad250fc0b3301da  usr/share/shutter/resources/po/shutter-upload-plugins/is.po
+b4171a46993021e71b68b7d844a2dd76  usr/share/shutter/resources/po/shutter-upload-plugins/it.po
+095909f766381568180997e62dd3a074  usr/share/shutter/resources/po/shutter-upload-plugins/ja.po
+b58d8f14403978337bb004a357a0a016  usr/share/shutter/resources/po/shutter-upload-plugins/ko.po
+8c8bcb1b18ac0de2b11eebf51d680835  usr/share/shutter/resources/po/shutter-upload-plugins/lt.po
+7a01aeca7c05b05e5b8248faa28b7e30  usr/share/shutter/resources/po/shutter-upload-plugins/lv.po
+ba3003c63e1b3068040bc2a96e98a478  usr/share/shutter/resources/po/shutter-upload-plugins/ms.po
+05c8e0d5d5b08a488ed9245fb581c1dc  usr/share/shutter/resources/po/shutter-upload-plugins/nb.po
+629cd07defd16333aa605a2997c525ae  usr/share/shutter/resources/po/shutter-upload-plugins/nl.po
+53ad069daa47602c8d53b9a0c7ad6344  usr/share/shutter/resources/po/shutter-upload-plugins/oc.po
+a9ba6a5a96b6f18092211cb1ed1ae5b1  usr/share/shutter/resources/po/shutter-upload-plugins/pl.po
+7efff71bd6d99da39e16aa1c1a6b0c60  usr/share/shutter/resources/po/shutter-upload-plugins/pt.po
+21e39c3b700886cd1c1a321d19523d5d  usr/share/shutter/resources/po/shutter-upload-plugins/pt_BR.po
+f07ca309fc01673381cd105b1728ccf9  usr/share/shutter/resources/po/shutter-upload-plugins/ro.po
+4c839070ebaff9dcba733a44005e4aa8  usr/share/shutter/resources/po/shutter-upload-plugins/ru.po
+06351931d3bd49937eb4aa7c7801db2a  usr/share/shutter/resources/po/shutter-upload-plugins/shn.po
+54ae3f07665d43c5469eaa91edca0682  usr/share/shutter/resources/po/shutter-upload-plugins/shutter-upload-plugins.pot
+5347fe54ddbaef0e64d7552bdd104b30  usr/share/shutter/resources/po/shutter-upload-plugins/si.po
+0de8bc2f51798b20b32db6c9c6a1d24f  usr/share/shutter/resources/po/shutter-upload-plugins/sk.po
+cf145afc41d3a192383446d040c534ef  usr/share/shutter/resources/po/shutter-upload-plugins/sl.po
+637a231cdcc2d0b4f82490de2fc58948  usr/share/shutter/resources/po/shutter-upload-plugins/sr.po
+815a90a288735d792ba60f8d81e0e2b8  usr/share/shutter/resources/po/shutter-upload-plugins/sv.po
+865ffea07aad26cd0d5f80de8d11ecba  usr/share/shutter/resources/po/shutter-upload-plugins/ta.po
+b79421c3741c81fc23780c7580795d15  usr/share/shutter/resources/po/shutter-upload-plugins/th.po
+e43c3a422cb6239da03de86cf90ac486  usr/share/shutter/resources/po/shutter-upload-plugins/tr.po
+d04be876fdfe2096994398735d2bdc87  usr/share/shutter/resources/po/shutter-upload-plugins/ug.po
+7089d523b4875d5334abc7e597adb7dc  usr/share/shutter/resources/po/shutter-upload-plugins/uk.po
+0dea031871cd1e9f12d283731a41088f  usr/share/shutter/resources/po/shutter-upload-plugins/zh_CN.po
+9b288ac26ab32864903220f91af6809e  usr/share/shutter/resources/po/shutter-upload-plugins/zh_TW.po
+5055e2e293daf9393e352c89a01de4f8  usr/share/shutter/resources/po/shutter/af.po
+998a70f05058792d391ba5712295969f  usr/share/shutter/resources/po/shutter/ar.po
+810f4edee0595933b34d2e792cc960c6  usr/share/shutter/resources/po/shutter/as.po
+39c965749d3dc5cf0d7a173119b39efc  usr/share/shutter/resources/po/shutter/ast.po
+4819e519ecee2e25bfa77bb7d77af231  usr/share/shutter/resources/po/shutter/az.po
+c39be632fd68c8539519e00751fe9ee0  usr/share/shutter/resources/po/shutter/be.po
+0b54a7534f37b79c22fcc678e6aa48d8  usr/share/shutter/resources/po/shutter/ber.po
+5322d580a6edf1a735608c679f4d41f5  usr/share/shutter/resources/po/shutter/bg.po
+a6fa36048cb5fb4b64b9366d9cc3bcd6  usr/share/shutter/resources/po/shutter/bn.po
+ca090c037207976cb133af075d1df2a9  usr/share/shutter/resources/po/shutter/bs.po
+df1116deb432f248ea2b0d938b037a39  usr/share/shutter/resources/po/shutter/ca.po
+7774e87442ad418d1f8e703df77e7ced  usr/share/shutter/resources/po/shutter/cs.po
+2755601f797db83b0c5473a78631bf6d  usr/share/shutter/resources/po/shutter/cy.po
+d154e37f7c73c595ae4fa7f6a329c0fd  usr/share/shutter/resources/po/shutter/da.po
+133ebf77d0825e982b0d22c80c99973a  usr/share/shutter/resources/po/shutter/de.po
+13d41788785ebac0aea9cd43e1ce891b  usr/share/shutter/resources/po/shutter/el.po
+1ae815b92fb090627e47866070370e5f  usr/share/shutter/resources/po/shutter/en_CA.po
+cc7efb91c7038e0503f0cb1fb8282acd  usr/share/shutter/resources/po/shutter/en_GB.po
+856a15d80e9f0dc4e727606609595a5c  usr/share/shutter/resources/po/shutter/es.po
+7fe53caf3e581023285fd9bb94e4ddba  usr/share/shutter/resources/po/shutter/et.po
+d4a06de6adbfca083c4916c6f763a93e  usr/share/shutter/resources/po/shutter/eu.po
+a94802841c948972b55a426f334c3f59  usr/share/shutter/resources/po/shutter/fa.po
+5876b880836b5f51536efecc2519e03a  usr/share/shutter/resources/po/shutter/fi.po
+24be3fcb8159d7284043354ab966ace3  usr/share/shutter/resources/po/shutter/fo.po
+21aa1820a2bd4d763846e7e6532b9d2a  usr/share/shutter/resources/po/shutter/fr.po
+aa0d7d09dcf447c0a8e01893078b7475  usr/share/shutter/resources/po/shutter/gl.po
+7c6f42083599d456e30ddf385c898d32  usr/share/shutter/resources/po/shutter/he.po
+fa609d90d050935cdcf4c64dab0d5e65  usr/share/shutter/resources/po/shutter/hi.po
+ae119f02618c1fba9abb509a6e537f0d  usr/share/shutter/resources/po/shutter/hr.po
+d9e44f797a1ea8bc6db2f136961347e8  usr/share/shutter/resources/po/shutter/hu.po
+93f388441c56108d645c60004c9ea368  usr/share/shutter/resources/po/shutter/hy.po
+05a5b3e5af69323b686c4767f9a1f865  usr/share/shutter/resources/po/shutter/id.po
+55a3d0f080561e47284a73bf244ab97e  usr/share/shutter/resources/po/shutter/it.po
+c86b4b5f68986203f7c69cc90bcc5720  usr/share/shutter/resources/po/shutter/ja.po
+867b4a7843038a6ef160c6bb0c917991  usr/share/shutter/resources/po/shutter/kk.po
+c059df2588e14013e01607eed328bbfd  usr/share/shutter/resources/po/shutter/kn.po
+ec1dc4592f65b9f61220a3b6ee934f0a  usr/share/shutter/resources/po/shutter/ko.po
+6905fd2c279cecabc80738203013f66d  usr/share/shutter/resources/po/shutter/lt.po
+b04fc6e947a7f6542400af245984bf3d  usr/share/shutter/resources/po/shutter/lv.po
+b3dc58bc6ef5dcc88bc0b564067cc183  usr/share/shutter/resources/po/shutter/ms.po
+ca01d49faf4030c87fc8a14ecfe6a543  usr/share/shutter/resources/po/shutter/nb.po
+e9ee7c5c79bba267d53123a4391fa3a0  usr/share/shutter/resources/po/shutter/nl.po
+7c85b397da355902f283d6cb06595746  usr/share/shutter/resources/po/shutter/nn.po
+0f1eb074b3d3e1f4b3c10568c19c9b40  usr/share/shutter/resources/po/shutter/oc.po
+2d1d888df324d79e0d0bdee3cf1937f2  usr/share/shutter/resources/po/shutter/pl.po
+6d90694c4f441bd855893e37774f49c8  usr/share/shutter/resources/po/shutter/pt.po
+4b09b70cc7b95b66e1156b5494fd2782  usr/share/shutter/resources/po/shutter/pt_BR.po
+cae00beb0a566ebdae5c39754eb5426b  usr/share/shutter/resources/po/shutter/ro.po
+4644e4fe86c1f4ce10cc8bdc7c99f948  usr/share/shutter/resources/po/shutter/ru.po
+a437cd01d5e2e2a04d23913332ca3fcf  usr/share/shutter/resources/po/shutter/shn.po
+d2ecfb41abcbdcc4006664b484ccfaa8  usr/share/shutter/resources/po/shutter/shutter.pot
+35018f86e7e7a878b55acff49884d0df  usr/share/shutter/resources/po/shutter/si.po
+818b26f2fc67790ab929538f08d5aa30  usr/share/shutter/resources/po/shutter/sk.po
+49c03379bce7e5057b4b171409efa992  usr/share/shutter/resources/po/shutter/sl.po
+45b6eb692d228fc72a1a5aa5b4b2c833  usr/share/shutter/resources/po/shutter/sr.po
+409221330ed0de145eb7fe8b79e25901  usr/share/shutter/resources/po/shutter/sv.po
+46d7985cb8b7dc4726e7c6648ba3b1df  usr/share/shutter/resources/po/shutter/ta.po
+257cba0d9060d51ff9127887366ce3ad  usr/share/shutter/resources/po/shutter/te.po
+02a810f2a6bd342a53eaaa6bcd18e90d  usr/share/shutter/resources/po/shutter/th.po
+9777834a69e3a5dbee9581f32d4f7bdb  usr/share/shutter/resources/po/shutter/tr.po
+f76b9a2a0d017a5c2405bfcbae65a4e6  usr/share/shutter/resources/po/shutter/ug.po
+6efc531c481df29b8522d5e131641cb5  usr/share/shutter/resources/po/shutter/uk.po
+b439bf311370ae9a18b86f839bcf56c0  usr/share/shutter/resources/po/shutter/ur.po
+f426c816e3e53a9efb4ffb47e4ec9957  usr/share/shutter/resources/po/shutter/vi.po
+b3ac45e94fb19df03024c81e2084766e  usr/share/shutter/resources/po/shutter/zh_CN.po
+ca066c367f5352cd2240557097a0f39f  usr/share/shutter/resources/po/shutter/zh_HK.po
+09303ca6c0f5905d3e6fb5ac6a2ba378  usr/share/shutter/resources/po/shutter/zh_TW.po
+7534e45d115c6a2c0b80c7df071bde63  usr/share/shutter/resources/system/plugins/perl/spbardistortion/spbardistortion
+9d9e7c1406ce94729d3f9fda2c616183  usr/share/shutter/resources/system/plugins/perl/spbardistortion/spbardistortion.png
+1ef9938aaa0ebd6ab76e62b32d03534a  usr/share/shutter/resources/system/plugins/perl/spnegate/spnegate
+9da4d5333d176e2ae134d9bc13b17c62  usr/share/shutter/resources/system/plugins/perl/spnegate/spnegate.svg
+d1d53c3d37fd7f612f44920d06c99025  usr/share/shutter/resources/system/plugins/perl/sppolaroid/sppolaroid
+9c152bffad756f05a73d172313b9233f  usr/share/shutter/resources/system/plugins/perl/sppolaroid/sppolaroid.svg
+6c29734a3a36737920cd387c8595e376  usr/share/shutter/resources/system/plugins/perl/spresize/Locked.svg
+c2e3e81f34bea6c8c036117b7c07f5fa  usr/share/shutter/resources/system/plugins/perl/spresize/Unlocked.svg
+134f047ba61948184a089dde2dba79ea  usr/share/shutter/resources/system/plugins/perl/spresize/spresize
+de980faf9da1d74b5680ac4bb198f37d  usr/share/shutter/resources/system/plugins/perl/spresize/spresize.svg
+2d22008ccecbfb6789eefad1c00f083a  usr/share/shutter/resources/system/plugins/perl/spsepia/spsepia
+c806f600a37e121e524f842fce8a9e02  usr/share/shutter/resources/system/plugins/perl/spsepia/spsepia.svg
+e3ccc745a9f218ae0474f2371960306d  usr/share/shutter/resources/system/plugins/perl/spshadow/spshadow
+8e77d4c48a1b6ed908470b9648a11a1e  usr/share/shutter/resources/system/plugins/perl/spshadow/spshadow.svg
+ce86c9f7e45384a3093c633310d133e5  usr/share/shutter/resources/system/plugins/perl/spwatermark/spwatermark
+9f0f0a91edbd5388147468a43603777d  usr/share/shutter/resources/system/plugins/perl/spwatermark/spwatermark.svg
+889092fdba48b2e36383216f08d9dda1  usr/share/shutter/resources/system/plugins/shell/spgrayscale/spgrayscale
+f6df5b26e5e364df0a7ece3b48ac9efe  usr/share/shutter/resources/system/plugins/shell/spgrayscale/spgrayscale.svg
+c384f3c92b77a3142f6d7ba0c3d0a6d5  usr/share/shutter/resources/system/plugins/shell/spoffset/spoffset
+a26ac559b597eefbd8e8a81082132e39  usr/share/shutter/resources/system/plugins/shell/spoffset/spoffset.svg
+602aaab027a6a981094a06d3cbc382ec  usr/share/shutter/resources/system/plugins/shell/spraise/spraise
+454b9651ea2129625cf553b6842d4170  usr/share/shutter/resources/system/plugins/shell/spraise/spraise.svg
+e9c2733201c72ae75aab874bf790aca7  usr/share/shutter/resources/system/plugins/shell/spsoftedges/spsoftedges
+9d012ceea430c3d2ab266952ee0101ae  usr/share/shutter/resources/system/plugins/shell/spsoftedges/spsoftedges.svg
+14b2f6e83181053379f65f5560160e85  usr/share/shutter/resources/system/plugins/shell/spsunk/spsunk
+dc9373707a6d676b2471a29f3bda856c  usr/share/shutter/resources/system/plugins/shell/spsunk/spsunk.svg
+e488f308da513148031057d4a9ddfe52  usr/share/shutter/resources/system/plugins/shell/sptornedpaper/sptornedpaper
+98f7786281d49d34c902f4a72313f009  usr/share/shutter/resources/system/plugins/shell/sptornedpaper/sptornedpaper.png
+f4dfbdfd101bc8cb2de304f5a8382cbf  usr/share/shutter/resources/system/plugins/shell/sptrim/sptrim
+dc0eea90ba2597976f8fd550ec7f4166  usr/share/shutter/resources/system/plugins/shell/sptrim/sptrim.svg
+f44f30accf2d7002f68d6c0375ccefe3  usr/share/shutter/resources/system/upload_plugins/Template.pm
+da2f43e2c5cb3e7fff8ef370dd8f993e  usr/share/shutter/resources/system/upload_plugins/upload/Dropbox.pm
+5bfedf31533c090b64894ff925339c39  usr/share/shutter/resources/system/upload_plugins/upload/ITmages.pm
+a5d81cedeabeb6115e4d98030c9d8ab3  usr/share/shutter/resources/system/upload_plugins/upload/Imgur.pm
+74e51f4d47dbc850d9125b368203b05c  usr/share/shutter/resources/system/upload_plugins/upload/Minus.pm
+559b77197612783737504de83e95dacc  usr/share/shutter/resources/system/upload_plugins/upload/ToileLibre.pm
+ccf3a102c02a8e81e6d38cb650bedaa5  usr/share/shutter/resources/system/upload_plugins/upload/TwitPic.pm
+cd25e3ccd2be8667e7eed91f69fa9180  usr/share/shutter/resources/system/upload_plugins/upload/vgyme.pm
+16489ce10ee2d1a382edff4602048e19  usr/share/shutter/update-notifier-shutter

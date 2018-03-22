@@ -1,0 +1,8 @@
+18d8f3ecd683edacccedf7b35a6fc03d  usr/lib/x86_64-linux-gnu/capi/lib_capi_mod_fritzbox.so.2.0.0
+e50d17065f8d6d35bd46622297d7f179  usr/lib/x86_64-linux-gnu/capi/lib_capi_mod_rcapi.so.2.0.0
+6a26ec4af248fcf44141e7f57cb65d8d  usr/lib/x86_64-linux-gnu/capi/lib_capi_mod_std.so.2.0.0
+343ee0615ef5fb46de4ac5d875aad2cf  usr/lib/x86_64-linux-gnu/libcapi20.so.3.0.6
+e751cbc1537bd7dcc5ba40df17da30aa  usr/share/doc/libcapi20-3/README
+b6f27a1542de4df358f44aa70cb7cb05  usr/share/doc/libcapi20-3/README.Debian
+df271f3e83ab9b6eccdca23a2f7577c5  usr/share/doc/libcapi20-3/changelog.Debian.gz
+cee05a22e9929902de072e09e9144170  usr/share/doc/libcapi20-3/copyright

@@ -1,0 +1,25 @@
+Log of fsck -C -a -T -t ext4 /dev/sdb1 
+Sun Mar 18 19:52:05 2018
+
+/dev/sdb1: recovering journal
+/dev/sdb1: Clearing orphaned inode 22020118 (uid=1000, gid=1000, mode=0100700, size=2949120)
+/dev/sdb1: Clearing orphaned inode 44306169 (uid=1000, gid=1000, mode=0100664, size=32768)
+/dev/sdb1: Clearing orphaned inode 44305715 (uid=1000, gid=1000, mode=0100600, size=11436)
+/dev/sdb1: Clearing orphaned inode 44302996 (uid=1000, gid=1000, mode=0100640, size=85)
+/dev/sdb1: Clearing orphaned inode 44302585 (uid=1000, gid=1000, mode=0100640, size=2813)
+/dev/sdb1: Clearing orphaned inode 44302517 (uid=1000, gid=1000, mode=0100640, size=1954)
+/dev/sdb1: Clearing orphaned inode 44303905 (uid=1000, gid=1000, mode=0100640, size=6788)
+/dev/sdb1: Clearing orphaned inode 44304082 (uid=1000, gid=1000, mode=0100664, size=19948)
+/dev/sdb1: Clearing orphaned inode 44304013 (uid=1000, gid=1000, mode=0100664, size=19948)
+/dev/sdb1: Clearing orphaned inode 44304036 (uid=1000, gid=1000, mode=0100664, size=19948)
+/dev/sdb1: Clearing orphaned inode 44304299 (uid=1000, gid=1000, mode=0100664, size=19948)
+/dev/sdb1: Clearing orphaned inode 22020114 (uid=0, gid=0, mode=0100666, size=0)
+/dev/sdb1: Clearing orphaned inode 22020115 (uid=122, gid=130, mode=0100600, size=0)
+/dev/sdb1: Clearing orphaned inode 22020111 (uid=122, gid=130, mode=0100600, size=0)
+/dev/sdb1: Clearing orphaned inode 22020110 (uid=122, gid=130, mode=0100600, size=0)
+/dev/sdb1: Clearing orphaned inode 22020109 (uid=122, gid=130, mode=0100600, size=0)
+/dev/sdb1: Clearing orphaned inode 22020108 (uid=122, gid=130, mode=0100600, size=0)
+/dev/sdb1: clean, 1167413/60530688 files, 65139120/242121216 blocks
+
+Sun Mar 18 19:52:21 2018
+----------------

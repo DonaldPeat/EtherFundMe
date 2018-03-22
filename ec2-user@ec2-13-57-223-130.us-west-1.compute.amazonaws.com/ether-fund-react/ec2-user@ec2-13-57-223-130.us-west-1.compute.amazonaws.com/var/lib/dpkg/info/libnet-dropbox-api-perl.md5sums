@@ -1,0 +1,5 @@
+b438eb701c1058b51ace143d92d75f65  usr/share/doc/libnet-dropbox-api-perl/changelog.Debian.gz
+ae162988e1d3e1e243aff06192826616  usr/share/doc/libnet-dropbox-api-perl/copyright
+404cf3a8bf586a4441080a642a864f5c  usr/share/doc/libnet-dropbox-api-perl/examples/dropbox
+979ccaf22a66daa6e0f5b23b1986d201  usr/share/man/man3/Net::Dropbox::API.3pm.gz
+f902024af947bbf8199c8ca461181a3c  usr/share/perl5/Net/Dropbox/API.pm

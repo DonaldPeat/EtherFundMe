@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Papar label kira detik">
+						<longdesc>Sama ada hendak paparkan label pada bahagian kanan ikon dengan masa berbaki kepada penggera berikutnya.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Arahan">
+							<longdesc>Perintah untuk jalan bagi jenis notifikasi &quot;command&quot;</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Ulang Bunyi">
+							<longdesc>Sama ada untuk diulangi bunyi penggera.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Fail Bunyi">
+							<longdesc>Fail bunyi untuk main bagi jenis notifikasi &quot;sound&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Jenis Pemberitahuan">
+							<longdesc>Jenis notifikasi untuk digunakan bila penggera berbunyi. Ini boleh dilakukan dengan cara: &quot;sound&quot; untuk main bunyi (dinyatakan dalam properti &quot;sound_file&quot;). &quot;command&quot; untuk jalan perintah (dinyatakan dalam properti &quot;command&quot;).</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Penggera Diulang">
+							<longdesc>Senarai hari yang penggera perlu diulang. Keutamaan ini hanya boleh digunakan untuk penggera &quot;jam&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Keadaan Penggera">
+							<longdesc>Menandakan sama ada penggera telah bermula.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Mesej Penggera">
+							<longdesc>Mesej ringkas menyatakan tentang penggera.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Waktu Penggera">
+							<longdesc>Waktu untuk penggera. Hendaklah dalam GMT untuk penggera &quot;jam&quot; atau jangka masa panjang dalam saat untuk penggera &quot;pemasa&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Timestamp Penggera">
+							<longdesc>Timestamp UNIX untuk penggera. Mesti diset sebelum penggera diaktifkan.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Jenis penggera">
+							<longdesc>Jenis penggera. Sama ada &quot;clock&quot; untuk penggera pada waktu tertentu sehari, atau &quot;timer&quot; bagi penggera selepas jangka masa tertentu.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

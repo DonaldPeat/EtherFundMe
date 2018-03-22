@@ -1,0 +1,8 @@
+# This is private data. Do not parse.
+WHAT=shutdown:sleep
+MODE=block
+UID=1000
+PID=1502
+WHO=donquixote
+WHY=user session inhibited
+FIFO=/run/systemd/inhibit/10.ref

@@ -1,0 +1,9 @@
+6c51b8e5dadde63d4118daa40e5b593f  usr/share/doc/libdata-random-perl/README.linux.words.gz
+abfeb11be24e59ad82853132dd847717  usr/share/doc/libdata-random-perl/README2.linux.words
+aad369e67e4051d8dd1595cf7f46a3eb  usr/share/doc/libdata-random-perl/changelog.Debian.gz
+b4d40f10d8e71459cc234634e53f69f0  usr/share/doc/libdata-random-perl/copyright
+43adb59b32d020a7a2cd887be235e379  usr/share/man/man3/Data::Random.3pm.gz
+91cf4792b3b84df1fc3f16d93f938f6e  usr/share/man/man3/Data::Random::WordList.3pm.gz
+a200462f9d6d122b45f545a106194125  usr/share/perl5/Data/Random.pm
+834a474443d6b0471e9b10cfe024e3d3  usr/share/perl5/Data/Random/WordList.pm
+cc4e48a5fe0ba15b13a98b3fd34b340e  usr/share/perl5/Data/Random/dict

@@ -1,0 +1,10 @@
+aff3572ede4a8fcc71c97d446bc2f817  usr/lib/x86_64-linux-gnu/libnetsnmp.so.30.0.3
+b7dd4c056257dbc11f134fda28b3d371  usr/lib/x86_64-linux-gnu/libnetsnmpagent.so.30.0.3
+89e55c1538017015ea028d618f8392b1  usr/lib/x86_64-linux-gnu/libnetsnmphelpers.so.30.0.3
+2b607cda602bd8b7dd9df8b507dce466  usr/lib/x86_64-linux-gnu/libnetsnmpmibs.so.30.0.3
+9370b483b5fff51bbfe475fd58c6ed88  usr/lib/x86_64-linux-gnu/libnetsnmptrapd.so.30.0.3
+ce4ab42fb39b99991a9e3d7a14467fb1  usr/lib/x86_64-linux-gnu/libsnmp.so.30.0.3
+0081dd808d459e0348a9bf9fb5d8ebc3  usr/share/doc/libsnmp30/NEWS.Debian.gz
+b6d5f8a2c11550a3845eaf373e835074  usr/share/doc/libsnmp30/changelog.Debian.gz
+35ef5891fe22ecc2cfad376eccc242fd  usr/share/doc/libsnmp30/copyright
+c5ec060f325e02f50752bc8a9e7b0dcf  usr/share/lintian/overrides/libsnmp30

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Загад">
+							<longdesc>Загад для «загаднага» нагадваньня</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Паўтор мелодыі">
+							<longdesc>Ці паўтараць мелодыю нагадваньня.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Гукавы файл">
+							<longdesc>Гукавы файл для прайграваньня ў рэжыме «мелодыя»</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Тып апавяшчэньня">
+							<longdesc>Што рабіць падчас спрацоўваньня будзільніка? Абярыце адзін з варыянтаў: прайграць гук (пазначаецца ў парамэтры «гукавы файл») альбо выканаць каманду (пазначаецца ў парамэтры «каманда»).</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Паўтор сыгналу">
+							<longdesc>Сьпіс дзен, калі трэба паўтараць нагадваньне. Налады ўжывальныя толькі для «пагадзінных» нагадваньняў.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Прастора запуска будзільніка">
+							<longdesc>Паказвае, ці было актывізавана нагадваньне.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Паведамленьне будзільніка">
+							<longdesc>Кароткае паведамленьне, якое апісвае будзільнік.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Час сыгналу">
+							<longdesc>Час для нагадваньня. Павінен быць у GMT для «пагадзінных» нагадваньняў ці ў сэкундах для таймера.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Часовая адзнака сыгналу">
+							<longdesc>Часовая пазнака UNIX для будзільніка. Павінна быць усталявана да актывацыі будзільніка.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Тып нагадваньня">
+							<longdesc>Тып будзільніка. «Гадзіньнік» — у вызначаны час дня альбо «тамер» — па сканчэньні вызначанага пэрыяда.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

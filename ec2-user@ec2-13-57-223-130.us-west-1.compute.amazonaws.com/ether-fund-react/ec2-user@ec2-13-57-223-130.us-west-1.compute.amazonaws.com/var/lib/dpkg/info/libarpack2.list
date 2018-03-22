@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libarpack2
+/usr/share/doc/libarpack2/copyright
+/usr/share/doc/libarpack2/changelog.Debian.gz
+/usr/lib
+/usr/lib/libarpack.so.2.0.0
+/usr/lib/libarpack.so.2

@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installinit
+if [ -x "/etc/init.d/mongod" ] || [ -e "/etc/init/mongod.conf" ]; then
+	invoke-rc.d mongod stop || exit $?
+fi
+# End automatically added section

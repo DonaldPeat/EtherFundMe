@@ -1,0 +1,7 @@
+I:28394811
+E:ID_PCI_CLASS_FROM_DATABASE=Display controller
+E:ID_PCI_SUBCLASS_FROM_DATABASE=VGA compatible controller
+E:ID_PCI_INTERFACE_FROM_DATABASE=VGA controller
+E:ID_VENDOR_FROM_DATABASE=Intel Corporation
+E:ID_MODEL_FROM_DATABASE=Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller
+E:FWUPD_GUID=0x8086:0x0412

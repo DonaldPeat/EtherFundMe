@@ -1,0 +1,24 @@
+Package: steam-launcher
+Source: steam
+Version: 1.0.0.54
+Architecture: all
+Maintainer: Valve Corporation <linux@steampowered.com>
+Installed-Size: 2830
+Depends: python, curl, libc6 (>= 2.15), python-apt, xterm | gnome-terminal | konsole, xz-utils, zenity
+Recommends: jockey-common
+Breaks: steam64
+Replaces: steam, steam64
+Multi-Arch: foreign
+Homepage: http://www.steampowered.com/
+Priority: optional
+Section: games
+Filename: pool/steam/s/steam/steam-launcher_1.0.0.54_all.deb
+Size: 2752252
+SHA256: 45aa0aaec0183f667ae985667ef2ca4bab9391fbe0fa398ac9f2ca32dfb526d8
+SHA1: 06a27dac25aa0298b823ee51abfca0301807c85b
+MD5sum: 826ce064640e5ffc3c54bd8cfa3032e4
+Description: Launcher for the Steam software distribution service
+ Steam is a software distribution service with an online store, automated
+ installation, automatic updates, achievements, SteamCloud synchronized
+ savegame and screenshot functionality, and many social features.
+

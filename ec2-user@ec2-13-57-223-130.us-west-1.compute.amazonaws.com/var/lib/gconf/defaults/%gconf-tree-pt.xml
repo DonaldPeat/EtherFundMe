@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Comando">
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Repetir Som">
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Ficheiro de Som">
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Tipo de notificação">
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Repetição do Alarme">
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Estado Actual do Alarme">
+							<longdesc>Indica se o alarme foi iniciado.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Mensagem do Alarme">
+							<longdesc>Uma pequena mensagem que descreva o alarme.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Tempo do Alarme">
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Tipo de Alarme">
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

@@ -1,0 +1,17 @@
+#!/bin/sh
+set -e
+
+# This should be the version with "." removed - e.g. 30 for wxPython 3.0.
+PRIORITY=30
+
+update-alternatives --install /usr/lib/wx/python/wx.pth  wx.pth	\
+			      /usr/lib/wx/python/wx3.0.pth        $PRIORITY
+
+
+# Automatically added by dhpython:
+if which pycompile >/dev/null 2>&1; then
+	pycompile -p python-wxgtk3.0 
+fi
+
+# End automatically added section
+

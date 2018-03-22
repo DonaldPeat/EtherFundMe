@@ -1,0 +1,59 @@
+Package: spotify-client
+Priority: extra
+Section: sound
+Installed-Size: 215972
+Maintainer: Spotify <tux@spotify.com>
+Architecture: i386
+Version: 1:1.0.72.117.g6bd7cc73-35
+Depends: libasound2, libatomic1, libcurl3, libgconf-2-4, libglib2.0-0, libgtk2.0-0, libnss3, libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0, libxss1, libxtst6, xdg-utils
+Recommends: libavcodec-ffmpeg56 | libavcodec-ffmpeg-extra56 | libavcodec54 | libavcodec-extra-54, libavformat-ffmpeg56 | libavformat54, zenity
+Suggests: libnotify4
+Filename: pool/non-free/s/spotify-client/spotify-client_1.0.72.117.g6bd7cc73-35_i386.deb
+SHA512: 51d60f7592e5f31ea4b7e67736a85271cb48d4108459630da61c4ab67d2a470038240c1d6ff577280cb4498cf44f14d7bc7e0312f63d34265bcd1e70cd13142f
+Size: 95135550
+SHA256: f5ac29e8374901ce7401825d13471c03bcf6ec8106f8c210c710b0a8d7b22ca9
+SHA1: c471ec205708006ec6abe61e6ac8f94da56bda73
+MD5sum: c8e54d60452bda40f6de23f11c909b2d
+Description: Spotify streaming music client
+License: https://www.spotify.com/legal/end-user-agreement
+Vendor: Spotify AB
+Homepage: https://www.spotify.com
+
+Package: spotify-client-gnome-support
+Priority: extra
+Section: sound
+Installed-Size: 2
+Maintainer: Spotify <libspotify@spotify.com>
+Architecture: all
+Source: spotify
+Version: 1:0.9.17.1.g9b85d43.7-1
+Depends: spotify-client
+Filename: pool/non-free/s/spotify/spotify-client-gnome-support_0.9.17.1.g9b85d43.7-1_all.deb
+SHA512: 452854156e810505c664c67571a27af300bbb22a8929623fef1fcd11c2cdb13b0b1466decbe52442d291a3557795b48c8f33c8dab058f916b2ee891c1d1b6ac1
+Size: 2258
+SHA256: 0374f26db6c770b7d10929d07e923d6da956ddf772cba9864cf0332818ae494f
+SHA1: 824acf11eeaae274a04227a20e97e7aa711b4335
+MD5sum: 31090d231eca99146ccb658c11705e51
+Description: Transitional package for spotify-client
+ This transitional package is provided for a smooth transition from the previous
+ spotify-client-gnome-support package.  It may safely be removed after installation.
+
+Package: spotify-client-qt
+Priority: extra
+Section: sound
+Installed-Size: 2
+Maintainer: Spotify <libspotify@spotify.com>
+Architecture: all
+Source: spotify
+Version: 1:0.9.17.1.g9b85d43.7-1
+Depends: spotify-client
+Filename: pool/non-free/s/spotify/spotify-client-qt_0.9.17.1.g9b85d43.7-1_all.deb
+SHA512: a9a2dc4c0a84d7843eae6178260269816a77ef36608b5296686d4bb4acb029fe542404167e373ed8eaf7a13379d56d45055743b029f30edc0a0cf1c2623d00a2
+Size: 2240
+SHA256: ffd4f48ada8b148ad5902368a6e8e9ac4580a500484b134c03026b00fde53b1a
+SHA1: 99183d81f7db75a72e4250dc5400e124d066f69c
+MD5sum: d09666412c80c7de6ce4a623b6293f2b
+Description: Transitional package for spotify-client
+ This transitional package is provided for a smooth transition from the previous
+ spotify-client-qt package.  It may safely be removed after installation.
+

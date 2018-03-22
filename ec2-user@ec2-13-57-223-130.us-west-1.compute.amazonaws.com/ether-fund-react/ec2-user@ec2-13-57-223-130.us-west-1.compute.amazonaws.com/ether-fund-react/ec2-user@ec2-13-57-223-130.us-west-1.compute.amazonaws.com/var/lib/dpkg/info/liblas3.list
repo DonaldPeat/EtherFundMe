@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/liblas3
+/usr/share/doc/liblas3/README.txt
+/usr/share/doc/liblas3/AUTHORS
+/usr/share/doc/liblas3/copyright
+/usr/share/doc/liblas3/changelog.Debian.gz
+/usr/lib
+/usr/lib/liblas.so.2.3.0
+/usr/lib/liblas.so.3

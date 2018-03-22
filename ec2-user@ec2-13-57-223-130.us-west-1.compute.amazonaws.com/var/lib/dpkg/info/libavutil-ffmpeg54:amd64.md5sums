@@ -1,0 +1,4 @@
+16f26fad8cfa16763d4802f7be90c38f  usr/lib/x86_64-linux-gnu/libavutil-ffmpeg.so.54.31.100
+d32599744cdb10b2daa4c9db45324b8a  usr/share/doc/libavutil-ffmpeg54/changelog.Debian.gz
+9360a8355c9756bbb4054b2e231a8008  usr/share/doc/libavutil-ffmpeg54/copyright
+216bfe704cafedc130d2cc11a89bf9d7  usr/share/lintian/overrides/libavutil-ffmpeg54

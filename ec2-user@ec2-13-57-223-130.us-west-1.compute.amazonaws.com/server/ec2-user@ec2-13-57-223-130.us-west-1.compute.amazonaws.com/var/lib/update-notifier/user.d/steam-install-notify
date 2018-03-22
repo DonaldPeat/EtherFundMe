@@ -1,0 +1,9 @@
+Name: Steam Installer
+Priority: Medium
+Command: /usr/bin/steam
+DontShowAfterReboot: False
+ButtonText: Start Steam
+DisplayIf: test ! -x ~/.steam/steam/ubuntu12_32/steam
+OnlyAdminUsers: False
+Description: 
+ Start Steam to complete installation of the Steam for the current user.

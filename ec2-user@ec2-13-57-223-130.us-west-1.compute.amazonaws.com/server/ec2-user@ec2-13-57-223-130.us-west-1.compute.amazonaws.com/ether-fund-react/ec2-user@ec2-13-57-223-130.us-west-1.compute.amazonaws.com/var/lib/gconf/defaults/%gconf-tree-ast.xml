@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Amosar etiqueta de cuenta atrás">
+						<longdesc>Si se tien d&apos;amosar una etiqueta a mandrecha del iconu col tiempu que falta pa la siguiente alarma.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Comandu">
+							<longdesc>Comandu a executar pa la triba de notificación «comandu».</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Repetir soníu">
+							<longdesc>Si se tien de repetir el soníu d&apos;alarma.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Ficheru de soníu">
+							<longdesc>Soníu a reproducir pa la triba de notificación «soníu».</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Triba de notificación">
+							<longdesc>La triba de notificación a utilizar cuando s&apos;activa l&apos;alarma. Pue ser una de les darréu: «soníu» pa reproducir un soníu (conseñáu na propiedá «sound_file») «comandu» pa executar un comandu (conseñáu na propiedá «command»)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Repetición d&apos;alarma">
+							<longdesc>Llista de los díes que tien de repetise l&apos;alarma. Estes preferencies s&apos;apliquen namái pa les alarmes «del reló».</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Estáu de l&apos;alarma">
+							<longdesc>Indica si comenzó l&apos;alarma.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Mensaxe d&apos;alarma">
+							<longdesc>Mensaxe curtiu que describe l&apos;alarma.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Hora d&apos;alarma">
+							<longdesc>La hora de l&apos;alarma. Tien de ser una hora GMT p&apos;alarmes  «de reló» o bien la duración en segundos p&apos;alarmes «de temporizador».</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Marca de tiempu de l&apos;alarma">
+							<longdesc>Marca de tiempu UNIX pa l&apos;alarma. Tien de conseñase enantes d&apos;activar l&apos;alarma.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Triba d&apos;alarma">
+							<longdesc>Triba d&apos;alarma. O «reló» pa una alarma a determinada hora del día, o «temporizador» pa una alarma en pasando un periodu de tiempu.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

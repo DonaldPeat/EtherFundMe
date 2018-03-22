@@ -1,0 +1,70 @@
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.3;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 86400;
+  option routers 192.168.1.1;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name-servers 192.168.1.1;
+  option domain-name "Home";
+  renew 1 2018/03/19 06:00:19;
+  rebind 1 2018/03/19 16:41:54;
+  expire 1 2018/03/19 19:41:54;
+}
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.3;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 1 2018/03/19 07:15:47;
+  rebind 1 2018/03/19 16:52:42;
+  expire 1 2018/03/19 19:52:42;
+}
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.3;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 1 2018/03/19 17:21:38;
+  rebind 2 2018/03/20 04:15:47;
+  expire 2 2018/03/20 07:15:47;
+}
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.3;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 2 2018/03/20 03:23:21;
+  rebind 2 2018/03/20 14:21:38;
+  expire 2 2018/03/20 17:21:38;
+}
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.3;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 2 2018/03/20 13:42:29;
+  rebind 3 2018/03/21 00:23:21;
+  expire 3 2018/03/21 03:23:21;
+}

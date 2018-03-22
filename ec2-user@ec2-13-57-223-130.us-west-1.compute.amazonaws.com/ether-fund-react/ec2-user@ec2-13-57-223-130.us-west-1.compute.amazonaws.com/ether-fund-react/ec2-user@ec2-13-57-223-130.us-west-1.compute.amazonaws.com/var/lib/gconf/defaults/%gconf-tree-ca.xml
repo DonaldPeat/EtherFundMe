@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Comanda">
+							<longdesc>El comandament per executar el  tipus de &quot;command&quot; de notificació.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Repeteix el so.">
+							<longdesc>Repeticions de l&apos;alarma sonora.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Arxiu de so">
+							<longdesc>Arxiu de so per reproduir pel tipus de &quot;sound&quot; de notificació.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Tipus de notificació">
+							<longdesc>Tipus de notificació per fer servir quan l&apos;alarma sona. Pot ésser un dels següents tipus: &quot;sound&quot; per reproduïr un so (especificat a la propietat &quot;sound_file&quot;) &quot;command&quot; per executar un comandament (especificat a la propietat &quot;command&quot;)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Repetició de l&apos;alarma">
+							<longdesc>Llista de dies en què l&apos;alarma s&apos;hauria de repetir. Aquesta configuració només és aplicable per a &quot;clock&quot; alarmes.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Estat de funcionament del despertador">
+							<longdesc>﻿Indica si l&apos;alarma ha començat.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Missatge del despertador">
+							<longdesc>Descripció breu de l&apos;alarma</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Hora de l&apos;alarma">
+							<longdesc>Hora de l&apos;alarma. Hauria d&apos;esser en GMT per a alarmes &quot;clock&quot; o duradaen segons per a alarmes &quot;timer&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Hora del despertador">
+							<longdesc>L&apos;hora UNIX per l&apos;alarma. ﻿Ha de ser posat abans que l&apos;alarma s&apos;activi.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Tipus d&apos;alarma">
+							<longdesc>Tipus d&apos;alarma. Qualsevol &quot;clock&quot; per una alarma per una hora específica del dia, o &quot;timer&quot;  per a una alarma transcorregut un període de temps determinat.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

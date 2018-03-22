@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Показывать счетчик обратного отсчета">
+						<longdesc>Показывать надпись слева от значка со временем следующего будильника</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Команда">
+							<longdesc>Выполнить команду (если настроено выполнение команды)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Повтор сигнала">
+							<longdesc>Повторять звук будильника</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Звуковой файл">
+							<longdesc>Звуковой файл для проигрывания в режиме &quot;звук&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Тип оповещения">
+							<longdesc>Что делать при срабатывании будильника? Выберите один из вариантов: проиграть звук (указывается в настройке &quot;звуковой_файл&quot;) или выполнить команду (указывается в настройке &quot;команда&quot;).</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Повтор будильника">
+							<longdesc>Повтор будильника по дням. Настройка только для будильников &quot;по времени&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Область запуска будильника">
+							<longdesc>Будильник включён</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Сообщение будильника">
+							<longdesc>Краткое сообщение, описывающее будильник.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Время сигнала">
+							<longdesc>Время срабатывания. Укажите в GMT для будильника &quot;по времени&quot; или в секундах для таймера.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Временная отметка сигнала">
+							<longdesc>Временная отметка UNIX для будильника. Должна быть установлена до активации будильника.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Тип сигнала">
+							<longdesc>Тип будильника. &quot;По времени&quot; - в конкретное время дня или &quot;таймер&quot; - по истечении определенного периода.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

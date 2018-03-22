@@ -1,0 +1,786 @@
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 25
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: all
+Version: 1.2.1
+Depends: slack-desktop
+Filename: pool/jessie/main/s/slack/slack_1.2.1_all.deb
+Size: 1550
+MD5sum: b03f094920a08b384c8607920c76375b
+SHA1: 87a00413658364cd0368e6e8cc834063d500b1ec
+SHA256: bdd89bbb7793c1012be4b0f2d7d093f8cd5f3eeef5f4b9739bd1132d85af1720
+SHA512: 80204cc743baa1c70e6a54c1adc28652719f34ecafc797578cd16a99960fdc30c026f3ca72ef092a19edf4e5820c5ed37fe2c34ee1612ee4b4c4e0f5167e0686
+Description: This package moves Slack beta users over to the released package name, 'slack-desktop'
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 5558836
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.0.4
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.0.4_amd64.deb
+Size: 44750650
+MD5sum: f3939d1b1fff99dab9ded003cc423c9c
+SHA1: 551886b24db9e003b4f9d374d16bf0bbbfc553d9
+SHA256: abfb410efaa4f0eab29770f8d0d49e360ce58e631c9e0fa35d1aacf6de5f08a7
+SHA512: 9bdb5c9597a0987a2e2a4dbe9b981ea8862e3c2e069538fd31b1706f4679ab9cc3f510003c268ea141e53a2d5dff3057a79ccf071ef051f8dfa89b7bae33bf00
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 5561060
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.0.5
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.0.5_amd64.deb
+Size: 44759044
+MD5sum: d95aba999d68fb65b7472222454c53bb
+SHA1: 19e72a0f7c3c6e481a988d5db84aa48ee7f54c23
+SHA256: 77e5106ea366a1a295487e93b9d029a9c29e5fcc3fb6bbb85c9a2e3365d7a102
+SHA512: ec21306641e2f0f4f8c86546377bca122ac61f2b42f90f3265129973b2b2ea9a597a0b492bea3f8e135414194a2dce27078b2b792f18a91c115c298de5e13ecd
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 5654796
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.0.90
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.0.90_amd64.deb
+Size: 46409256
+MD5sum: 30aa7ab1074b0751b220a915950d9660
+SHA1: 1e5b6b7778140bbf709c05c8cb2ea910f13d2835
+SHA256: f72eac5d7b30582c574ed17a3ffb635ee21cecf75263c045163014285acdec7e
+SHA512: ddc478f981be040962e70fb9c8243daa0c8473307d10ebf656aca00eb82bcb0f1ba8f1d15f4bbb8ccc92bc650acfd2f9047c4bda29b3ba943eeb7b72641b9239
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 5651264
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.1.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.1.0_amd64.deb
+Size: 46409212
+MD5sum: 3ce91edd599cb0a8a9f14e65790a701a
+SHA1: 9b48c423bb8ae78fef736edcd60b59f11f02fb70
+SHA256: 06266c614e215d6b686d21e666091f173d2b2e076c020178decddb45a6d1e332
+SHA512: cf47968143051055265c203dde4761130cccd0d2d64ffeadcc8b379f1334634880830050f69a4e49aff607f7f22fb6a3ba3cabffd0c91b327b762bcce34084e3
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 205128
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.1.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.1.1_amd64.deb
+Size: 64767324
+MD5sum: cb1e53e943d8f872a760ae137b15830a
+SHA1: ea92c9e7dc339301ef832d5d434244558d6afa07
+SHA256: 4f92e103768af1a7d0a3b86b66930cf9cb2c67053cffa02644727d477d279fdc
+SHA512: 06cb01354af16ea5bd0319492fa946dd2097666cb71b6c9cf16fe15c098cd4b73110530a4b0a0a76964835153b87dee6725e41af2a5ace613e60c1b81bfd2ea8
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 191556
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.1.3
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.1.3_amd64.deb
+Size: 63300688
+MD5sum: da36d01db274c74e83eae7fea7826a9a
+SHA1: 4cbcad8b21b93c3e80f75f2279620c2d0ae9a41b
+SHA256: d73bce7dcf63d5069d25943273809ed891d7c6580d73916b8bbb0e1403c65677
+SHA512: fb0866c233e650fa89a5630acf6113de0fc3d09067ff77a838b62f8f4a86bf640c47effca13e9485c37c867dc5c1af0abdc9e6b79016673921d8cf461fe2d482
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 205324
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.1.4
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.1.4_amd64.deb
+Size: 64788778
+MD5sum: 892027ec035b7f599c0bd1cbaddb9303
+SHA1: bf44c543aa8fc5a9a6d0b82a27c6722feb91695b
+SHA256: 27e1f29a8590a4bbe61bfaf52454580b05e376f05452aea06bf561e984c66022
+SHA512: dd411709e09c0bfe4d51fdd54645d4991ed4626341af3166b818b353f424f87cf22c1dbb60a28c5356f6d077b00917dd8e4aef5499d508a55f20734a0846e567
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 195224
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.1.5
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.1.5_amd64.deb
+Size: 67675042
+MD5sum: 28ec6f4407f37b0833079b67b3080ac3
+SHA1: d855e4d52139592790d45387718e9b7dd477b9f8
+SHA256: 2495942afb6c4e60a428f73ad91451a70d794df34c02712db8323bfc88126f17
+SHA512: e3ac1e71809a8d5a0b1542611fe93626dcdd1c078e3b89695b887e02c84600ca9192f431f4302ef27d904665f40c78d51882ad502f47091a9292284f36dda194
+Description: Slack Client for Windows
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 197268
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.1.7
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.1.7_amd64.deb
+Size: 68053148
+MD5sum: 79c34b55d5c2fc7e2d25d426b01336c9
+SHA1: a23ba0ced430ab633058c0d0989ac07d94978899
+SHA256: 4934d682d5fcac4ba1aa30fa1b8ee0ff98b4ec8b6dbbf433c6f08cd2543f1f19
+SHA512: 4376f89855f6e77d55c9c44df530bb37310b3aeb593c06dc03c2e46cb9738d25b3129265abe32e428c012f76094e013a13b798627a2ba84fb2b70e2d581dd51f
+Description: Slack Desktop
+
+Package: slack
+Priority: optional
+Section: misc
+Installed-Size: 262664
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack/slack_1.2.0_amd64.deb
+Size: 67771462
+MD5sum: d688e08cb85a9b0a4e0e3fef57153ce7
+SHA1: 949912ca1d28593001292649349b951c58f2a28f
+SHA256: 17a17add83de0793c207571ba542a5c7b6adfff08792d8b01cc64159c354126b
+SHA512: bb1c6ed81dd51ecf6ffaf5bfb57bc5cdc654e61ec47e055a18d012f64663c7b7785505011a062338ce309160441eb7672de1a857f62792e1c396623521d982b1
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 196068
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.1
+Breaks: slack (<< 1.2.1~)
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Replaces: slack (<< 1.2.1~)
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_1.2.1_amd64.deb
+Size: 67823556
+MD5sum: 8c41170dca760f637313c74972be147d
+SHA1: c030db4ccd0a24cff45bb68c02440aca6555dba1
+SHA256: 803b13a52ece821eba11d1b9d9acf0af079617e9e2c1408e3777ee65a301a4c6
+SHA512: 7637e17cb54a4c1c43e62e82a88dd24211fb21e5e990aa055302d1e759626a1bab0ce27f004d47d401cbc650aac20a042bedfa73be68c62df732db7f4d121bc8
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 134292
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.2
+Breaks: slack (<< 1.2.1~)
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Replaces: slack (<< 1.2.1~)
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_1.2.2_amd64.deb
+Size: 45823770
+MD5sum: d1223c8f1eb2e7b83c1127b533bb0bf2
+SHA1: 48048bbb4c6ca0a162f00e7825f2b4b5e3ce5553
+SHA256: d80db5ccd846e1269eb00f1109b8d9b5aec92a548996a897fbfa58bacca72747
+SHA512: a55dcbc3400c3a6f0aacd99a533dfc48ae30c16aaf5cf38246e3b8fe8e872d5b22e54e7dfc44dcd8726cfd89956517ae0ad63a0896ad46bab0e32c19b2cab0a2
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 126948
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.3
+Breaks: slack (<< 1.2.1~)
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Replaces: slack (<< 1.2.1~)
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_1.2.3_amd64.deb
+Size: 41521622
+MD5sum: c0b954da02832e991c4c9a8b790f7972
+SHA1: 66d7e264077af9bcf8b28cdb84db4ed0e3f1b278
+SHA256: 43431f793cde2780ea1357c4f76a4f8eb00e3df5aa8bdc9ec3ba782e0a70a954
+SHA512: 3f2b22b93865b0b32b1e76bf41d5aa789eac99cac54ae200e8578bd19c6594b6eb88f11377f70f2e52c2f613084cc2e6cb7eaf0e7ea80fc849be536b8e16772b
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 127024
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.4
+Breaks: slack (<< 1.2.1~)
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Replaces: slack (<< 1.2.1~)
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_1.2.4_amd64.deb
+Size: 41535816
+MD5sum: 8024d5dac7a777563f32c2364b46e743
+SHA1: 9372af32e6062e37e2e21ccdb1e33e50eb52c16e
+SHA256: c0e27464f1d5d4fe0f63b13ea96b7b28bd6695d76b49a00f63d5bdb0ddb59e33
+SHA512: 7c2e66effb031a3cdb0b9cfd2f293c6c4ec8b31a0aad2feff73c585853385b24a225d1233b1309a875a78e16e809994e4dae15aaaeef51ab3e0d9c29f700f78b
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 124356
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.5
+Breaks: slack (<< 1.2.1~)
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Replaces: slack (<< 1.2.1~)
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_1.2.5_amd64.deb
+Size: 41634986
+MD5sum: 2c3a2cb03b2e84c5425ad4d829fe4a38
+SHA1: f2b552873acfd8b4d455192f850cc22ecc0ee627
+SHA256: 2368e2449f08272d8ce38a423f44ed0cd35c1e77ca3c0525f069d0790b6ec58f
+SHA512: f47233436701e7bccc7759f490a7355dabef625b506f3408a0672413346533e03329a3fbcb57bdff24a3d0990bd4958adb03740d60ae18bb0c899271f2aec384
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 124868
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 1.2.6
+Breaks: slack (<< 1.2.1~)
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Replaces: slack (<< 1.2.1~)
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_1.2.6_amd64.deb
+Size: 40708646
+MD5sum: 646e855dd2954289bd9791ae64016608
+SHA1: 8aa5214f3f83421a58bb8e2c02db7677db9ff4d0
+SHA256: f7a10e7b565e2251f63bff879e9a31728af374c5e0aa36b577d3c542a3e25760
+SHA512: b7a5fc6f36f6fbf4605304ca672a7e12941e5b5b2b81892f1185fe3f91739c055d4a83f82f904a74dbf0e2f4f997ee73d95b19adcc84876b3cbcf67a21ec359c
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144140
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.0_amd64.deb
+Size: 43503840
+MD5sum: 511a560042e57d5fc140db3d48928041
+SHA1: 495aa9f60b28af40faada68626358e9b8948b84c
+SHA256: 9b39923c7e104c155a05ebd8ebdef287869da0deaf984ffc803e3399005c7340
+SHA512: 0ae4ce3259ad4546d0efd7b83aad7aa9845e81de0c53e96dbefe627e3d415af7e42bd04490e81c2ffb622d3dce45f340dea67b175ed84a42388ae1206cf0d85f
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 146616
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.1_amd64.deb
+Size: 43789180
+MD5sum: 708218c7d67831e90d763e7252dd7a51
+SHA1: fada348d0394630fdd9be588d3ef6d8b8694fe1d
+SHA256: 12d84e61ba366cc5bac105b3f9930f2dfdd64c1e5fabbb08a6877e1c98bfb9c7
+SHA512: d485d28e04551a20344e1bf31bf2679e437e80097d28ac9edc002a15e43715faa71ce39ff23444646b059df35334fa474857dd787b57c5f6b217560c4e763aa3
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.2_amd64.deb
+Size: 42451642
+MD5sum: 8e8fb92fa933dbe09aa5ef5ba726b90f
+SHA1: 1ee94b4e582076a730b6d0c896951f49c4b6527a
+SHA256: ca4d91f6d30ffe5294931d4e04090f6cc9c0b15b45245932ff672b6d21a62f4b
+SHA512: 50145b550de482a647a2894828bf9e5a24d9f1aed707dce09790dfdf260b4c4c20a7df2493fb26d876d3c7169438f739b4f2d4211e00560199b9f42dc3ac84ac
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.3
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.3_amd64.deb
+Size: 42463582
+MD5sum: ce146db5e276ee54aaa8ec2b0cfebe68
+SHA1: 9fb3f8997c527216020a7b5951aa113db3957a28
+SHA256: 8f8d4c7515463e7e8c68e9499f39a6e20fca759bcab059e0bd03d69978b0e85e
+SHA512: 888a10fb3d85a636b19d69175d853ab6754f9a9ae74474b8f7b40935a99a03d7e1e7098fdcf6c7d71e374b32574a743931ccdca188579dfcf231a8e36a508335
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.4
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.4_amd64.deb
+Size: 45213634
+MD5sum: 787867d2427b7f25b6cece64ebfb5b92
+SHA1: 5ba2c447acb52d6fdd27573d77f72e7b7db5d9ab
+SHA256: 05600dcffbe1cee102410e48e612a9b4e57d7717deeb16b23d7111105b77da59
+SHA512: 11ab4e4bf560c053df382ca4e69b2682edcb4776d8039f6d5a6fc3bc1be3b95197b02be2e04f14577a9f3612e23b24a00d492f86aebf532cd621669d7a3fc355
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.5
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.5_amd64.deb
+Size: 45229016
+MD5sum: 055fc5a1ba737a4dac8d6691ff1a018f
+SHA1: c6f1a848f63f231344b223716e9e3c94cf0c1dc0
+SHA256: 286708c0ce120ad4f3ac7035b4f826c698027ae247d0b1c83012d543f7e9f1d4
+SHA512: e8b87aea59ba9829e5ec53fef13630f3826edbb5f79c613f5906695308108821764b771fa301e662c0eae1dff3536a0d122692ed0e4aa900dc9e26a8a693298d
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.0.6
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.0.6_amd64.deb
+Size: 45226500
+MD5sum: 451d1631f988de9331057345e40a6197
+SHA1: b12ab43ce7211cd963de02c92646565c7c6400c6
+SHA256: 8c91ef57f4c4b2fec9e5d3d3ad6f54b7b15da269c041a0e1a37c76b133097528
+SHA512: 93f0d4ce545b1dc8466a1765d4b89899b59dc11fa0011f681993ff9517e41e9bb92385090c479e562430bc24cce8a90e5256b516085ea0dfaca7fd370c8da03e
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.1.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.1.0_amd64.deb
+Size: 45662022
+MD5sum: 0ef8034621e7e467f138e07464d61203
+SHA1: 159a79ed181889cb6f2031fc12e47686839a029b
+SHA256: 6b98e9ed0d996d660582ad5866341ae8204304e19370a7149741ed3e3c732e5d
+SHA512: 7a6d97514437263234711cfedf1c72b354a3897f153352f7495a645486ae755d4e595aa9b907e709adc41288cceb99f1cba5331785e19cd9c7eef78cec701c23
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.1.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.1.1_amd64.deb
+Size: 46439706
+MD5sum: 09490c8f31745939d00801827be98d94
+SHA1: f11e85dfde2b6061fb28e8f78c3da1a8a7ce8353
+SHA256: 03ee895a8ce6e4eda3105e2eee9f1353a0798a9dcbbc3b1b384dad599e2ed533
+SHA512: 7c0472ed43506c48445b3f6405a5f66d48df916536c8b67e8970d3e3733c4ea9fef0fc75d84bea0c573b241b884a4158b90a2072a29e6e888d0d9a41f4fcb874
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.1.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.1.2_amd64.deb
+Size: 46460486
+MD5sum: 866cd1d7cc8741a5156d5ebae2dcf7cd
+SHA1: 006d3d08ab72dba455d42568180e1e8aa87cba8e
+SHA256: 46576dbe929d4d60d0311056c0268d22dfaa58edc6774ce8a7e61873414bbf2e
+SHA512: b23ccee498c2c6d043bdb4632b1b2755b3f0a96a1d78338020fb4221c49b7feeb437cc358abcf285e0f0a0f7b57f4db6792b2baa8b339596a287f1272ed12284
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.2.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.2.1_amd64.deb
+Size: 46912558
+MD5sum: eb39a07836a4c1b85cb9e46bc5e336ac
+SHA1: df022040d424cbe96bec5ef847bce987f78ab78c
+SHA256: 4de55687aeb2e87dde60f3f76fdc8b48457c7417e268112f1d9b52ab665d08f4
+SHA512: 591c509ccd44146a35e77c9593f3f6a70fd1e57b0acf2713df765344c30eb3b0ca35e3b5cb0d16e7d2fd335ccedefd593a521560ea5d892d75c66bbcd6aa78a1
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.3.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.3.2_amd64.deb
+Size: 47482168
+MD5sum: 07e96f429603cb19f0edb3166613b995
+SHA1: b58950867f26cec6947a7bdfd3fbc684b134aa4d
+SHA256: fdd6aafb68c0cf7aa4a63de55a4c506458055beae1d7b42dd23b9f5551f5a58a
+SHA512: 3671527ef5c6959d779a6d67d0ff67b34af7c0273900f14b8993bdb78ad9e0e3095f7371d958e046d42af943959beb8dce7c9887434abd3ce11028bc741e84b0
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.3.3
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.3.3_amd64.deb
+Size: 47434600
+MD5sum: 01b464e4c38df293265ad217dc6a1a20
+SHA1: 277031a5f9510705cbe5d50b2363ccfbd446e15e
+SHA256: 30f3aae35db492c5d9e58cdba8b9fa63f0135e7658a5ceade5eb7c6d23cb3445
+SHA512: 4f310de5a0f0df98dbbaffbb8a13f0be67473188bed0438c6f7f0d1d603d74942ac692000458cad3588b22c27d3197a6b23b365690143acfa2d710ae480191d2
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.3.4
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.3.4_amd64.deb
+Size: 47476802
+MD5sum: 15f37e8bf1700f9270414cceb9708a67
+SHA1: 0e71f6f0449f7da0ecf5aaff0c19445a50a124e9
+SHA256: cd855c11dc95f41c691c1cbb8ec8dd2c2df5eb253a9f98bd8d9e3824553d7906
+SHA512: 36770884dbc1a2304bb61a6a4ccd76976ad3f19f7337063db4e16f83ffa255f82c88ef13676998eb3f4543733bbc31d7ab7172ae848801f722f75525035151e8
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.4.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.4.2_amd64.deb
+Size: 49071330
+MD5sum: c4c357fd7dedb32efb785fb059b01f51
+SHA1: 7090d50ad9dfe8f4526103a07cabc86aa97de90d
+SHA256: f6c81686eaf4bcc73b0b889d69fa6028efdc86b6a28949594b2f5f0d5a2fc4b1
+SHA512: bad500b22f3ad44c5ce2b3ad7d73767a1d3d0e14b1eae595f2a318e06c6bea7dca8e96f0560832d6011055014f8a0d841449a70b1cc8d013494fe50816ca5e43
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.5.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.5.1_amd64.deb
+Size: 47715340
+MD5sum: bd372f9e413b8d391f12dbd803cd37a0
+SHA1: 99f5a0e53f1752f9dfc7e143cd21d17a90e780f0
+SHA256: 727bcfadb1dd693175cc8ff9388bfb2e5680dbd8d3ff5546105b2af02b7e30e7
+SHA512: 01a1b124f2d301366a8edd2ef8fe6e2ed50d54e22b1da0837b512b1be9a45a6221aabefdfd220069ef464b5c4e73db8e8f7d263bc4af12fddc09e40988bde9f1
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.5.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.5.2_amd64.deb
+Size: 47812458
+MD5sum: 90ba06528bee13fac98ad2e34aa64905
+SHA1: d0bc5640bd7797bbc9c1702abf84ee9a7b4e11ce
+SHA256: b176a9d292319a5157af4d1fb84cb07111d04ef517663df1f6dc5a8a8296e855
+SHA512: 0e8f305e33c17884bbb71cdcc236a602918e8596b00c525f155a1e0740ac02d0f99256b2afabe4381a09e6cd06e425f99b9d219bea43f113b9488c9bb0929ca9
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.6.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.6.0_amd64.deb
+Size: 50536970
+MD5sum: 3841e76896bb6e2070d91a559fe73f25
+SHA1: ed68ad2e89dc420aead214336ce7d29f8f42649a
+SHA256: 7ecf34f6c433a186469ce44cf3b9bf2eab334e7437f155211a4188e531e632db
+SHA512: 68a66030762a12efe3e03b2a0f68f6964db2f9068712c5316f316e63950f49db18d69bb250086c0511f488f8315ec72b227f64e87f01d9156a1f9062b41cee25
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.6.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.6.2_amd64.deb
+Size: 51458858
+MD5sum: ee01103bcf81ddaafb16823289729f80
+SHA1: e6be1fe347bfb09ccd507db0b0ad55a824b4c74c
+SHA256: a856cb453871a2cea5cde5165902f0a0729b7f3c3d41e32fab17a36defffed07
+SHA512: ce4c21329175a7e2fbd96ad7e4f3ee32098a16827f0596e7ea8c1bf003722d68d3a95ef31185f9e55363d005f11db7aaaaa906a81d9195f7af64f5e1d055a026
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.6.3
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.6.3_amd64.deb
+Size: 51434914
+MD5sum: 59540c00885f267438d8c53c2724db6a
+SHA1: 68c58698a79d80b7fe72d207aefa598cf27265fc
+SHA256: ec11c05e954b1291f2503bbbd9d0b371190bdf157b2d973e54fa42418ea1e2f0
+SHA512: 943abc3084e395277c41f7a42feffcdeb184900c9cf0bce58bbbe6891d23b97b937fa8d47a1200e9aaa62ed0f7d4b6e3f24d41cd610cd185df570e58c31640bf
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.7.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.7.0_amd64.deb
+Size: 51194346
+MD5sum: 16c67ee0b429dcc74c6617441f5c82f1
+SHA1: 31e8ffd179232f9aff8366a8b506ac2051dc2cda
+SHA256: 0f602b50a78c0d16bfd820f6fe28f9692fb2ae6e196c19a8c40053e830d44adf
+SHA512: cb450cb9744a4e938d6b430a00c1468ed35a4cf5d6178aa57e6b117d81aa723d9e345f41d4acfb91a33bf40349646737648a4b9b0eb5bd1af504e4063802099b
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.7.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.7.1_amd64.deb
+Size: 51202918
+MD5sum: 3ae5ab11c20c3a6df83596f315eb5f79
+SHA1: f97172bead24761f1c119b9e6cb305ea607ba20e
+SHA256: daf046ce1c40e2d514b449055334785d51ccf45009931d7e8ad15190e93041d9
+SHA512: 392ddf86ec39a35ce5dec2d630e0c06dc2efdb7d9d58d57d806fdc1f9e0ee8a18c46bd8f3e8bfbfeee26bbf5e19d76c31a29b94889bcecba3ce12fd972458887
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.8.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.8.0_amd64.deb
+Size: 51225854
+MD5sum: 4c1ab2c4a0b642bf29b95c2f5e4c5a9f
+SHA1: c8c301633866db3e7b986061b4288c902d2c954f
+SHA256: 15626e80dfef62d9f26d1c46987f4a6b333d722d49513797913e238741c4700a
+SHA512: 9a3a8c4eec95583cde76003e99679dda9d6e44692258242bef888043666d589da8a7a5d68898f61e645a6810291ef36fea9551834c3d2fbec8e3baa6a84313d0
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.8.1
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.8.1_amd64.deb
+Size: 51257254
+MD5sum: 95ad9dab1ba8e48778e5a5580533b323
+SHA1: d1711b061c01e111dce0ee4fa5e3031d9b38381b
+SHA256: 389f8ed8a044436cd2f7bdc777464af055ac2106587dd68ec4023cd6cd6cc5a8
+SHA512: 3ead15e24d5571e482ef50ac3e5509d8b50791ec6fb4f50bf62c2ca9b1526f1e116d5574da9f391cd9e3f650fafb46d6a8565f45250e17360b7b641825a5bedc
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.8.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.8.2_amd64.deb
+Size: 51257834
+MD5sum: 1132730a0c3493d72049c7123507642b
+SHA1: 12ba41569ef64b05b10e76a085efb34857d9cc6f
+SHA256: 75661e19efc7c9760f481a9688e5d6e24a2bdc830bda60ca5ec9876a64fc2f05
+SHA512: 533b360ff22ff74743fb7323c08f01230509428e752aed2ed090bf002475934063e6c3853727ab030f6267ca332d783a045df02da02a3a12d045d6a168bf5b58
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 2.9.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_2.9.0_amd64.deb
+Size: 51254182
+MD5sum: 39dc2421a59d60cd251584f3ee868bd3
+SHA1: 22d7479c43b5c867798d1dca3c5d574149441623
+SHA256: 6c6f681103135cc189ae5d80ad52e53848ea3fcb8cccd5bf65f0644abcdeaeb5
+SHA512: 91f02facfed9f31f62574af1ef8ebab3ab3de43fe06574c943afc5ae6d1b93a69b22c5d63865f721db452447700bd511b5d3f6e646bd0349f12eab9d3d95568a
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 3.0.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_3.0.0_amd64.deb
+Size: 55567506
+MD5sum: 278e57b2aa4e87210de321751a556d22
+SHA1: 0c8d5e9d3b2f2b1f35653455dd201061350ca4f5
+SHA256: 7c76ed7fd31828531a516c69ca7df660ec72a491aee9a685dc7980997a18189e
+SHA512: 6906ec1a949095a4f6027cdb0c12cf6b2a906fce487d2b517e157c035219f6ad19c95fc7eaf39b71818078a61c39f3ce3529d64bf99a58ae5599b6be7ad0e55a
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 3.0.2
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_3.0.2_amd64.deb
+Size: 55654542
+MD5sum: dc28cc026e49949fb0b101d772f5c17b
+SHA1: 2cd28deb26c3b856fb50b7086dbd3d9cab2f1c91
+SHA256: 0583b70098c55346a3218754d29055119209e1e5f61b2b4bbe2b6ffdc9e27af0
+SHA512: 29d7d96dbf4b81ac4164043c0cae0e314d94770b74118068684770763a52eed2a3fd430b4a307db2d133ad46cc57379a71415d92790946f5c1b448153c9bc2c1
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 3.0.5
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_3.0.5_amd64.deb
+Size: 55664624
+MD5sum: 87af00dcd0b2b19d7450660305c8f1f7
+SHA1: 0ca8ed9b7879d112c58b95e3f73bf8bfd3f9550d
+SHA256: 1a49e8e83d950b517a5921c5780ddd19e5a9b1ec7787bc1fd8e5b214422d358e
+SHA512: a8bf160440d46ced92f70b57d8998dec957cd3a4f56813193974a9c0693ff45ad6493f74b682a9590ad3b9fbe2ac3fc01586b052e5c16f7570b0eb1430d25b12
+Description: Slack Desktop
+
+Package: slack-desktop
+Priority: optional
+Section: misc
+Installed-Size: 144964
+Maintainer: Slack Technologies <feedback@slack.com>
+Architecture: amd64
+Version: 3.1.0
+Depends: gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, apt-transport-https, libxss1, libgnome-keyring0, gir1.2-gnomekeyring-1.0, libappindicator1, libcurl3, libsecret-1-0
+Filename: pool/jessie/main/s/slack-desktop/slack-desktop_3.1.0_amd64.deb
+Size: 60324688
+MD5sum: f64053a623a63e10dc90455b5d321e09
+SHA1: b70011b83a8f47a8930be03fc6643245267fcd73
+SHA256: 03b72397311f555f598028bf5ef800f7449cc76544d9f9833798fc8dafeb1df9
+SHA512: 8b7c93e54a24bdd3b83dcaef7dbef5fe2da62719a8c84d9c0c78236a077de30bf7ebc5c29e25228fd2306594abcf3733364f6075aa08ecce1de86cb0223986b0
+Description: Slack Desktop
+

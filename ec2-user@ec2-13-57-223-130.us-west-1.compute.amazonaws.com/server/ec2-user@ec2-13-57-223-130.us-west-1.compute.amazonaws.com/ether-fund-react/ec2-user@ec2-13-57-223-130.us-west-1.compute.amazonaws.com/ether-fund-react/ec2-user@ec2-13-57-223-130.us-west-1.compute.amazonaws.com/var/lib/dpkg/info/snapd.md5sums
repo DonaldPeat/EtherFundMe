@@ -1,0 +1,14 @@
+f639f36ea30c2bcb8004f01c1e1c79a2  lib/systemd/system/snapd.autoimport.service
+a101c19e977b83015b849d9938c1faaf  lib/systemd/system/snapd.refresh.service
+2d68aba2982839bc65f0145cf0bd04e9  lib/systemd/system/snapd.refresh.timer
+8f25d47aac2210ee4f10f496834d9a40  lib/systemd/system/snapd.service
+80fb1e47aa5a2b66582e77e9d154107c  lib/systemd/system/snapd.socket
+a5eff1d173552d3a9daa54d9d6f29269  lib/udev/rules.d/66-snapd-autoimport.rules
+bbba0f2971813e98c74b8a136ad61ffd  usr/bin/snap
+92c2ebbce8bee135f2d1df4b7a299eb6  usr/bin/snapctl
+7d5b9dfc8766438e0212a53a01e72ec9  usr/lib/snapd/info
+c51b7603995c5ded8b776aba02327d59  usr/lib/snapd/snap-exec
+022731dcf5cd14166155b37db0d36e05  usr/lib/snapd/snapd
+cde6f3d088673f840f426dad43671fb3  usr/share/bash-completion/completions/snap
+fe1d0809673e12b4e0587e061e53c8ac  usr/share/doc/snapd/copyright
+caaaa06479b337332493eca803e99afe  usr/share/man/man1/snap.1.gz

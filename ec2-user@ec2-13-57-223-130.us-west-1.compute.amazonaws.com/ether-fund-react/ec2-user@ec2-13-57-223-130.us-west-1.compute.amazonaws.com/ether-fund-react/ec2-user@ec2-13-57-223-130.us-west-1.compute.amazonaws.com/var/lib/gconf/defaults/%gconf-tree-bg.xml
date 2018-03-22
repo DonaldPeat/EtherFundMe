@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Показване на отброяване">
+						<longdesc>Дали да се показва надпис от дясната страна на иконата с оставащо време до следващата аларма.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Команда">
+							<longdesc>Командата, която трябва да се изпълни за тип известяване  &quot;команда&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Повторение на звука">
+							<longdesc>Дали да се повтаря звука на алармата.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Аудио файл">
+							<longdesc>Звуков файл, който да бъде възпроизведен за типа известяване &quot;звук&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Вид на известието">
+							<longdesc>Вид известие, щом алармата се включи. Можете да избирате между просвирване на звук и изпълнение на команда.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Повтаряне на алармата">
+							<longdesc>Списък с дните, в които трябва да се повтаря алармата. Настройката е приложима само към аларми тип &quot;будилник&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Текущо състояние на алармата">
+							<longdesc>Показва дали алармата е започнала.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Съобщение на алармата">
+							<longdesc>Кратко съобщение, което описва алармата.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Час на алармата">
+							<longdesc>Час на алармата. Трябва да бъде в GMT за алармите, тип &quot;будилник&quot; или в продължителност в секунди за &quot;таймер&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Вмъкване на време">
+							<longdesc>UNIX формат на времето. Трябва да бъде зададен преди алармата да е задействана.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Тип на алармата">
+							<longdesc>Вид на алармата. Може да бъде &quot;будилник&quot; за аларма в определено време на деня или &quot;таймер&quot; за аларма след определен период от време.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="コマンド">
+							<longdesc>&quot;command&quot; 通知のときに実行されるコマンド。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="リピートの音">
+							<longdesc>アラーム音を連続再生するかどうか</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="アラーム音のファイル">
+							<longdesc>&quot;sound&quot; 通知のときに再生される音ファイル。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="通知の種類">
+							<longdesc>アラームが起動したときの通知の種類。次のいずれか1つです： &quot;sound&quot; は &quot;sound_file&quot; プロパティで指定した音ファイルを再生します。 &quot;command&quot; は &quot;command&quot; プロパティで指定したコマンドを実行します。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="アラームのリピート間隔">
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="アラーム状態">
+							<longdesc>アラームが開始されているかの表示</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="アラームのメッセージ">
+							<longdesc>アラームのときに表示される短いメッセージ</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="アラームの時間">
+							<longdesc>アラームの時間。時刻の時はGMT(UTC)、タイマーの時は時間を秒で指定。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="アラームのタイムスタンプ">
+							<longdesc>アラームに使用する UNIX のタイムスタンプ。アラームをオンにする前に設定する必要があります。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="アラームの種類">
+							<longdesc>アラームの種類。&quot;clock&quot; は指定した日時に動作します。&quot;timer&quot; は指定間隔ごとに動作します。</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

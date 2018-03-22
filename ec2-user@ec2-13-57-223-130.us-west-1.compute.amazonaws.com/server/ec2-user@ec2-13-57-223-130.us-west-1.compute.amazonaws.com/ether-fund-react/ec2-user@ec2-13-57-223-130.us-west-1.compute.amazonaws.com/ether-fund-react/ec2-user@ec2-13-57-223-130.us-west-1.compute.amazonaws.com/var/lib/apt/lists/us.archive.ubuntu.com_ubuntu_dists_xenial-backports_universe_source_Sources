@@ -1,0 +1,374 @@
+Package: ansible
+Format: 3.0 (quilt)
+Binary: ansible
+Architecture: all
+Version: 2.1.1.0-1~ubuntu16.04.1
+Priority: optional
+Section: universe/misc
+Maintainer: Harlan Lieberman-Berg <hlieberman@debian.org>
+Uploaders: Michael Vogt <mvo@debian.org>, Janos Guljas <janos@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9), python-all, python-crypto, python-setuptools, python-yaml, asciidoc, python-nose, python-passlib, dh-python
+Homepage: http://ansible.com
+Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/ansible.git
+Vcs-Git: https://anonscm.debian.org/git/collab-maint/ansible.git
+Directory: pool/universe/a/ansible
+Package-List:
+ ansible deb admin optional arch=all
+Files:
+ 5148aa0d96264301b3fa72169aa6a0d8 2056 ansible_2.1.1.0-1~ubuntu16.04.1.dsc
+ d2521bc6416d07996e924fdd2d1fa6a2 1844349 ansible_2.1.1.0.orig.tar.gz
+ e83ebcd4f43ddeecd80a68ee0acafc8e 19784 ansible_2.1.1.0-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 83371810e513d794fed678ab423a6b6c5b78284a 2056 ansible_2.1.1.0-1~ubuntu16.04.1.dsc
+ f596a7950ebe839eaf650643e9afeb8c1307817a 1844349 ansible_2.1.1.0.orig.tar.gz
+ 2a3268b38a7e7ef8efc46c2630bb5b522bc4a3f7 19784 ansible_2.1.1.0-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ d984f392fcb5cddf5fce7d8f4ba1353ea5e06f1b25e1753bd29e022e80a09570 2056 ansible_2.1.1.0-1~ubuntu16.04.1.dsc
+ 61e739c123923ba90169f42c54e5f51df759ed40b4e332a7160d7db963d5678b 1844349 ansible_2.1.1.0.orig.tar.gz
+ 8e180fafd4ab47c79786c6f15b239cb1b4897d8ae8cbeb833c5f8d7e0a176052 19784 ansible_2.1.1.0-1~ubuntu16.04.1.debian.tar.xz
+
+Package: cockpit
+Format: 3.0 (quilt)
+Binary: cockpit, cockpit-bridge, cockpit-dashboard, cockpit-doc, cockpit-docker, cockpit-machines, cockpit-networkmanager, cockpit-packagekit, cockpit-storaged, cockpit-system, cockpit-tests, cockpit-ws
+Architecture: any all
+Version: 163-1~ubuntu16.04.1
+Priority: optional
+Section: universe/admin
+Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Uploaders: Michael Biebl <biebl@debian.org>, Martin Pitt <mpitt@debian.org>,
+Standards-Version: 4.1.1
+Build-Depends: debhelper (>= 9.20141010), debhelper (>= 9.20160709) | dh-systemd, dpkg-dev (>= 1.17.14), dh-autoreconf, autoconf, automake, git, intltool, libssh-dev, zlib1g-dev, libkrb5-dev, libxslt1-dev, libglib2.0-dev, libsystemd-dev, libpolkit-agent-1-dev, libjson-glib-dev, libpam0g-dev, systemd, xsltproc, xmlto, docbook-xsl, glib-networking, openssh-client <!nocheck>, python
+Testsuite: autopkgtest
+Homepage: http://cockpit-project.org/
+Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/cockpit.git
+Vcs-Git: git://anonscm.debian.org/collab-maint/cockpit.git
+Directory: pool/universe/c/cockpit
+Package-List:
+ cockpit deb admin optional arch=all
+ cockpit-bridge deb admin optional arch=any
+ cockpit-dashboard deb admin optional arch=any
+ cockpit-doc deb doc optional arch=all
+ cockpit-docker deb admin optional arch=all
+ cockpit-machines deb admin optional arch=all
+ cockpit-networkmanager deb admin optional arch=all
+ cockpit-packagekit deb admin optional arch=all
+ cockpit-storaged deb admin optional arch=all
+ cockpit-system deb admin optional arch=all
+ cockpit-tests deb admin optional arch=any
+ cockpit-ws deb admin optional arch=any
+Files:
+ 3ce8ab8658a8cd31d6ae41cd4af544d5 3038 cockpit_163-1~ubuntu16.04.1.dsc
+ 31ca487241057f8f9889b5593a6964d7 13642616 cockpit_163.orig.tar.xz
+ b9b420fd540dd953e3614db02f392336 12832 cockpit_163-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ f111fe13b180e929ef157600c1d9e4612bcf40bd 3038 cockpit_163-1~ubuntu16.04.1.dsc
+ e452e104c7eddf590911298a95d4d43108c97a39 13642616 cockpit_163.orig.tar.xz
+ dffedbcdcfc9acfb65c1cffb0c5990aab2e3f63a 12832 cockpit_163-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 9d1d9ba1b524953fefda5770a208588e00630aafe754804c3ee928373262828a 3038 cockpit_163-1~ubuntu16.04.1.dsc
+ 28203402523d9bc8707fd2af7a32b745ceccb9642943a34e1f30f51f5ba1c308 13642616 cockpit_163.orig.tar.xz
+ 0ef60590539ffdc901da902765a39b8ca40bcc158c95a921ca852540f0ca442c 12832 cockpit_163-1~ubuntu16.04.1.debian.tar.xz
+Testsuite-Triggers: curl
+
+Package: gir-to-d
+Format: 3.0 (quilt)
+Binary: gir-to-d
+Architecture: any
+Version: 0.10.0-1~ubuntu16.04.1
+Priority: optional
+Section: universe/devel
+Maintainer: Debian D Language Group <pkg-d-devel@lists.alioth.debian.org>
+Uploaders: Matthias Klumpp <mak@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 10), ldc, meson, pkg-config
+Homepage: https://github.com/gtkd-developers/gir-to-d
+Vcs-Browser: https://anonscm.debian.org/git/pkg-d/gir-to-d.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-d/gir-to-d.git
+Directory: pool/universe/g/gir-to-d
+Package-List:
+ gir-to-d deb devel optional arch=any
+Files:
+ 6e57d9e64a59e351039aa391f933b9c6 1963 gir-to-d_0.10.0-1~ubuntu16.04.1.dsc
+ 71e19bb301a4d9f3acf1c9ba8cdef1f6 33893 gir-to-d_0.10.0.orig.tar.gz
+ 060ca0a545cfa56d0b89ad686c03c325 1980 gir-to-d_0.10.0-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ b7520a1257b363aaf39215a049b5bf11fc035dfe 1963 gir-to-d_0.10.0-1~ubuntu16.04.1.dsc
+ 1c1caaf13acc6353e81f828b3191af8c71ed9bb1 33893 gir-to-d_0.10.0.orig.tar.gz
+ 3a00a1362607bbefbe0277d7b940d9cb09ce58d7 1980 gir-to-d_0.10.0-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 17bcc5a60a8691dfd8912d1dd490f87f4f829ec45a8e5c477a253bcac08cab5e 1963 gir-to-d_0.10.0-1~ubuntu16.04.1.dsc
+ 2e857bc76c24efe8af0ebf076da11f45eea5e460e23b805ffd87e07f75e30f68 33893 gir-to-d_0.10.0.orig.tar.gz
+ 7635a33672174c84db51c085d4c7ab05340763a22e94515cd7fb11458d896dbd 1980 gir-to-d_0.10.0-1~ubuntu16.04.1.debian.tar.xz
+
+Package: golang-1.10
+Format: 3.0 (quilt)
+Binary: golang-1.10-go, golang-1.10-src, golang-1.10-doc, golang-1.10
+Architecture: amd64 arm64 armel armhf i386 mips mips64el mipsel ppc64 ppc64el s390x all
+Version: 1.10-1ubuntu1~16.04.1
+Priority: optional
+Section: universe/devel
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Go Compiler Team <pkg-golang-devel@lists.alioth.debian.org>
+Uploaders: Michael Stapelberg <stapelberg@debian.org>, Paul Tagliamonte <paultag@debian.org>, Tianon Gravi <tianon@debian.org>, Michael Hudson-Doyle <mwhudson@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 7.4.10), golang-any (>= 2:1.4~) | golang-go (>= 2:1.4~) | gccgo (>= 4:5~), netbase
+Homepage: https://golang.org
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-golang/golang.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-golang/golang.git -b golang-1.10
+Directory: pool/universe/g/golang-1.10
+Package-List:
+ golang-1.10 deb devel optional arch=all
+ golang-1.10-doc deb doc optional arch=all
+ golang-1.10-go deb devel optional arch=amd64,arm64,armel,armhf,i386,mips,mips64el,mipsel,ppc64,ppc64el,s390x
+ golang-1.10-src deb devel optional arch=amd64,arm64,armel,armhf,i386,mips,mips64el,mipsel,ppc64,ppc64el,s390x
+Files:
+ bd3b099177eb0a144b89f8063c3d160d 2664 golang-1.10_1.10-1ubuntu1~16.04.1.dsc
+ 07cbb9d0091b846c6aea40bf5bc0cea7 18300467 golang-1.10_1.10.orig.tar.gz
+ 0259a9ba1fde70bff6d4024a7c96e8ce 34336 golang-1.10_1.10-1ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 7f1b2d7e0c7022a20aeef6bb72d025143c21088b 2664 golang-1.10_1.10-1ubuntu1~16.04.1.dsc
+ 3e37ad7c6cbc0d1aa00f63dd76e114e0c5288029 18300467 golang-1.10_1.10.orig.tar.gz
+ 02e5a3880b288db89e760f779e3e57877e514b1e 34336 golang-1.10_1.10-1ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha256:
+ d6ebdae01627ac6a122b03280a8ccc3037a8365db46068661371a431d3951f35 2664 golang-1.10_1.10-1ubuntu1~16.04.1.dsc
+ f3de49289405fda5fd1483a8fe6bd2fa5469e005fd567df64485c4fa000c7f24 18300467 golang-1.10_1.10.orig.tar.gz
+ 71274212e641691e7ad0b7e5cab7ecb3fdea3109a5f5414cf76e1c7c219b3bf9 34336 golang-1.10_1.10-1ubuntu1~16.04.1.debian.tar.xz
+
+Package: golang-1.10-race-detector-runtime
+Format: 3.0 (quilt)
+Binary: golang-1.10-race-detector-runtime
+Architecture: amd64
+Version: 0.0+svn285455-0ubuntu1~16.04.1
+Section: universe/devel
+Maintainer: Michael Hudson-Doyle <michael.hudson@ubuntu.com>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), dpkg-dev (>= 1.17), dh-exec
+Directory: pool/universe/g/golang-1.10-race-detector-runtime
+Package-List:
+ golang-1.10-race-detector-runtime deb devel optional arch=amd64
+Files:
+ f3f98b8e54b1ced923b106e3d9018664 2054 golang-1.10-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.dsc
+ 32967414c43a7d80f879969dea7e0cdf 2506824 golang-1.10-race-detector-runtime_0.0+svn285455.orig.tar.gz
+ 3a72a79107c5361a9c12f06a8fc38461 6180 golang-1.10-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 1053e225600013c272a84bd96543e3279d9dff2d 2054 golang-1.10-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.dsc
+ 0f3f270ab575cf5840ed5ccd1cb988eb27395d11 2506824 golang-1.10-race-detector-runtime_0.0+svn285455.orig.tar.gz
+ d5aecff80ed7da57274502373ca1290497fa97bf 6180 golang-1.10-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 9b9c636340059b681d7917b19e67e3af93e682b6ed71bd6f50f5bc12629afbc5 2054 golang-1.10-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.dsc
+ ce4c3e0155bc5a92ae8ba9d6379491c20d1296230a0c97e9f89f55dea1d45e46 2506824 golang-1.10-race-detector-runtime_0.0+svn285455.orig.tar.gz
+ 7c421a90f57708a34a944bf748c1dce88458db7c0de41cb9a7d54175bf79d640 6180 golang-1.10-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.debian.tar.xz
+
+Package: golang-1.9
+Format: 3.0 (quilt)
+Binary: golang-1.9-go, golang-1.9-src, golang-1.9-doc, golang-1.9
+Architecture: amd64 arm64 armel armhf i386 ppc64 ppc64el s390x all
+Version: 1.9.2-3ubuntu1~16.04.1
+Priority: optional
+Section: universe/devel
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Go Compiler Team <pkg-golang-devel@lists.alioth.debian.org>
+Uploaders: Michael Stapelberg <stapelberg@debian.org>, Paul Tagliamonte <paultag@debian.org>, Tianon Gravi <tianon@debian.org>, Michael Hudson-Doyle <mwhudson@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 7.4.10), golang-any (>= 2:1.4~) | golang-go (>= 2:1.4~) | gccgo (>= 4:5~), netbase
+Homepage: https://golang.org
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-golang/golang.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-golang/golang.git -b golang-1.9
+Directory: pool/universe/g/golang-1.9
+Package-List:
+ golang-1.9 deb devel optional arch=all
+ golang-1.9-doc deb doc optional arch=all
+ golang-1.9-go deb devel optional arch=amd64,arm64,armel,armhf,i386,ppc64,ppc64el,s390x
+ golang-1.9-src deb devel optional arch=amd64,arm64,armel,armhf,i386,ppc64,ppc64el,s390x
+Files:
+ b6ac4c49176f46372d911fe857a3af0e 2560 golang-1.9_1.9.2-3ubuntu1~16.04.1.dsc
+ 44105c865a1a810464df79233a05a568 16383591 golang-1.9_1.9.2.orig.tar.gz
+ 1587afee2c64cf00acf97c758c24aaa7 36612 golang-1.9_1.9.2-3ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 0599adcb86a8052794b687d370167bd488412302 2560 golang-1.9_1.9.2-3ubuntu1~16.04.1.dsc
+ 8a51dbdf51d6ee0e058b7de7c7606dbea23dfeec 16383591 golang-1.9_1.9.2.orig.tar.gz
+ 66f0ad0f03d059f2a79903fca61488cecc85a659 36612 golang-1.9_1.9.2-3ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 437278398d35b0e70d14af4b0e4ad22bf972ac278d08b361ceaa098099bf8823 2560 golang-1.9_1.9.2-3ubuntu1~16.04.1.dsc
+ 665f184bf8ac89986cfd5a4460736976f60b57df6b320ad71ad4cef53bb143dc 16383591 golang-1.9_1.9.2.orig.tar.gz
+ 37ba37644a251eff5aeb3a176d2b018067f89f28c33ccf5843c120de74c85eda 36612 golang-1.9_1.9.2-3ubuntu1~16.04.1.debian.tar.xz
+
+Package: golang-1.9-race-detector-runtime
+Format: 3.0 (quilt)
+Binary: golang-1.9-race-detector-runtime
+Architecture: amd64
+Version: 0.0+svn285455-0ubuntu1~16.04.1
+Section: universe/devel
+Maintainer: Michael Hudson-Doyle <michael.hudson@ubuntu.com>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), dpkg-dev (>= 1.17), dh-exec
+Directory: pool/universe/g/golang-1.9-race-detector-runtime
+Package-List:
+ golang-1.9-race-detector-runtime deb devel extra arch=amd64
+Files:
+ 97a14cd6552efc6370344c5087fa1b16 2042 golang-1.9-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.dsc
+ 32967414c43a7d80f879969dea7e0cdf 2506824 golang-1.9-race-detector-runtime_0.0+svn285455.orig.tar.gz
+ a47b16132af301bddb5e9010edc4de4b 6116 golang-1.9-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha1:
+ c151c4671c0a1813759110665643801d6b68708c 2042 golang-1.9-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.dsc
+ 0f3f270ab575cf5840ed5ccd1cb988eb27395d11 2506824 golang-1.9-race-detector-runtime_0.0+svn285455.orig.tar.gz
+ aadea99ea0c4ad70a0e23923e61c1374cf80ebf7 6116 golang-1.9-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 6c6db5ed89678cd2f47713b15cc70cb9ea3f30cba579f520b8816c29512f4293 2042 golang-1.9-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.dsc
+ ce4c3e0155bc5a92ae8ba9d6379491c20d1296230a0c97e9f89f55dea1d45e46 2506824 golang-1.9-race-detector-runtime_0.0+svn285455.orig.tar.gz
+ 0eb522b8790beefaa027b66fa872eee9681b97a6e94bfcc8c0d33cd52e8678e4 6116 golang-1.9-race-detector-runtime_0.0+svn285455-0ubuntu1~16.04.1.debian.tar.xz
+
+Package: ldc
+Format: 3.0 (quilt)
+Binary: ldc, libphobos2-ldc-dev, libphobos2-ldc71
+Architecture: amd64 armhf i386 ppc64el
+Version: 1:1.1.0+b3-1build1~ubuntu16.04.1
+Priority: optional
+Section: universe/devel
+Maintainer: Debian D Language Group <pkg-d-devel@lists.alioth.debian.org>
+Uploaders: Konstantinos Margaritis <markos@debian.org>, Matthias Klumpp <mak@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: cmake, debhelper (>= 10), dh-exec (>= 0.3), ldc | d-compiler | d-v2-compiler, libconfig++-dev, libconfig-dev, libcurl4-gnutls-dev, libedit-dev, libffi-dev, libtinfo-dev, llvm-3.8-dev, pkg-config (>= 0.20), quilt (>= 0.40), zlib1g-dev
+Homepage: https://github.com/ldc-developers/ldc
+Vcs-Browser: https://anonscm.debian.org/git/pkg-d/ldc.git/
+Vcs-Git: https://anonscm.debian.org/git/pkg-d/ldc.git
+Directory: pool/universe/l/ldc
+Package-List:
+ ldc deb devel optional arch=amd64,armhf,i386,ppc64el
+ libphobos2-ldc-dev deb libdevel optional arch=amd64,armhf,i386,ppc64el
+ libphobos2-ldc71 deb libdevel optional arch=amd64,armhf,i386,ppc64el
+Files:
+ 18558cf3108226cc4aa5845d6645c6f9 2429 ldc_1.1.0+b3-1build1~ubuntu16.04.1.dsc
+ 7d796d7195df23a44136bd2ea74d23f3 6054630 ldc_1.1.0+b3.orig.tar.gz
+ 3b75f142c47d2bbf783af21f36bc4de0 13196 ldc_1.1.0+b3-1build1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ d80bdc3d68580981895b80f0b80d1cb162ae7de2 2429 ldc_1.1.0+b3-1build1~ubuntu16.04.1.dsc
+ 6ab6d6bcde10759b4e9f16d9f51c26694989e710 6054630 ldc_1.1.0+b3.orig.tar.gz
+ c948cfc4bc1a79ce5b12e2b7679b02446bda5b63 13196 ldc_1.1.0+b3-1build1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 2d0aaa69a265ad6eb30369142ea5434b59268ecfd6266dcff858cb8a1c05d000 2429 ldc_1.1.0+b3-1build1~ubuntu16.04.1.dsc
+ cf4aeb393eada610aa3bad18c3ae6a5de94250eaa968fe2d1b0a6afdf8ea54f6 6054630 ldc_1.1.0+b3.orig.tar.gz
+ 184d2f962fbc97addee916ed70a2332ca3beba1554b30aa8c1fb8d34c523a87f 13196 ldc_1.1.0+b3-1build1~ubuntu16.04.1.debian.tar.xz
+
+Package: lmdb
+Format: 3.0 (quilt)
+Binary: lmdb-utils, liblmdb0, liblmdb-dev, lmdb-doc
+Architecture: any all
+Version: 0.9.18-4~ubuntu16.04.1
+Priority: optional
+Section: universe/misc
+Maintainer: Debian Berkeley DB Group <pkg-db-devel@lists.alioth.debian.org>
+Uploaders: Ondřej Surý <ondrej@debian.org>
+Standards-Version: 3.9.6.1
+Build-Depends: debhelper (>= 9), doxygen
+Homepage: http://symas.com/mdb/
+Vcs-Browser: http://anonscm.debian.org/?p=pkg-db/lmdb.git
+Vcs-Git: git://anonscm.debian.org/pkg-db/lmdb.git
+Directory: pool/universe/l/lmdb
+Package-List:
+ liblmdb-dev deb libdevel optional arch=any
+ liblmdb0 deb libs optional arch=any
+ lmdb-doc deb doc optional arch=all
+ lmdb-utils deb database optional arch=any
+Files:
+ 603511633ad73a3f2d20ac1727e9e127 2052 lmdb_0.9.18-4~ubuntu16.04.1.dsc
+ 8b7eeb8a6c30b2763581de455d10441b 139156 lmdb_0.9.18.orig.tar.gz
+ db607a7f1a879a91baeb2b292f897733 6016 lmdb_0.9.18-4~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 304fdb7cc032b273d68b609050b25d43b77af876 2052 lmdb_0.9.18-4~ubuntu16.04.1.dsc
+ 375e31bd0a4d8426e5fc4bfdb00d532c206d4f2b 139156 lmdb_0.9.18.orig.tar.gz
+ 672630154c8bdb5403de1b517dac8214686aab66 6016 lmdb_0.9.18-4~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 7715b0e4d1ad0b9ac682923a6add8df2aebf291e3735537ad8e2fd721bb8d700 2052 lmdb_0.9.18-4~ubuntu16.04.1.dsc
+ dd35b471d6eea84f48f2feece13d121abf59ef255308b8624a36223ffbdf9989 139156 lmdb_0.9.18.orig.tar.gz
+ 90e94e8faf6579d562b3a3cb7a0bfc0a526986038142e798301a065f1d208115 6016 lmdb_0.9.18-4~ubuntu16.04.1.debian.tar.xz
+
+Package: meson
+Format: 3.0 (quilt)
+Binary: meson
+Architecture: all
+Version: 0.40.1-1~ubuntu16.04.1
+Priority: optional
+Section: universe/misc
+Maintainer: Jussi Pakkanen <jpakkane@gmail.com>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9), python3 (>= 3.5), dh-python, python3-setuptools, ninja-build (>= 1.6), zlib1g-dev, pkg-config, libboost-dev, libboost-thread-dev, libboost-test-dev, gobjc, gobjc++, gnustep-make, libgnustep-base-dev, libgtest-dev, google-mock, qtbase5-dev, qtbase5-dev-tools, protobuf-compiler, libprotobuf-dev, openjdk-8-jdk [!hurd-i386], valac, gobject-introspection, libgirepository1.0-dev, gfortran, flex, bison, mono-mcs, mono-devel, libwxgtk3.0-dev, python3-gi, gtk-doc-tools, rustc [i386 amd64] | bash-doc, python3-dev, cython3, gdc, itstool, libgtk-3-dev, c++-compiler-arm-linux-gnueabihf [!armhf] | bash-doc, valgrind [i386 amd64]
+Testsuite: autopkgtest
+Homepage: http://mesonbuild.com
+Directory: pool/universe/m/meson
+Package-List:
+ meson deb devel optional arch=all
+Files:
+ 73c8d82e3469f072f5d4472cbd6e4269 2391 meson_0.40.1-1~ubuntu16.04.1.dsc
+ 8475b19d5f5f3bd5c40f4bb1f31b93f3 584611 meson_0.40.1.orig.tar.gz
+ e82dea6dc53e916eeaf5457854c2ba90 9460 meson_0.40.1-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ cf79f245782830a402a35688603ab99f045e13cd 2391 meson_0.40.1-1~ubuntu16.04.1.dsc
+ 6b6723f5535405355384bb2794ca37d6350db6a8 584611 meson_0.40.1.orig.tar.gz
+ 28f19860a9e1b50da123095461dffcbc94ae1843 9460 meson_0.40.1-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 7f586479f3a989845e1543546cdc16f18dcb2f28c39ed4e483b1e316a8d44b69 2391 meson_0.40.1-1~ubuntu16.04.1.dsc
+ 890ce46e713ea0d061f8203c99fa7d38645354a62e4c207c38ade18db852cbf5 584611 meson_0.40.1.orig.tar.gz
+ 342214b7a05333eb7fbad0abecdf4eb1d03dfcec9831f06eff89023e8d6cab36 9460 meson_0.40.1-1~ubuntu16.04.1.debian.tar.xz
+Testsuite-Triggers: clang, g++, ninja-build
+
+Package: mustache-d
+Format: 3.0 (quilt)
+Binary: libmustache-d-dev
+Architecture: any
+Version: 0.1.3-1~ubuntu16.04.1
+Priority: optional
+Section: universe/misc
+Maintainer: Debian D Language Group <pkg-d-devel@lists.alioth.debian.org>
+Uploaders: Matthias Klumpp <mak@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9.0.0), ldc, meson
+Homepage: https://github.com/repeatedly/mustache-d
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-d/mustache-d.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-d/mustache-d.git
+Directory: pool/universe/m/mustache-d
+Package-List:
+ libmustache-d-dev deb libdevel optional arch=any
+Files:
+ 223292c17fca29d0c9d77c7e3d9b26d9 1984 mustache-d_0.1.3-1~ubuntu16.04.1.dsc
+ 5aadaedb8e03188fd18e3385584ac1ce 17391 mustache-d_0.1.3.orig.tar.gz
+ b21f37286a1f1470c010fdf1fb293927 2344 mustache-d_0.1.3-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 985a9ee7d2f8597042dc55e4d58712b7f7466e46 1984 mustache-d_0.1.3-1~ubuntu16.04.1.dsc
+ ad6655c63fef89c9f7e4d8b16c6423c906e1dfc9 17391 mustache-d_0.1.3.orig.tar.gz
+ fa434f4b0e31472ba74a3d5c25b61a47a8e35f7d 2344 mustache-d_0.1.3-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ a7367de824deb499f069c55fb6c227c3823cf58a7735d07b6ea0ad7afdf6045d 1984 mustache-d_0.1.3-1~ubuntu16.04.1.dsc
+ 5e4461cb7b88b54375a2e5ae831548c268c31c86df125e037ddf182bb4e12a71 17391 mustache-d_0.1.3.orig.tar.gz
+ 2256cf220ece5d7283c07dfb2be29033e319e736c4822a4da8a7cda0aa1cc514 2344 mustache-d_0.1.3-1~ubuntu16.04.1.debian.tar.xz
+
+Package: ninja-build
+Format: 3.0 (quilt)
+Binary: ninja-build
+Architecture: any
+Version: 1.7.1-1~ubuntu16.04.1
+Priority: optional
+Section: universe/devel
+Maintainer: Felix Geyer <fgeyer@debian.org>
+Standards-Version: 3.9.6
+Build-Depends: asciidoc, debhelper (>= 9), docbook-xml, docbook-xsl, help2man, python, re2c, xsltproc
+Homepage: https://ninja-build.org/
+Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/ninja-build.git
+Vcs-Git: https://anonscm.debian.org/git/collab-maint/ninja-build.git
+Directory: pool/universe/n/ninja-build
+Package-List:
+ ninja-build deb devel optional arch=any
+Files:
+ 6e6c5b7fcf3c0ba5a900d2085bef515e 1959 ninja-build_1.7.1-1~ubuntu16.04.1.dsc
+ e45bda009319f9af5385bb79e783da9f 179717 ninja-build_1.7.1.orig.tar.gz
+ e843176fdea660778dba6c6cb51536a2 3952 ninja-build_1.7.1-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha1:
+ e70486ad10ce1a449374a619896a65ca8dc1a487 1959 ninja-build_1.7.1-1~ubuntu16.04.1.dsc
+ 556ed5f8ee49753af1cf4b0ab2315d39d1954d58 179717 ninja-build_1.7.1.orig.tar.gz
+ da96fb522411ec3026cceb4a73317806e061abc6 3952 ninja-build_1.7.1-1~ubuntu16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 385e4179aba54768a0fb5636bb433caea43e7d3228614e8be55332da9275d3c7 1959 ninja-build_1.7.1-1~ubuntu16.04.1.dsc
+ 51581de53cf4705b89eb6b14a85baa73288ad08bff256e7d30d529155813be19 179717 ninja-build_1.7.1.orig.tar.gz
+ 99ce3cb3cb977d40a239a0eef2845e9804001f058c7aef48dfa2399689028faf 3952 ninja-build_1.7.1-1~ubuntu16.04.1.debian.tar.xz
+

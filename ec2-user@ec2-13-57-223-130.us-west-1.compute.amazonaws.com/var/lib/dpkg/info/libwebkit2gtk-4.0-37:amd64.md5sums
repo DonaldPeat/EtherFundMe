@@ -1,0 +1,9 @@
+d64a8837729c387998b0d4d50fdf73cb  usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.24.9
+2b6c3960a866f453c6fb9c44d5b2fb88  usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/MiniBrowser
+c8cd04c9fd0fafff5cb1aff5f742349d  usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitNetworkProcess
+371fef083a748f70af52420f267da9ca  usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitPluginProcess
+6df124131f65f55319201c3dea7cca16  usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitStorageProcess
+1783c7baa1380d82b2d4a43ec3816db0  usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/WebKitWebProcess
+38fdea03d382bc17e790e0e8a56710c4  usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/injected-bundle/libwebkit2gtkinjectedbundle.so
+d008553751151838160871bdf14b1ace  usr/share/doc/libwebkit2gtk-4.0-37/copyright
+bb32f9b726a47b836ed0ad44cf25885d  usr/share/lintian/overrides/libwebkit2gtk-4.0-37

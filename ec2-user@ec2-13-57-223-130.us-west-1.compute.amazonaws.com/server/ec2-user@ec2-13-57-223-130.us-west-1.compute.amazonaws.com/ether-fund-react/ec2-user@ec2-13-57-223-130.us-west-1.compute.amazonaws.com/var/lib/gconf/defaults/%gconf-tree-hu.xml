@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Mutassa a visszaszámláló feliratot">
+						<longdesc>Mutassa-e a hátralevő idő a következő riasztásig feliratot a jobb oldali ikonon .</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Parancs">
+							<longdesc>Parancs szerkesztése a &quot;parancs&quot; riasztás típus futtatásához.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Hang ismétlése">
+							<longdesc>Ismételje-e a riasztási hangot.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Hangfájl">
+							<longdesc>Hang fájl beállítása a &quot;hang&quot; riasztás típushoz.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Figyelmeztetés típusa">
+							<longdesc>Figyelmeztetés típusa, amikor a riasztás elkezdődik. Ezek a következők lehetnek: &quot;hang &quot; valamilyen hang lejátszásához (paraméterezve a &quot;sound_file&quot;-ban.), &quot;parancs&quot; valamilyen parancs futtatásához (paraméterezve a &quot;command&quot;-ban)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Figyelmeztetés ismétlése">
+							<longdesc>A napok listája amikor a riasztások ismétlődni fognak. Ez a beállítás csak az &quot;ébresztőóra&quot; riasztásokhoz érhető el.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Riasztás állapota">
+							<longdesc>Jelzi, hogy a riasztás aktív-e.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Figyelmeztető üzenet">
+							<longdesc>Egy rövid üzenet a riasztásról.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Figyelmeztetés időpontja">
+							<longdesc>A riasztás ideje. &quot;Ébresztőóra&quot;-hoz az időt GMT-ben vagy &quot;Időzítő&quot;-nek a hosszat másodpercben kell megadni.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Riasztás időbélyege">
+							<longdesc>UNIX időbélyeg a riasztáshoz. A riasztás aktiválása előtt be kell állítani.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Riasztás típusa">
+							<longdesc>Riasztás típusa. &quot;Ébresztőóra&quot; egy bizonyos időpontban riaszt, vagy &quot;Időzítő&quot; egy bizonyos idő múlva riaszt.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

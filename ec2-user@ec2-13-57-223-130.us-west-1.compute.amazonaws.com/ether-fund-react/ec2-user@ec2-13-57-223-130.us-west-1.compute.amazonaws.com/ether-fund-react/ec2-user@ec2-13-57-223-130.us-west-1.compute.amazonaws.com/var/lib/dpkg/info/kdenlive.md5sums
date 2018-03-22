@@ -1,0 +1,9 @@
+7c6ad880e51f1a403fe23f4f5b7af17e  usr/bin/kdenlive
+5dd64fa557daf7a48d43b75222a922c0  usr/bin/kdenlive_render
+f41cbe7d87db1ab9ba0817412510674d  usr/lib/x86_64-linux-gnu/plugins/mltpreview.so
+20778b5c8b3c298850f39c341d21fb87  usr/share/applications/org.kde.kdenlive.desktop
+4d6398fc60f6a7a13a9d431807903789  usr/share/doc/kdenlive/README
+62b4bc1e670f5d1d29de5ad541890d9a  usr/share/doc/kdenlive/changelog.Debian.gz
+23714c9de912762cda892c133909d42f  usr/share/doc/kdenlive/copyright
+ca3459d721bad5a73b890df3d019b462  usr/share/menu/kdenlive
+1c0024bb7e18496705f6782ffadba542  usr/share/pixmaps/kdenlive.png

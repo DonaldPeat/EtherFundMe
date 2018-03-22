@@ -1,0 +1,33 @@
+default-duid "\000\004S\3415\014\207\260\245\314\217\334a+`\377\353u";
+lease6 {
+  interface "wlp5s0";
+  ia-na ed:10:55:c4 {
+    starts 1501020742;
+    renew 69659;
+    rebind 104488;
+    iaaddr 2603:3024:1a06:ae00:12fe:edff:fe10:55c4 {
+      starts 1501020742;
+      preferred-life 139318;
+      max-life 278636;
+    }
+  }
+  option dhcp6.client-id 0:4:53:e1:35:c:87:b0:a5:cc:8f:dc:61:2b:60:ff:eb:75;
+  option dhcp6.server-id 0:3:0:1:4:a1:51:7e:5b:d2;
+  option dhcp6.name-servers 2001:558:feed::1,2001:558:feed::2;
+}
+lease6 {
+  interface "wlp5s0";
+  ia-na ed:10:55:c4 {
+    starts 1501020742;
+    renew 69659;
+    rebind 104488;
+    iaaddr 2603:3024:1a06:ae00:12fe:edff:fe10:55c4 {
+      starts 1501020742;
+      preferred-life 139318;
+      max-life 278636;
+    }
+  }
+  option dhcp6.client-id 0:4:53:e1:35:c:87:b0:a5:cc:8f:dc:61:2b:60:ff:eb:75;
+  option dhcp6.server-id 0:3:0:1:4:a1:51:7e:5b:d2;
+  option dhcp6.name-servers 2001:558:feed::1,2001:558:feed::2;
+}

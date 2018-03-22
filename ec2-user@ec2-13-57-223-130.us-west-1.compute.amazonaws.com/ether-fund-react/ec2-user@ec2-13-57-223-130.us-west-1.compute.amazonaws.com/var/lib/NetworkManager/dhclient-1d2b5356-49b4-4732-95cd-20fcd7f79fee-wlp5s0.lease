@@ -1,0 +1,48 @@
+lease {
+  interface "wlp5s0";
+  fixed-address 10.1.10.40;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 604800;
+  option routers 10.1.10.1;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 10.1.10.1;
+  option domain-name-servers 75.75.75.75,75.75.76.76;
+  option dhcp-renewal-time 302400;
+  option dhcp-rebinding-time 529200;
+  option domain-name "wp.comcast.net";
+  renew 2 2018/02/13 02:00:11;
+  rebind 5 2018/02/16 07:14:39;
+  expire 6 2018/02/17 04:14:39;
+}
+lease {
+  interface "wlp5s0";
+  fixed-address 10.1.10.40;
+  option subnet-mask 255.255.255.0;
+  option routers 10.1.10.1;
+  option dhcp-lease-time 604800;
+  option dhcp-message-type 5;
+  option domain-name-servers 75.75.75.75,75.75.76.76;
+  option dhcp-server-identifier 10.1.10.1;
+  option dhcp-renewal-time 302400;
+  option dhcp-rebinding-time 529200;
+  option domain-name "wp.comcast.net";
+  renew 2 2018/02/13 11:43:44;
+  rebind 5 2018/02/16 22:25:44;
+  expire 6 2018/02/17 19:25:44;
+}
+lease {
+  interface "wlp5s0";
+  fixed-address 10.1.10.40;
+  option subnet-mask 255.255.255.0;
+  option routers 10.1.10.1;
+  option dhcp-lease-time 604800;
+  option dhcp-message-type 5;
+  option domain-name-servers 75.75.75.75,75.75.76.76;
+  option dhcp-server-identifier 10.1.10.1;
+  option dhcp-renewal-time 302400;
+  option dhcp-rebinding-time 529200;
+  option domain-name "wp.comcast.net";
+  renew 5 2018/02/16 14:40:49;
+  rebind 1 2018/02/19 14:43:45;
+  expire 2 2018/02/20 11:43:45;
+}

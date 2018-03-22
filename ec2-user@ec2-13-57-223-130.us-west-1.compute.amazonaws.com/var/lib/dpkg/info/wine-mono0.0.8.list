@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/wine
+/usr/share/wine/mono
+/usr/share/wine/mono/wine-mono-0.0.8.msi
+/usr/share/doc
+/usr/share/doc/wine-mono0.0.8
+/usr/share/doc/wine-mono0.0.8/COPYING
+/usr/share/doc/wine-mono0.0.8/README
+/usr/share/doc/wine-mono0.0.8/changelog.Debian.gz
+/usr/share/doc/wine-mono0.0.8/copyright

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="הצגת תווית ספירה לאחור">
+						<longdesc>Whether to show a label on the right side of the icon with the time remaining to the next alarm.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Command">
+							<longdesc>The command to run for the &quot;command&quot; notification type.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Repeat Sound">
+							<longdesc>Whether to repeat the alarm sound.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Sound File">
+							<longdesc>The sound file to play for the &quot;sound&quot; notification type.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Notification Type">
+							<longdesc>The type of notification to use when the alarm goes off. This can be one of the following: &quot;sound&quot; to play a sound (specified in the &quot;sound_file&quot; property.) &quot;command&quot; to run a command (specified in the &quot;command&quot; property.)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="חזרה על ההתרעה">
+							<longdesc>A list of days when the alarm should be repeated. This settings is only applicable for &quot;clock&quot; alarms.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Alarm Running State">
+							<longdesc>Indicates whether the alarm has started.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Alarm Message">
+							<longdesc>A short message which describes the alarm.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="זמן ההתרעה">
+							<longdesc>The time for the alarm. Should be in GMT for &quot;clock&quot; alarms or length in seconds for &quot;timer&quot; alarms.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Alarm Timestamp">
+							<longdesc>The UNIX timestamp for the alarm. Must be set before the alarm is activated.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Alarm Type">
+							<longdesc>The type of the alarm. Either &quot;clock&quot; for an alarm at a specific time of day, or &quot;timer&quot; for an alarm after a specified period of time.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

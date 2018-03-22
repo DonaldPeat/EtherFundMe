@@ -1,0 +1,7 @@
+aa081c8580ae0b051a4b955f409789cd  usr/bin/winetricks
+07505f6b3c2fc905a506dee0661ebb94  usr/share/applications/winetricks.desktop
+16cd6a456808f265045e1deccec9bd22  usr/share/doc/winetricks/README.Debian
+2ed8a4faeb69b661645e5f7acfd710be  usr/share/doc/winetricks/changelog.Debian.gz
+e00a893fe3004a03208ecb9a393f9e3d  usr/share/doc/winetricks/copyright
+308b1036aadd9abde3f3925006027ad1  usr/share/icons/hicolor/scalable/apps/winetricks.svg
+88c449e0a0bbfd6c21b7470f84df3bad  usr/share/man/man1/winetricks.1.gz

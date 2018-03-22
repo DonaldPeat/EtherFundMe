@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Valve Software LLC
+Label: Steam
+Codename: precise
+Date: Thu, 24 Nov 2016 02:46:21 UTC
+Architectures: i386 amd64
+Components: steam
+Description: Steam packages for Ubuntu 12.04 LTS
+MD5Sum:
+ 4bfe9d0c7f9ae8f3ad46727157d6aa6c 1549 steam/binary-i386/Packages
+ c06f58b2bc085aa4148bcda29eed8844 799 steam/binary-i386/Packages.gz
+ 1bc0f63ce9c7d1992bc24b3758d53ab3 125 steam/binary-i386/Release
+ 91a11ac1e056d2099c03787d9faa14fb 928 steam/binary-amd64/Packages
+ 4c16f990ed422be761ca96679eb0435a 601 steam/binary-amd64/Packages.gz
+ 18edb1d6caa74804aa91bcb6392ee401 126 steam/binary-amd64/Release
+ 476407a7c81d2689a9e94ae10a674aca 917 steam/source/Sources
+ 67e0a0003b2d4ef1479e608d9bf75476 550 steam/source/Sources.gz
+ 627bb138649e691d99cc67a6d5ee1625 127 steam/source/Release
+SHA1:
+ 548bb8aaf995a4ed9812926c2637a21392b64e14 1549 steam/binary-i386/Packages
+ 838caa0b685500139dc8de8b560f758e293f7358 799 steam/binary-i386/Packages.gz
+ 49b2ca59b385d3b9bc7c2b70d5107563bc2d73b9 125 steam/binary-i386/Release
+ f9a7896cc300c6b7a6ddc5ddd7e95f73bfef9839 928 steam/binary-amd64/Packages
+ b45e4bab2ec671ebb6e9c781eccc98b6943c6069 601 steam/binary-amd64/Packages.gz
+ cf2fe72e6e766d2fbb47bb981e1286de6904905d 126 steam/binary-amd64/Release
+ 74124022842a464da5b1b04cd468f9e65e30368a 917 steam/source/Sources
+ 319ddf0005ee9e7c16804a8cf7d0f78562d0b271 550 steam/source/Sources.gz
+ 9f837174b4494a1f642cf5b90560f2383859d301 127 steam/source/Release
+SHA256:
+ 123e477dd9ea4384f753380e534f8dac6e31b63d2155e654534ac2e6e4dc3c03 1549 steam/binary-i386/Packages
+ 4bbef5199b8b7077b31868cdcdb66d51ae89f33375c36aec3b3dc625467d267b 799 steam/binary-i386/Packages.gz
+ e2d353eb0b562c4baef4fb919d117be68bd3d14753c0411723365ecb1fd25621 125 steam/binary-i386/Release
+ 9ccf24c46cae93738e1c1b3b09140cbccc1037c28ce74cb6cdbe2e4ccf11fbde 928 steam/binary-amd64/Packages
+ 4283b8141017aaa56636f149e1b74cc83bab910a04a3f066b4d8d90b40b12d38 601 steam/binary-amd64/Packages.gz
+ d5bd0c889f83a1131addd28ef9c890490ef5eed9efcbbe3e1625ace8240ea969 126 steam/binary-amd64/Release
+ 5e7d4de352108f1afb7e97e5e0a49165a2f7424abac8b0574e47069b9400c615 917 steam/source/Sources
+ ce85916a71e59bf21d5719f06e6f5d1b1243c754497fd59014d48b66858c3f08 550 steam/source/Sources.gz
+ 768588b08941c36b1142bb068b0fd10d95f7d3c759cc3ecf66bdc7aefe7eb1d5 127 steam/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBCgAGBQJYNlR9AAoJEPJK6p+wVJi3YN8IAMSz2FzNi7TCrRsASxJLB0Mx
+Z4Ll3rBqvsDqav4rqbGMhOTnTHFucdTzNKqWn8yHkaNs14RnrBTrzyya2RlQvh7i
+P5K2KDDptZFbjDa8rbYU1xPppuUcAeciQBbo1qIyqF1aL5eZmLggTXGp2s4kJXQm
+dl13PTRXYK1SXL2GjXhL6/wrz0xGJu15leIyfL6XL8CRtxT7rTaol4oGI1IYS12j
+CrcAjJdqJd0Lv40gnhZp2/l74rLBEpnDohJa1I7laUZazMpJB1xIuW8xfmvIcqwG
+GUEYK2/HjjOGSGzFpdD9UM4oqZtr6JjOj/IIzqn9Ve5EVEeMuctUhAVqO4a6aug=
+=Tljj
+-----END PGP SIGNATURE-----

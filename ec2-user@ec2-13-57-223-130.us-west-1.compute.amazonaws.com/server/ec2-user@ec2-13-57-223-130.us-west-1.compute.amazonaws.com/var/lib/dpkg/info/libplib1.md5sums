@@ -1,0 +1,16 @@
+26fd7c65fb9f6de62ed2e5a011d444d3  usr/lib/libplibfnt.so.1.8.5
+9f57d42473aa2fc90e3c6a0dc66229e5  usr/lib/libplibjs.so.1.8.5
+c716da63c7873f30b5e66b21687eb572  usr/lib/libplibnet.so.1.8.5
+90618dddde76b6db4c0ffb6de770b9ab  usr/lib/libplibpsl.so.1.8.5
+7fc92c0a453471211abf2ea7d8879b38  usr/lib/libplibpu.so.1.8.5
+ad353e38aa657667b8bba1113b3d2f40  usr/lib/libplibpuaux.so.1.8.5
+cb6e1422bdf8a04d76a8fdb4a43a20be  usr/lib/libplibpw.so.1.8.5
+f9d81be457725ad8bdb84078a3b50fc3  usr/lib/libplibsg.so.1.8.5
+c6d94cb4877f0d41b1f7fb240722fb6c  usr/lib/libplibsl.so.1.8.5
+cfe8afa0c96f202a1ac91a303be39692  usr/lib/libplibsm.so.1.8.5
+e42788eddd942f6110cce11d16962f2c  usr/lib/libplibssg.so.1.8.5
+459e89d1f4c805dbc846a3511f53084b  usr/lib/libplibssgaux.so.1.8.5
+693177092f2184f5551bc14660c8bd30  usr/lib/libplibul.so.1.8.5
+f24f417d3d5553c41e9ca3badf4afad7  usr/share/doc/libplib1/changelog.Debian.gz
+ecffd4200b3dd597f72202deee48f03a  usr/share/doc/libplib1/copyright
+9323e46533cac58dc70c64325c46dc60  usr/share/lintian/overrides/libplib1

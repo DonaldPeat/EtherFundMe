@@ -1,0 +1,83 @@
+/* trello board & card lists */
+
+a {
+    color: whitesmoke;
+}
+
+#boards {
+    width: 300px;
+    background: black;
+    color: #f5f5f5;
+    height: 40px;
+    font-size: 26px;
+}
+
+body {
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    background: /*url("/assets/images/watchitburn.jpg") no-repeat center center fixed;*/
+        linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/assets/images/watchitburn.jpg') no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card { 
+    display: block; 
+    padding: 2px;
+    margin: 10px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#header {
+    padding: 14px;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+#loggedin { 
+    display: none; 
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+#loggedout {
+    font-family: Lato, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 30px;
+    background: /*url("/assets/images/watchitburn.jpg") no-repeat center center fixed; */
+    linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/assets/images/watchitburn.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+#output {
+    padding: 4px;
+}
+
+
+/* line graph */
+
+path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+

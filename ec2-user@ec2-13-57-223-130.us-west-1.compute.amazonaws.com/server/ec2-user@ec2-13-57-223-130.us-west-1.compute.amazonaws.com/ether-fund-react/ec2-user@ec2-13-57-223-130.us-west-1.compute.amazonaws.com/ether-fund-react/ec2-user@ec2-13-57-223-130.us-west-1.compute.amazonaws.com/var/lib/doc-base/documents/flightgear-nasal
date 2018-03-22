@@ -1,0 +1,9 @@
+Document: flightgear-nasal
+Section: Games/Simulation
+Title: Using Nasal with FlightGear
+Abstract: This document is a tutorial on how to interface Nasal
+ scripts with FlightGear.
+
+Format: HTML
+Index: /usr/share/doc/flightgear/Nasal.html
+Files: /usr/share/doc/flightgear/Nasal.html

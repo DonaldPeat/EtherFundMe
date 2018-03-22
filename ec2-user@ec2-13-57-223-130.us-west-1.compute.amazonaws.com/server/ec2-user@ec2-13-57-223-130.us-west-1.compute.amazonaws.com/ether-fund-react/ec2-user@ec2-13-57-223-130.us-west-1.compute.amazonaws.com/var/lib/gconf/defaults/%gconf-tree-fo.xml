@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Boð">
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Endurtøku ljóð">
+							<longdesc>Um vekjaraljóðurin skal endurtakast.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Ljóðfíla">
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Fráboðanar snið">
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Vekjara endurtøka">
+							<longdesc>Listi yvir dagar ið vekjaraklokkan skal endurtakast. Henda setanin er einans galdandi fyri vekjara tíðir.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Vekjara koyrslustandir">
+							<longdesc>Ábending um vekjaraklokkan er byrja.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Vekjara fráboðan">
+							<longdesc>Eini stutt boð, ið greiåir frá vekjaranum.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Vekjara tíðspunkt">
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Vekjara tíðarstempul">
+							<longdesc>UNIX tíðastemplið fyri vekjaraklokkuna, má ásetast áðrenn vekjarin kann virkjast.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Vekjara slag">
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

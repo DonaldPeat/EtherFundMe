@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="顯示倒數標籤">
+						<longdesc>是否要在圖示的右邊顯示距離下次吵鬧還剩多久的標籤</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="指令">
+							<longdesc>用於「指令」提醒類型要執行的指令。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="重播聲音">
+							<longdesc>是否重複播放聲音。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="聲音檔案">
+							<longdesc>用於「聲音」提醒類型要播放的聲音檔案。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="提醒方式">
+							<longdesc>鬧鐘設定的時間到達時的提醒方式，可以是以下方式之一：「聲音」→播放聲音 (在「聲音檔案(_F)」處做設定)、「指令」→執行指令 (在「指令」處做設定)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="鬧鐘週期">
+							<longdesc>在哪幾天啟動鬧鐘的清單，只適用於「定時鬧鐘」。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="鬧鐘執行狀態">
+							<longdesc>顯示鬧鐘是否已啟動。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="鬧鐘訊息">
+							<longdesc>說明這個鬧鐘的簡短訊息。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="鬧鐘時間">
+							<longdesc>鬧鐘的時間。「定時鬧鐘」用標準時間格式，「倒數計時器」用秒數。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="鬧鐘時間戳記">
+							<longdesc>鬧鐘的 UNIX 時間戳記，必須在鬧鐘啟動前就先設定。</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="鬧鐘類型">
+							<longdesc>鬧鐘的類型：「定時鬧鐘」可指定於某個時間動作、「倒數計時器」可指定在某段時間之後動作。</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

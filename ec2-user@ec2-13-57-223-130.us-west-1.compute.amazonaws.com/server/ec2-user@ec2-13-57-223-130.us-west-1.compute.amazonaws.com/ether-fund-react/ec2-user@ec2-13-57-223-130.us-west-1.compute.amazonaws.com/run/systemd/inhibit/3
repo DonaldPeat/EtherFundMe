@@ -1,0 +1,8 @@
+# This is private data. Do not parse.
+WHAT=handle-lid-switch
+MODE=block
+UID=1000
+PID=1489
+WHO=donquixote
+WHY=Multiple displays attached
+FIFO=/run/systemd/inhibit/3.ref

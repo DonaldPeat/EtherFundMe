@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BURN IT DOWN!</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://trello.com/1/client.js?key=9e7a04ffddb4e17a8627df67a350c41a"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="trello.css">
+    
+</head>
+<body>
+<div id="loggedout">
+    <a id="connectLink" href="#">Connect to Trello</a>
+</div>
+
+<div id="loggedin">
+    <div id="header">
+        Logged in as <span id="fullName"></span>.
+        <a id="disconnect" href="#"> Log out</a>
+    </div>
+    
+    <label>Choose board:</label>
+    <div id="output"></div>
+    
+    <label class="cardHeader">Cards:</label>
+    <div id="outputCards"></div>    
+</div>   
+    
+<!-- div for burndown chart -->
+<div id="option">
+    <input name="updateButton" 
+           type="button" 
+           value="Update" 
+           onclick="updateData()" />
+</div>
+        <script src="trello.js"></script>  
+        <script src="burndown.js"></script>  
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/perl5
+/usr/share/perl5/ExtUtils
+/usr/share/perl5/ExtUtils/Depends.pm
+/usr/share/doc
+/usr/share/doc/libextutils-depends-perl
+/usr/share/doc/libextutils-depends-perl/copyright
+/usr/share/doc/libextutils-depends-perl/changelog.Debian.gz
+/usr/share/man
+/usr/share/man/man3
+/usr/share/man/man3/ExtUtils::Depends.3pm.gz

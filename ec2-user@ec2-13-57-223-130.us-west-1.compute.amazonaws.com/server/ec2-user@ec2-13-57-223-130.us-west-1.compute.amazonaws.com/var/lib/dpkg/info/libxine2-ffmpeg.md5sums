@@ -1,0 +1,13 @@
+0d3c7a50c5b8736fcec1e7757b38a133  usr/lib/xine/plugins/2.5/post/xineplug_post_planar.so
+e512944255d8afb3f540534d96e274f2  usr/lib/xine/plugins/2.5/xineplug_decode_a52.so
+360d728481b916fc293af3230cefd221  usr/lib/xine/plugins/2.5/xineplug_decode_dts.so
+0970c732fd40f6d9597dbd8bc9eb2f38  usr/lib/xine/plugins/2.5/xineplug_decode_faad.so
+525ee6d050e2a63c7dd04549731841eb  usr/lib/xine/plugins/2.5/xineplug_decode_ff.so
+570c5c575788a57c7352dc7937352c59  usr/lib/xine/plugins/2.5/xineplug_decode_mad.so
+5db7f9132bd044eea32033dd9aab2e30  usr/lib/xine/plugins/2.5/xineplug_decode_mpeg2.so
+1f77653fe9692e76402f4e2a97d453d3  usr/lib/xine/plugins/2.5/xineplug_dmx_mpeg.so
+c8b625dc0f47640986eb3d59cb9ab38f  usr/lib/xine/plugins/2.5/xineplug_dmx_mpeg_block.so
+faf4f1c7c5215bc568be4fa05a0d8840  usr/lib/xine/plugins/2.5/xineplug_dmx_mpeg_elem.so
+f6c6be22068906123d05100361631062  usr/lib/xine/plugins/2.5/xineplug_dmx_mpeg_pes.so
+556cde79b1929b8f5a5e4efee4437445  usr/lib/xine/plugins/2.5/xineplug_dmx_mpeg_ts.so
+98d525fe2babef9590e5f0f33809c137  usr/lib/xine/plugins/2.5/xineplug_dmx_vc1_es.so

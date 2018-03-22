@@ -1,0 +1,19 @@
+#!/bin/sh
+set -e
+
+update-alternatives --remove wx.pth /usr/lib/wx/python/wx3.0.pth
+
+
+# Automatically added by dhpython:
+if which pyclean >/dev/null 2>&1; then
+	pyclean -p python-wxgtk3.0 
+else
+	dpkg -L python-wxgtk3.0 | grep \.py$ | while read file
+	do
+		rm -f "${file}"[co] >/dev/null
+  	done
+fi
+
+# End automatically added section
+
+

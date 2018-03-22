@@ -1,0 +1,30 @@
+lease {
+  interface "wlp1s0";
+  fixed-address 10.1.10.40;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 604800;
+  option routers 10.1.10.1;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 10.1.10.1;
+  option domain-name-servers 75.75.75.75,75.75.76.76;
+  option dhcp-renewal-time 302400;
+  option dhcp-rebinding-time 529200;
+  renew 6 2017/06/17 02:11:31;
+  rebind 2 2017/06/20 12:33:40;
+  expire 3 2017/06/21 09:33:40;
+}
+lease {
+  interface "wlp1s0";
+  fixed-address 10.1.10.40;
+  option subnet-mask 255.255.255.0;
+  option routers 10.1.10.1;
+  option dhcp-lease-time 604800;
+  option dhcp-message-type 5;
+  option domain-name-servers 75.75.75.75,75.75.76.76;
+  option dhcp-server-identifier 10.1.10.1;
+  option dhcp-renewal-time 302400;
+  option dhcp-rebinding-time 529200;
+  renew 0 2017/06/18 18:13:10;
+  rebind 3 2017/06/21 11:21:58;
+  expire 4 2017/06/22 08:21:58;
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="निर्देश">
+							<longdesc>कमांड &quot;कमांड&quot; अधिसूचना प्रकार के को चलाने के लिए.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="ध्वनि दोहराएँ">
+							<longdesc>क्या अलार्म ध्वनि दोहराई जानी चाहिए ?</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="ध्वनि फ़ाइल">
+							<longdesc>&quot;ध्वनि&quot; अधिसूचना प्रकार के लिए ध्वनि फ़ाइल.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="अधिसूचना प्रकार">
+							<longdesc>अलार्म बजने पर अधिसूचना का प्रकार. यह निम्न में से एक हो सकता है: ध्वनि बजाने के लिए &quot;ध्वनि&quot; (ध्वनि फाइल मे निर्दिष्ट ). कमांड चलाने के लिए &quot;कमांड&quot; (कमांड में निर्दिष्ट)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema>
+							<longdesc>बताता है कि क्या अलार्म शुरू हो गया है.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema>
+							<longdesc>अलार्म के लिए समय. &quot;घड़ी&quot; अलार्म के लिए GMT में अथवा &quot;टाइमर&quot; अलार्म के लिए सेकंड में होना चाहिए.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema>
+							<longdesc>अलार्म के लिए UNIX टाइमस्टैम्प. अलार्म सक्रिय करने से पहले निर्धारित किया जाना चाहिए.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="अलार्म क़िस्म">
+							<longdesc>अलार्म का  प्रकार. दिन के किसी विशेष समय पर अलार्म के लिये &apos;घड़ी&apos; अथवा एक निर्धारित अवधि के बाद एक अलार्म के लिए &quot;टाइमर &apos;.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

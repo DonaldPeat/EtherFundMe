@@ -1,0 +1,10 @@
+5a0f566afcb11884b08081cf0592fab3  lib/systemd/system/mongod.service
+ab5960341b91976f47e6b3206c878ffb  usr/bin/mongod
+55e7b8cb55b0cc3efdde9ee52cce4c3b  usr/share/doc/mongodb-org-server/GNU-AGPL-3.0.gz
+08ef5d531bfef81275f9a8c743d85340  usr/share/doc/mongodb-org-server/MPL-2.gz
+5561f11259a78c5c57ceffbd88a2037c  usr/share/doc/mongodb-org-server/README
+24c834b3738d41267757d25b95110522  usr/share/doc/mongodb-org-server/THIRD-PARTY-NOTICES.gz
+81add7629c9564623bd1788d3193be45  usr/share/doc/mongodb-org-server/changelog.gz
+4aa37c1fe5ad5e056d253fe8e7f301b7  usr/share/doc/mongodb-org-server/copyright
+58188bb7139649c63e80da2fe2875907  usr/share/lintian/overrides/mongodb-org-server
+16b6e51547da7f9fd872c9d11eb94b31  usr/share/man/man1/mongod.1.gz

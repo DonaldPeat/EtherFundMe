@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-wxversion
+/usr/share/doc/python-wxversion/copyright
+/usr/share/doc/python-wxversion/changelog.Debian.gz
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/wxversion.py
+/usr/lib/python2.7/dist-packages/wx.pth

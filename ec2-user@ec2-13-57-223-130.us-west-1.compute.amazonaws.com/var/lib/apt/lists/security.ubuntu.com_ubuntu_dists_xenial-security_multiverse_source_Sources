@@ -1,0 +1,80 @@
+Package: flashplugin-nonfree
+Format: 1.0
+Binary: flashplugin-installer, flashplugin-downloader
+Architecture: i386 amd64
+Version: 29.0.0.113ubuntu0.16.04.1
+Priority: optional
+Section: multiverse/web
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bart Martens <bartm@knars.be>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 9)
+Homepage: http://www.adobe.com/products/flashplayer.html
+Directory: pool/multiverse/f/flashplugin-nonfree
+Package-List:
+ flashplugin-downloader deb contrib/web optional arch=i386
+ flashplugin-installer deb contrib/web optional arch=i386,amd64
+Files:
+ 3d950422537437410b03d88bfec96b10 1432 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.dsc
+ 19f197423cc763c6742cd8cb7cae2452 46175 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.tar.gz
+Checksums-Sha1:
+ dd01ba36e4f40c7c8b483fa6089cfc1e71aa0306 1432 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.dsc
+ bd18677d14a6cc27e8ba8e056810730ac424e3ce 46175 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.tar.gz
+Checksums-Sha256:
+ bcaf5fe94477cd436ad38e20a8b3f2519582243ce17de401f80a5e6038578d82 1432 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.dsc
+ c988602a6fc0349fd2a83dce4f8557ede2a933258dbc3d97d998632ffb1a7e66 46175 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.tar.gz
+
+Package: linux-firmware-raspi2
+Format: 3.0 (quilt)
+Binary: linux-firmware-raspi2
+Architecture: armhf
+Version: 1.20161020-0ubuntu1~0.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/raspberrypi/firmware
+Directory: pool/multiverse/l/linux-firmware-raspi2
+Package-List:
+ linux-firmware-raspi2 deb multiverse/misc optional arch=armhf
+Files:
+ 97465ce0c492f3c68b21b0b9aed08920 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ db97e5939ab0e851521e1fac704d6072 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ d5fe1781bd381d8f850003f7fe877586 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+Checksums-Sha1:
+ 5ed4ff2a2a6ec0b51004f7627e2db5ed7b4ddd94 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ 7e9f894875cd66abca98fbab0207894658ca0d6e 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ da677a9b3699146130105c9554db8b15d141ea8b 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+Checksums-Sha256:
+ 847a5bf0646a9a05303d66ab04efc0b511d7d8c01660db7dee596ff18a9830bb 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ 5c3387694563b82c8c3a5986b71241ddc98eb79cde2623b5019ebcf719e283c3 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ 39cf91ba7aad37fe2bd6251a96c6fd813bac4af315089af8c376a298f2e20f01 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+
+Package: linux-firmware-snapdragon
+Format: 3.0 (quilt)
+Binary: linux-firmware-snapdragon
+Architecture: arm64
+Version: 1.3-0ubuntu3~16.04.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 9)
+Homepage: https://developer.qualcomm.com/hardware/dragonboard-410c/tools
+Directory: pool/multiverse/l/linux-firmware-snapdragon
+Package-List:
+ linux-firmware-snapdragon deb multiverse/misc optional arch=arm64
+Files:
+ 55e70bf6403adff7826c708c9b2043fd 1935 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.dsc
+ 94359df359fbe8f9f43f003021b69fed 2752747 linux-firmware-snapdragon_1.3.orig.tar.gz
+ f8b017517f7cd89ef6f60a55b5bab1e7 7404 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.debian.tar.xz
+Checksums-Sha1:
+ e46976f1404114af4014afe0e5669b30561a2e8a 1935 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.dsc
+ 359d0d4cc78229c9b182dd28546cbee5dd4e69bb 2752747 linux-firmware-snapdragon_1.3.orig.tar.gz
+ a79bdbc1d42be5dcce1947d606c26cfc49f4a040 7404 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.debian.tar.xz
+Checksums-Sha256:
+ bcce68fe357aae41bab106fa09446076a9efc14fe9063955de5bbd36c8e5fae0 1935 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.dsc
+ 66bdce6f07a52bfb0228120a89c285e46068e8e03a7f60ff3e751e89ecdcf988 2752747 linux-firmware-snapdragon_1.3.orig.tar.gz
+ 2addec1c2cbc157f3e2621ee16ffe55809b4653ae49308844571992d32ecf37c 7404 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.debian.tar.xz
+

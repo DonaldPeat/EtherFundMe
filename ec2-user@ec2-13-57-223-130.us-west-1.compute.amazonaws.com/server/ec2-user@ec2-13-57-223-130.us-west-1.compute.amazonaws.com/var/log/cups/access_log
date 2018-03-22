@@ -1,0 +1,4 @@
+localhost - - [19/Mar/2018:07:36:03 -0700] "POST / HTTP/1.1" 200 349 Create-Printer-Subscriptions successful-ok
+localhost - - [19/Mar/2018:07:36:03 -0700] "POST / HTTP/1.1" 200 176 Create-Printer-Subscriptions successful-ok
+localhost - - [19/Mar/2018:12:51:50 -0700] "POST / HTTP/1.1" 401 186 Renew-Subscription successful-ok
+localhost - donquixote [19/Mar/2018:12:51:50 -0700] "POST / HTTP/1.1" 200 186 Renew-Subscription successful-ok

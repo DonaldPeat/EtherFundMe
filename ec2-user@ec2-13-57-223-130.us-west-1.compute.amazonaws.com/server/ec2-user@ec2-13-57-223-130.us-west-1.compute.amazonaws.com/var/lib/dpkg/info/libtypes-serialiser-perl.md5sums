@@ -1,0 +1,6 @@
+97ad461472d189650833a480711e7563  usr/share/doc/libtypes-serialiser-perl/changelog.Debian.gz
+2782f88fc0c7ac73e8ebba596ecb50fc  usr/share/doc/libtypes-serialiser-perl/copyright
+2ffb0148d0243de8176344176d14fed0  usr/share/man/man3/Types::Serialiser.3pm.gz
+cb71f132f5fd02ddd40d2025e1e2cfe0  usr/share/man/man3/Types::Serialiser::Error.3pm.gz
+b409e70ebab79d5b48b44dde9574b411  usr/share/perl5/Types/Serialiser.pm
+c7a32a03478f9821fc4d224e501e6f0f  usr/share/perl5/Types/Serialiser/Error.pm

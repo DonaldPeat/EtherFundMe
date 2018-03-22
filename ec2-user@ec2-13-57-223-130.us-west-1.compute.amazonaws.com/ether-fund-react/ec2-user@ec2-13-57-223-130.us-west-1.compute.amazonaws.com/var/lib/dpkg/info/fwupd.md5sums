@@ -1,0 +1,17 @@
+9b09c1f38a802b26aa6184bcef358f2e  lib/systemd/system/fwupd-offline-update.service
+ed704ad6079508fab61e4d0a6d114cbb  lib/systemd/system/fwupd.service
+413e2bad5cecec39d2b50c3421b9bbda  lib/udev/rules.d/90-fwupd-devices.rules
+bdfb0b41d9e58d908b7acf698abd0834  usr/bin/dfu-tool
+de66cab47b6fe1186f1c67593399bdec  usr/bin/fwupdmgr
+f310f47e665c56f73757b35ab0694875  usr/lib/x86_64-linux-gnu/fwupd-plugins-1/libfu_plugin_steelseries.so
+915fc81d03927a1ecf435bfa8d7a61c5  usr/lib/x86_64-linux-gnu/fwupd-plugins-1/libfu_plugin_test.so
+a5c7f7dc3439c22ee7a880aef02b7be8  usr/lib/x86_64-linux-gnu/fwupd/fwupd
+3c26c7398319d990653dd00a73d54a51  usr/share/app-info/xmls/org.freedesktop.fwupd.xml
+176b9983ea381166a39a5f93d7087094  usr/share/dbus-1/interfaces/org.freedesktop.fwupd.xml
+09a832b2cea53c0dc2240f62aa94cb42  usr/share/dbus-1/system-services/org.freedesktop.fwupd.service
+bd9ddba631f46937a1a6855cda8c92d0  usr/share/doc/fwupd/copyright
+89093fe856488f29104d384f514a19cf  usr/share/man/man1/dfu-tool.1.gz
+c7297ffbfd6bfd1e34770f4d428b8e35  usr/share/man/man1/fwupdmgr.1.gz
+0cb8d793cfaeac15bf2668179e33924f  usr/share/polkit-1/actions/org.freedesktop.fwupd.policy
+549eeff1babad95e701eab8c21c3b3c3  usr/share/polkit-1/rules.d/org.freedesktop.fwupd.rules
+dd01c230d5853a55ff12cb9a0e6eb48d  var/lib/polkit-1/localauthority/10-vendor.d/fwupd.pkla

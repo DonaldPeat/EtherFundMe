@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgoocanvas3
+/usr/share/doc/libgoocanvas3/copyright
+/usr/share/doc/libgoocanvas3/changelog.Debian.gz
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libgoocanvas.so.3.5.0
+/usr/lib/x86_64-linux-gnu/libgoocanvas.so.3

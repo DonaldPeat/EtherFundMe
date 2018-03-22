@@ -1,0 +1,8 @@
+8dd90260649e7e155d131b11611cc8c0  lib/udev/rules.d/80-snappy-assign.rules
+13b8f2864874362dc5d0931ab2e649d4  lib/udev/snappy-app-dev
+8bb7a65e1a8c0277712360ed1cf6f4cf  usr/lib/snapd/snap-confine
+6c65ae36d5192c414133dc8696f7d252  usr/lib/snapd/snap-discard-ns
+62faca6d84b1fcc839ee80bddc21b6fd  usr/share/doc/snap-confine/changelog.gz
+fe1d0809673e12b4e0587e061e53c8ac  usr/share/doc/snap-confine/copyright
+9de59cf57a55f2d27a0857b147b5cb81  usr/share/man/man5/snap-confine.5.gz
+acfaef191152b63809f9122f49adada0  usr/share/man/man5/snap-discard-ns.5.gz

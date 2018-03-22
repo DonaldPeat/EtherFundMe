@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Kommando">
+							<longdesc>Kommandoen som skal kjøyrast for &quot;command&quot;-varsling.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Gjenta lyd">
+							<longdesc>Om varslingslyden skal gjentakast.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Lydfil">
+							<longdesc>Lydfilen som skal spelast for &quot;sound&quot;-varsling.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Varslingstype">
+							<longdesc>Notifiseringstypen som skal nyttast når varslinga går av. Vel ein av disse: &quot;sound&quot; for å spille ein lyd (spesifisert i &quot;sound_file&quot;-innstillinga), &quot;command&quot; for å køyre ein kommando (spesifisert i &quot;command&quot;-innstillinga).</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Varslingsgjentaking">
+							<longdesc>Ei liste over dagar kor varslinga skal gjentakast. Innstillinga er berre gjeldande for &quot;clock&quot; varslingar.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Varsling kjøyrestatus">
+							<longdesc>Indikerer om varslinga har starta.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Varslingsmelding">
+							<longdesc>Ei kort melding som beskriv varslinga.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Varslingstid">
+							<longdesc>Tida for varslinga. Skal vere i GMT for &quot;clock&quot;-varslingar eller lengde i sekund for &quot;timer&quot;-varslingar.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Varslingstidsstempel">
+							<longdesc>UNIX-tidsstempel for varslinga. Må settast før varslinga er starta.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Varslingstype">
+							<longdesc>Varslingstypa. Enten &quot;clock&quot; for ei varsling på ei gitt tid av døgnet, eller &quot;timer&quot; for ei varsling etter ei gitt tid.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

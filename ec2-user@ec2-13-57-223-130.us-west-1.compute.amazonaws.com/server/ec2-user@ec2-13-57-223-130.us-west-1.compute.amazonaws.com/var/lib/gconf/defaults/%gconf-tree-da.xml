@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Kommando">
+							<longdesc>Kommandoen som skal køres for en &quot;command&quot;-varsling.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Gentag lyd">
+							<longdesc>Om alarmlyden skal gentages.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Lydfil">
+							<longdesc>Lydfilen som skal afspilles for en &quot;sound&quot;-varsling.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Varslingstype">
+							<longdesc>Meddelelsestypen som skal bruges når alarmen starter. Denne kan være en af følgende: &quot;sound&quot; for at afspille en lyd (specifiseret i &quot;sound_file&quot; indstillingen.) &quot;command&quot; for at køre en kommando (specifiseret i &quot;command&quot; indstillingen.)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Gentagelse af alarm">
+							<longdesc>En liste over dage hvor alarmen skal gentages. Denne indstilling er kun gyldig for &quot;clock&quot; -alarmer.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Alarmstatus">
+							<longdesc>Angiv om alarm er startet.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Alarmmeddelelse">
+							<longdesc>En kort meddelelse, der beskriver alarmen.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Alarmtid">
+							<longdesc>Tiden for alarmen. Skal være i GMT for &quot;clock&quot;-alarmer eller længde i sekunder for &quot;timer&quot;-alarmer.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Alarmtidsstempel">
+							<longdesc>UNIX-tidsstempel for alarmen. Må indstilles før alarmen aktiveres.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Alarmtype">
+							<longdesc>Alarmtypen. Enten &quot;clock&quot; for en alarm på et angivet tidspunkt på dagen, eller &quot;timer&quot; for en alarm efter en angivet tidsperiode.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

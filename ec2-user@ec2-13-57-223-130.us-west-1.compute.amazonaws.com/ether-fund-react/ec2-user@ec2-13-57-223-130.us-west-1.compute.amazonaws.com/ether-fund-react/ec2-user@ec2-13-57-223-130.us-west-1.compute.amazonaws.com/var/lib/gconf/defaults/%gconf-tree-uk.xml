@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Показати лічильник зворотнього відліку">
+						<longdesc>Чи показувати напис зліва від піктограми з часом наступної події</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Команда">
+							<longdesc>Виконати команду (якщо налагоджено)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Повторювати сигнал">
+							<longdesc>Повторювати звук будильника</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Звуковий файл">
+							<longdesc>Звуковий файл для відтворення у режимі «звук»</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Тип сповіщення">
+							<longdesc>Яким чином активувати будильник? Оберіть один з варіантів: відтворити звук (вказаний у параметрі &quot;sound_file&quot; звуковий файл) або виконати команду (вказану у параметрі &quot;command&quot;)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Повторювання">
+							<longdesc>Повторювання будильника у певні дні. Має сенс тільки для будильників (не таймерів)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Запускання будильника">
+							<longdesc>Будильник увімкнено</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Повідомлення будильника">
+							<longdesc>Короткий опис будильника</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Час сигналу">
+							<longdesc>Час запуску будильника. Встановіть час доби для будильника або кількість хвилин для таймера.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Часова мітка сигналу">
+							<longdesc>Часова мітка UNIX для будильника. Має бути встановлена, щоб активувати будильник.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Тип сигналу">
+							<longdesc>Тип будильника. Саме будильник - налагоджується на конкретний час доби, чи таймер - активується через певний час.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

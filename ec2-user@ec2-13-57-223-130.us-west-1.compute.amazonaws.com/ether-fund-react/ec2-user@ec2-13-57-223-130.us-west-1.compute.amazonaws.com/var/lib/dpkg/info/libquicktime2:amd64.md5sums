@@ -1,0 +1,17 @@
+864939df7bffe00bb697a7d37266f293  usr/lib/x86_64-linux-gnu/libquicktime.so.2.0.0
+e684428e10a123d5226ce4a996d89753  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_audiocodec.so
+fbed40b4e427837c282290dc32398510  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_dv.so
+11074b3aae75a23b97d4c2f008eaf296  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_faad2.so
+bcd9fd1a4c1917a4168b013ac0afafcb  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_ffmpeg.so
+64c71fe555f939726d4d0c99cd046fcb  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_lame.so
+21c13b97656423f385d471dce65dd349  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_mjpeg.so
+32eccbaa56964a3980cf464ffd335235  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_png.so
+1a131e3549f05d7e078828483b5e4601  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_rtjpeg.so
+d999c6dca7010e178c2e0b6f306ca30d  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_schroedinger.so
+d37a0979622904d805c4a59bd89c8eb3  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_videocodec.so
+8c6b97d1468b826abce83e4eedf1816e  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_vorbis.so
+cb16cdfd6a9b2510d390eaa673061ea2  usr/lib/x86_64-linux-gnu/libquicktime2/lqt_x264.so
+f3874c8e358212abc30876da6087cb98  usr/share/doc/libquicktime2/README
+1a465c8ba5143e4c72d9f801a24b7062  usr/share/doc/libquicktime2/TODO
+5bd18f4f6011ee94488e9a121b6e2bf7  usr/share/doc/libquicktime2/changelog.Debian.gz
+c32930d4cd445875b32a3f955d990a3d  usr/share/doc/libquicktime2/copyright

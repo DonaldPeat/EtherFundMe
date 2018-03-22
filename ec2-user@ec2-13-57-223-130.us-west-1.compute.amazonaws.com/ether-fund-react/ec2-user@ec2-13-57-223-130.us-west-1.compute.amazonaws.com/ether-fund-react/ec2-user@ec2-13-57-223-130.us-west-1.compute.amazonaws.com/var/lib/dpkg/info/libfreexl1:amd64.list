@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libfreexl.so.1.1.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/libfreexl1
+/usr/share/doc/libfreexl1/copyright
+/usr/share/doc/libfreexl1/examples
+/usr/share/doc/libfreexl1/examples/xl2sql.c.gz
+/usr/share/doc/libfreexl1/examples/test_xl.c.gz
+/usr/share/doc/libfreexl1/changelog.Debian.gz
+/usr/lib/x86_64-linux-gnu/libfreexl.so.1

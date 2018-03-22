@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Afficher une étiquette de décompte">
+						<longdesc>S&apos;il faut afficher une étiquette à droite de l’icône avec le temps restant jusqu’à la prochaine alarme.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Commande">
+							<longdesc>La commande à exécuter pour les alertes de type &apos;commande&apos;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Répéter le Son">
+							<longdesc>Si il faut répéter le son de l&apos;alarme.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Fichier sonore">
+							<longdesc>Le fichier audio à jouer pour une notification de type &quot;son&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Type de notification">
+							<longdesc>Le type de notification à utiliser lorsque l&apos;alarme se déclenche. Cela peut être l&apos;un des types de notifications suivants : &quot;son&quot; pour lire un son (spécifié dans la propriété &quot;sound_file&quot;), &quot;commande&quot; pour exécuter une commande (spécifiée dans la propriété &quot;commande&quot;)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Répéter l&apos;Alarme">
+							<longdesc>Liste des jours où l&apos;alarme doit se déclencher. Ne s&apos;applique qu&apos;aux alarmes de type &apos;horaire&apos;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Etat de l&apos;alarme en cours d&apos;exécution.">
+							<longdesc>Indique si l&apos;alarme s&apos;est déclenchée</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Message de l&apos;alarme">
+							<longdesc>Description de l&apos;alarme.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Heure de l&apos;alarme">
+							<longdesc>L&apos;heure de l&apos;alarme doit être en GMT pour les alarmes &quot;horaires&quot; et en secondes pour les alarmes &quot;minuteurs&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Horodatage de l&apos;alarme">
+							<longdesc>La répétition (horodatage) de l&apos;alarme doit être configurée avant que l&apos;alarme soit activée.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Type d&apos;alarme">
+							<longdesc>Le type d&apos;alarme. Soit &quot;horaire&quot; pour une alarme se déclenchant à un moment spécifique du jour, ou &quot;minuteur&quot; pour une alarme se déclenchant après un laps de temps.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

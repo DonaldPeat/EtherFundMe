@@ -1,0 +1,17 @@
+libosg 100 libopenscenegraph100v5
+libosgAnimation 100 libopenscenegraph100v5
+libosgDB 100 libopenscenegraph100v5
+libosgFX 100 libopenscenegraph100v5
+libosgGA 100 libopenscenegraph100v5
+libosgManipulator 100 libopenscenegraph100v5
+libosgParticle 100 libopenscenegraph100v5
+libosgPresentation 100 libopenscenegraph100v5
+libosgQt 100 libopenscenegraph100v5
+libosgShadow 100 libopenscenegraph100v5
+libosgSim 100 libopenscenegraph100v5
+libosgTerrain 100 libopenscenegraph100v5
+libosgText 100 libopenscenegraph100v5
+libosgUtil 100 libopenscenegraph100v5
+libosgViewer 100 libopenscenegraph100v5
+libosgVolume 100 libopenscenegraph100v5
+libosgWidget 100 libopenscenegraph100v5

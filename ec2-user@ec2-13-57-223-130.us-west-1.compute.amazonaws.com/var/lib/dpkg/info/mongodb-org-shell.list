@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/bin/mongo
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/mongodb-org-shell
+/usr/share/doc
+/usr/share/doc/mongodb-org-shell
+/usr/share/doc/mongodb-org-shell/copyright
+/usr/share/doc/mongodb-org-shell/changelog.gz
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/mongo.1.gz

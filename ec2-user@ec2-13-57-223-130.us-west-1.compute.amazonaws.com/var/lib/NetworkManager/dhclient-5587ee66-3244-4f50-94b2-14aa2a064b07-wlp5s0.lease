@@ -1,0 +1,56 @@
+lease {
+  interface "wlp5s0";
+  fixed-address 192.168.1.4;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 86400;
+  option routers 192.168.1.1;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name-servers 192.168.1.1;
+  option domain-name "Home";
+  renew 1 2018/03/19 07:10:14;
+  rebind 1 2018/03/19 16:41:57;
+  expire 1 2018/03/19 19:41:57;
+}
+lease {
+  interface "wlp5s0";
+  fixed-address 192.168.1.4;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 1 2018/03/19 07:49:48;
+  rebind 1 2018/03/19 16:52:49;
+  expire 1 2018/03/19 19:52:49;
+}
+lease {
+  interface "wlp5s0";
+  fixed-address 192.168.1.4;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 1 2018/03/19 18:24:24;
+  rebind 2 2018/03/20 04:49:49;
+  expire 2 2018/03/20 07:49:49;
+}
+lease {
+  interface "wlp5s0";
+  fixed-address 192.168.1.4;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.1;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.1;
+  option dhcp-server-identifier 192.168.1.1;
+  option domain-name "Home";
+  renew 2 2018/03/20 05:30:54;
+  rebind 2 2018/03/20 15:24:24;
+  expire 2 2018/03/20 18:24:24;
+}

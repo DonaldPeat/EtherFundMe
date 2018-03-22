@@ -1,0 +1,479 @@
+Package: broadcom-sta
+Format: 3.0 (quilt)
+Binary: broadcom-sta-common, broadcom-sta-dkms, broadcom-sta-source
+Architecture: all
+Version: 6.30.223.271-3~16.04.2
+Priority: optional
+Section: multiverse/admin
+Maintainer: Eduard Bloch <blade@debian.org>
+Uploaders: Cyril Lacoux <clacoux@easter-eggs.com>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 8), dkms
+Homepage: http://www.broadcom.com/support/802.11/linux_sta.php
+Vcs-Git: https://gitlab.com/setecastronomy/broadcom-sta.git
+Directory: pool/multiverse/b/broadcom-sta
+Package-List:
+ broadcom-sta-common deb non-free/kernel optional arch=all
+ broadcom-sta-dkms deb non-free/kernel optional arch=all
+ broadcom-sta-source deb non-free/kernel optional arch=all
+Files:
+ e8a6eebd50b0fe34a91da1203d96e0bf 2110 broadcom-sta_6.30.223.271-3~16.04.2.dsc
+ f2d9a16d5c36afa112ea9cef2f3592be 2194116 broadcom-sta_6.30.223.271.orig.tar.xz
+ e81a50fd5a4ee0f89b24bb3ad6ff95f5 20752 broadcom-sta_6.30.223.271-3~16.04.2.debian.tar.xz
+Checksums-Sha1:
+ 53e033c87fcb13393acdad75e2d09e890a0b0316 2110 broadcom-sta_6.30.223.271-3~16.04.2.dsc
+ 38f040920b064b244d47bd560a669308fd10cac8 2194116 broadcom-sta_6.30.223.271.orig.tar.xz
+ 3830695f377a430fbeb1a642b242cf97fd38be51 20752 broadcom-sta_6.30.223.271-3~16.04.2.debian.tar.xz
+Checksums-Sha256:
+ 38a217407499ce2f70c0923ed42ca07ac3f92fa96425632f6ed280b87c695394 2110 broadcom-sta_6.30.223.271-3~16.04.2.dsc
+ 8b539f173ab7092d34307b6306e22c6380df025a7f2483937374492a7aedb2dc 2194116 broadcom-sta_6.30.223.271.orig.tar.xz
+ 0df13a3e73090f4820963d73e7f3c30c69cac04e1fecd3d397ff7ee96006ebbd 20752 broadcom-sta_6.30.223.271-3~16.04.2.debian.tar.xz
+
+Package: flashplugin-nonfree
+Format: 1.0
+Binary: flashplugin-installer, flashplugin-downloader
+Architecture: i386 amd64
+Version: 29.0.0.113ubuntu0.16.04.1
+Priority: optional
+Section: multiverse/web
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bart Martens <bartm@knars.be>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 9)
+Homepage: http://www.adobe.com/products/flashplayer.html
+Directory: pool/multiverse/f/flashplugin-nonfree
+Package-List:
+ flashplugin-downloader deb contrib/web optional arch=i386
+ flashplugin-installer deb contrib/web optional arch=i386,amd64
+Files:
+ 3d950422537437410b03d88bfec96b10 1432 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.dsc
+ 19f197423cc763c6742cd8cb7cae2452 46175 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.tar.gz
+Checksums-Sha1:
+ dd01ba36e4f40c7c8b483fa6089cfc1e71aa0306 1432 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.dsc
+ bd18677d14a6cc27e8ba8e056810730ac424e3ce 46175 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.tar.gz
+Checksums-Sha256:
+ bcaf5fe94477cd436ad38e20a8b3f2519582243ce17de401f80a5e6038578d82 1432 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.dsc
+ c988602a6fc0349fd2a83dce4f8557ede2a933258dbc3d97d998632ffb1a7e66 46175 flashplugin-nonfree_29.0.0.113ubuntu0.16.04.1.tar.gz
+
+Package: freshplayerplugin
+Format: 3.0 (quilt)
+Binary: browser-plugin-freshplayer-pepperflash, browser-plugin-freshplayer-libpdf, browser-plugin-freshplayer-nacl
+Architecture: any
+Version: 0.3.4-3ubuntu0.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Vincent Danjean <vdanjean@debian.org>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 9), cmake, pkg-config, libglib2.0-dev, libasound2-dev, libx11-dev, libgl1-mesa-dev, liburiparser-dev, libcairo2-dev, libpango1.0-dev, libpangocairo-1.0-0, libpangoft2-1.0-0, libfreetype6-dev, libgtk2.0-dev, libxinerama-dev, libconfig-dev, libevent-dev, libegl1-mesa-dev, libgles2-mesa-dev, ragel, libssl-dev, libv4l-dev, libpulse-dev, libavcodec-dev, libavutil-dev, libva-dev, libvdpau-dev
+Homepage: https://github.com/i-rinat/freshplayerplugin
+Vcs-Browser: https://anonscm.debian.org/gitweb/?p=collab-maint/freshplayerplugin.git
+Vcs-Git: https://anonscm.debian.org/collab-maint/freshplayerplugin.git
+Directory: pool/multiverse/f/freshplayerplugin
+Package-List:
+ browser-plugin-freshplayer-libpdf deb contrib/web optional arch=any
+ browser-plugin-freshplayer-nacl deb contrib/web optional arch=any
+ browser-plugin-freshplayer-pepperflash deb contrib/web optional arch=any
+Files:
+ a5e0c2d7c73649b41d192dc28da45f4c 2073 freshplayerplugin_0.3.4-3ubuntu0.1.dsc
+ e5d5df12de8dbb1caf4e349b4e4ae520 768318 freshplayerplugin_0.3.4.orig.tar.gz
+ 7656cf643097ba2da8995b9f144402f9 9528 freshplayerplugin_0.3.4-3ubuntu0.1.debian.tar.xz
+Checksums-Sha1:
+ 3391850871aa1a18e3ee7ebbb4dcc8d426c0e522 2073 freshplayerplugin_0.3.4-3ubuntu0.1.dsc
+ 765785671a636b14824d633e074ee911205405ac 768318 freshplayerplugin_0.3.4.orig.tar.gz
+ f5e983d945913d55805567f70bfd1e12eaf44b89 9528 freshplayerplugin_0.3.4-3ubuntu0.1.debian.tar.xz
+Checksums-Sha256:
+ 63601373243ff64ae011fed57f4fb4b00b04d191195833f6996bf52583cabeb7 2073 freshplayerplugin_0.3.4-3ubuntu0.1.dsc
+ 6f0009e64c59caa5c674b63eabb709ba8da6c85fc7cd45a1d66392e3a24da9a5 768318 freshplayerplugin_0.3.4.orig.tar.gz
+ 706d16741f940596f708a408867887a5733cae712aa0ff7b7766d104cef6ced7 9528 freshplayerplugin_0.3.4-3ubuntu0.1.debian.tar.xz
+Autobuild: yes
+
+Package: linux-firmware-raspi2
+Format: 3.0 (quilt)
+Binary: linux-firmware-raspi2
+Architecture: armhf
+Version: 1.20161020-0ubuntu1~0.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/raspberrypi/firmware
+Directory: pool/multiverse/l/linux-firmware-raspi2
+Package-List:
+ linux-firmware-raspi2 deb multiverse/misc optional arch=armhf
+Files:
+ 97465ce0c492f3c68b21b0b9aed08920 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ db97e5939ab0e851521e1fac704d6072 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ d5fe1781bd381d8f850003f7fe877586 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+Checksums-Sha1:
+ 5ed4ff2a2a6ec0b51004f7627e2db5ed7b4ddd94 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ 7e9f894875cd66abca98fbab0207894658ca0d6e 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ da677a9b3699146130105c9554db8b15d141ea8b 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+Checksums-Sha256:
+ 847a5bf0646a9a05303d66ab04efc0b511d7d8c01660db7dee596ff18a9830bb 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ 5c3387694563b82c8c3a5986b71241ddc98eb79cde2623b5019ebcf719e283c3 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ 39cf91ba7aad37fe2bd6251a96c6fd813bac4af315089af8c376a298f2e20f01 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+
+Package: linux-firmware-snapdragon
+Format: 3.0 (quilt)
+Binary: linux-firmware-snapdragon
+Architecture: arm64
+Version: 1.3-0ubuntu3~16.04.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 9)
+Homepage: https://developer.qualcomm.com/hardware/dragonboard-410c/tools
+Directory: pool/multiverse/l/linux-firmware-snapdragon
+Package-List:
+ linux-firmware-snapdragon deb multiverse/misc optional arch=arm64
+Files:
+ 55e70bf6403adff7826c708c9b2043fd 1935 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.dsc
+ 94359df359fbe8f9f43f003021b69fed 2752747 linux-firmware-snapdragon_1.3.orig.tar.gz
+ f8b017517f7cd89ef6f60a55b5bab1e7 7404 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.debian.tar.xz
+Checksums-Sha1:
+ e46976f1404114af4014afe0e5669b30561a2e8a 1935 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.dsc
+ 359d0d4cc78229c9b182dd28546cbee5dd4e69bb 2752747 linux-firmware-snapdragon_1.3.orig.tar.gz
+ a79bdbc1d42be5dcce1947d606c26cfc49f4a040 7404 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.debian.tar.xz
+Checksums-Sha256:
+ bcce68fe357aae41bab106fa09446076a9efc14fe9063955de5bbd36c8e5fae0 1935 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.dsc
+ 66bdce6f07a52bfb0228120a89c285e46068e8e03a7f60ff3e751e89ecdcf988 2752747 linux-firmware-snapdragon_1.3.orig.tar.gz
+ 2addec1c2cbc157f3e2621ee16ffe55809b4653ae49308844571992d32ecf37c 7404 linux-firmware-snapdragon_1.3-0ubuntu3~16.04.1.debian.tar.xz
+
+Package: lmbench
+Format: 1.0
+Binary: lmbench, lmbench-doc
+Architecture: any all
+Version: 3.0-a9-1.1ubuntu0.1
+Priority: optional
+Section: multiverse/admin
+Maintainer: Al Stone <ahs3@debian.org>
+Standards-Version: 3.8.0
+Build-Depends: docbook-to-man, debhelper (>> 3.0.0), dpatch
+Homepage: http://www.bitmover.com/lmbench/
+Directory: pool/multiverse/l/lmbench
+Package-List:
+ lmbench deb non-free/admin optional arch=any
+ lmbench-doc deb non-free/admin optional arch=all
+Files:
+ f27b0c8d4e27779a9efec9e7e1bda451 1846 lmbench_3.0-a9-1.1ubuntu0.1.dsc
+ ff8978a900999b60b336e56e368bef59 417326 lmbench_3.0-a9.orig.tar.gz
+ 2790ae0b4454e86e001fc611471639a8 15427 lmbench_3.0-a9-1.1ubuntu0.1.diff.gz
+Checksums-Sha1:
+ c69bf79326349bae294c3cb30e4485dd41977f66 1846 lmbench_3.0-a9-1.1ubuntu0.1.dsc
+ 0ac51bd0a871e0dc4d070aca8e734c57b3a122b2 417326 lmbench_3.0-a9.orig.tar.gz
+ 79e8a510c63af10ee8ec2a59e2a2f32236cf2a37 15427 lmbench_3.0-a9-1.1ubuntu0.1.diff.gz
+Checksums-Sha256:
+ 927504e00e088a1f8d52d19f886b88e61316ce1080aeb010bb3880d3d37982d7 1846 lmbench_3.0-a9-1.1ubuntu0.1.dsc
+ 8e1746e5e0299d67ce26469fba6dfdabcd5125f4a07403cb635f4be76c1ab00b 417326 lmbench_3.0-a9.orig.tar.gz
+ 9ac64747d8dbea8f510a2c00989ce162b9d3dd6ba39eb8f3c2fdd16202209d5e 15427 lmbench_3.0-a9-1.1ubuntu0.1.diff.gz
+
+Package: mythtv
+Format: 3.0 (quilt)
+Binary: mythtv, mythtv-common, mythtv-doc, mythtv-database, mythtv-backend, mythtv-transcode-utils, mythtv-frontend, libmyth-0.28-0, libmyth-dev, php-mythtv, libmythtv-perl, libmyth-python, mythtv-backend-master, mythtv-dbg, mythplugins, mythgallery, mythgame, mythmusic, mythnews, mythweather, mythweb, mytharchive, mythzoneminder, mythbrowser, mythnetvision, mythtv-theme-mythbuntu
+Architecture: any all
+Version: 2:0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1
+Priority: optional
+Section: multiverse/graphics
+Maintainer: MythTV Ubuntu Maintainers <ubuntu-mythtv@lists.ubuntu.com>
+Uploaders: Mario Limonciello <superm1@ubuntu.com>, Andres Mejia <amejia@debian.org>,
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9), quilt, ccache, yasm, help2man, qtdeclarative5-dev, libqt5webkit5-dev, libqt5opengl5-dev, qtscript5-dev, qt5-qmake, po-debconf, linux-kernel-headers, libdvdnav-dev, libfreetype6-dev, libavc1394-dev, libiec61883-dev, liblircclient-dev, libxinerama-dev | xlibs-static-dev (<< 6.8.1-1), libxxf86vm-dev | xlibs-static-dev (<< 6.8.1-1), libcrystalhd-dev [i386 amd64], libxvmc-dev | xlibs-static-dev (<< 6.8.1-1), libxext-dev | xlibs-static-dev (<< 6.8.1-1), libimlib2-dev, libasound2-dev, libmp3lame-dev | liblame-dev, libvorbis-dev, libdts-dev, lsb-release, libpulse-dev, libxrandr-dev, libfftw3-dev, libva-dev, libvdpau-dev | nvidia-190-libvdpau-dev [i386 amd64] | nvidia-185-libvdpau-dev [i386 amd64] | nvidia-180-libvdpau-dev [i386 amd64], libudev-dev, libclass-dbi-perl, libnet-upnp-perl, libio-socket-inet6-perl, libdbd-mysql-perl, libjson-perl, libwww-perl, dh-python | python-central, python, python-oauth, python-lxml, python-mysqldb, python-pycurl, python-urlgrabber, libgl1-mesa-dev | xlibmesa-gl-dev | xlibmesa-dev | libgl-dev, libdvdread-dev | libdvdread3-dev, fftw-dev, libflac-dev, libmad0-dev, libcdaudio-dev, libcdio-dev, libcdparanoia-dev | libcdparanoia0-dev, libsdl1.2-dev, libfaad-dev | libfaad2-dev, libexif-dev (>= 0.6.9-6), libtiff5-dev | libtiff4-dev | libtiff-dev, libxv-dev, libtag1-dev, libvisual-0.4-dev, libmysqlclient-dev, libdate-manip-perl, libxml-simple-perl, libimage-size-perl, libdatetime-format-iso8601-perl, libsoap-lite-perl, libx264-dev, libvpx-dev, libavahi-compat-libdnssd-dev, libssl-dev, libcdio-cdda-dev, libcdio-paranoia-dev, libxml2-dev, libass-dev, libcec-dev, libexiv2-dev, uuid-dev, libxml-xpath-perl, git, dh-systemd, php | php5, libraspberrypi-dev [armhf] | hello
+Build-Conflicts: libqt3-mt-dev
+Homepage: http://www.mythtv.org
+Vcs-Git: git://github.com/MythTV/packaging.git
+Directory: pool/multiverse/m/mythtv
+Package-List:
+ libmyth-0.28-0 deb libs optional arch=any
+ libmyth-dev deb libdevel optional arch=any
+ libmyth-python deb libs optional arch=all
+ libmythtv-perl deb perl optional arch=all
+ mytharchive deb graphics optional arch=any
+ mythbrowser deb graphics optional arch=any
+ mythgallery deb graphics optional arch=any
+ mythgame deb graphics optional arch=any
+ mythmusic deb graphics optional arch=any
+ mythnetvision deb graphics optional arch=any
+ mythnews deb graphics optional arch=any
+ mythplugins deb metapackages optional arch=all
+ mythtv deb graphics optional arch=all
+ mythtv-backend deb graphics optional arch=any
+ mythtv-backend-master deb metapackages optional arch=all
+ mythtv-common deb graphics optional arch=any
+ mythtv-database deb graphics optional arch=all
+ mythtv-dbg deb debug extra arch=any
+ mythtv-doc deb doc optional arch=all
+ mythtv-frontend deb graphics optional arch=any
+ mythtv-theme-mythbuntu deb graphics optional arch=all
+ mythtv-transcode-utils deb graphics optional arch=any
+ mythweather deb graphics optional arch=any
+ mythweb deb graphics optional arch=all
+ mythzoneminder deb graphics optional arch=any
+ php-mythtv deb graphics optional arch=all
+Files:
+ 7b53ac0298635ef4b70175048ace0f5f 5310 mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1.dsc
+ 302f0524ec006c534f1e113d5517a11e 128174847 mythtv_0.28.0+fixes.20160413.15cf421.orig.tar.gz
+ b0f391d4d01ddf535a7f65423ffdbb76 164688 mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1.debian.tar.xz
+Checksums-Sha1:
+ f7ecac1fbb835a6eddb70f54d603e8ecbaccad39 5310 mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1.dsc
+ c16268e4c722d2551d3849024160fcfd6c0b99a4 128174847 mythtv_0.28.0+fixes.20160413.15cf421.orig.tar.gz
+ 9795ac9e4cf947d0a701a89e3c833f6b50f386fd 164688 mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1.debian.tar.xz
+Checksums-Sha256:
+ d305296d038d3a0d98d7ec30b1dde0cddb824d5d57ec34a2ab4a313b5a08c495 5310 mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1.dsc
+ b4e19853fb923f1828158fb5beb5f653459fc82cca56bc0aed2a01397bceb3b4 128174847 mythtv_0.28.0+fixes.20160413.15cf421.orig.tar.gz
+ 50c44e3b5d095246ee8ca74ef3cf4511e9f280212531370a2d6b32dc51b461b1 164688 mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1.debian.tar.xz
+
+Package: pepperflashplugin-nonfree
+Format: 3.0 (native)
+Binary: pepperflashplugin-nonfree
+Architecture: i386 amd64
+Version: 1.8.2ubuntu1.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bart Martens <bartm@debian.org>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9)
+Homepage: http://wiki.debian.org/PepperFlashPlayer
+Directory: pool/multiverse/p/pepperflashplugin-nonfree
+Package-List:
+ pepperflashplugin-nonfree deb contrib/web optional arch=i386,amd64
+Files:
+ b3d29096868e6f3512b7023beeb2637c 1314 pepperflashplugin-nonfree_1.8.2ubuntu1.1.dsc
+ e3c6f7660207cc3282b382e0f128929e 9792 pepperflashplugin-nonfree_1.8.2ubuntu1.1.tar.xz
+Checksums-Sha1:
+ 520e8b7aa60b184648251ed01c890972bb2b64cf 1314 pepperflashplugin-nonfree_1.8.2ubuntu1.1.dsc
+ 628c36123bed0df638803a84a11715aab44768db 9792 pepperflashplugin-nonfree_1.8.2ubuntu1.1.tar.xz
+Checksums-Sha256:
+ b754540ac0e593ab405b94dc50d2c8316f64678219fa718fc8b4e6b1c17a0e0a 1314 pepperflashplugin-nonfree_1.8.2ubuntu1.1.dsc
+ a24bf01d2de40ad53a0a1b0f367bad0f3db68c8705a37ca74e1920da86448461 9792 pepperflashplugin-nonfree_1.8.2ubuntu1.1.tar.xz
+
+Package: playonlinux
+Format: 3.0 (quilt)
+Binary: playonlinux
+Architecture: all
+Version: 4.2.10-2ubuntu0.1
+Priority: optional
+Section: multiverse/otherosfs
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
+Uploaders: Bertrand Marc <beberking@gmail.com>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9), dh-python, python, imagemagick
+Homepage: http://www.playonlinux.com/
+Vcs-Browser: https://anonscm.debian.org/viewvc/pkg-games/packages/trunk/playonlinux/
+Vcs-Svn: svn://anonscm.debian.org/pkg-games/packages/trunk/playonlinux/
+Directory: pool/multiverse/p/playonlinux
+Package-List:
+ playonlinux deb contrib/otherosfs optional arch=all
+Files:
+ 58dcf902739b703ffa6e7ca0c5f45cad 2094 playonlinux_4.2.10-2ubuntu0.1.dsc
+ 9869697c13010e88cf68607cea334dbd 3202085 playonlinux_4.2.10.orig.tar.gz
+ fa59659f5cccb67e019a572ea2b83f54 7044 playonlinux_4.2.10-2ubuntu0.1.debian.tar.xz
+Checksums-Sha1:
+ 20d6c15c852233f60889a2cdd96524929d1b746c 2094 playonlinux_4.2.10-2ubuntu0.1.dsc
+ 9ac7707cb7e707d51f28aaa8f94cff6d4317812f 3202085 playonlinux_4.2.10.orig.tar.gz
+ 5d59c12707f252a5603e38b2d928f632a8f79dc7 7044 playonlinux_4.2.10-2ubuntu0.1.debian.tar.xz
+Checksums-Sha256:
+ 733ee609f045391848bc6f4133573d537c99acba3b97ea38d6be39d7441b4afb 2094 playonlinux_4.2.10-2ubuntu0.1.dsc
+ f524905912ae2b17c8544968a8554d635f8fc4cd3b220c0ae15c49d51f244973 3202085 playonlinux_4.2.10.orig.tar.gz
+ c13ceec03dbf93596a27aa0be422dd9b561f0c7c572027ecaf502239532d0f00 7044 playonlinux_4.2.10-2ubuntu0.1.debian.tar.xz
+
+Package: starpu-contrib
+Format: 3.0 (quilt)
+Binary: libstarpu-contrib-dev, libstarpu-contrib-1.1-9, libstarpu-contribfft-1.1-1, libstarpu-contribmpi-1.1-3, starpu-contrib-tools, starpu-contrib-examples, libsocl-contrib-1.1-1
+Architecture: any
+Version: 1.1.5-0ubuntu4.1
+Priority: extra
+Section: multiverse/libs
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Samuel Thibault <sthibault@debian.org>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev, dh-autoreconf, pkg-config, libnuma-dev [amd64 arm64 i386 ia64 mips mipsel powerpc ppc64el], libglpk-dev, mpi-default-dev, libgl1-mesa-dev | libgl-dev, libglu1-mesa-dev | libglu-dev, freeglut3-dev, libx11-dev, libblas-dev, libfftw3-dev, libhwloc-dev, libcnf-dev, qt4-qmake, libqt4-dev, libqt4-opengl-dev, libqwt5-qt4-dev, guile-2.0, opencl-headers, ocl-icd-opencl-dev, gcc-5, g++-5, gfortran-5, gcc-5-plugin-dev, help2man, nvidia-cuda-toolkit
+Homepage: http://starpu.gforge.inria.fr/
+Vcs-Browser: https://gforge.inria.fr/scm/viewvc.php/debian/unstable/?root=starpu
+Vcs-Svn: svn://scm.gforge.inria.fr/svn/starpu/debian/unstable
+Directory: pool/multiverse/s/starpu-contrib
+Package-List:
+ libsocl-contrib-1.1-1 deb contrib/libs extra arch=any
+ libstarpu-contrib-1.1-9 deb contrib/libs extra arch=any
+ libstarpu-contrib-dev deb contrib/libdevel extra arch=any
+ libstarpu-contribfft-1.1-1 deb contrib/libs extra arch=any
+ libstarpu-contribmpi-1.1-3 deb contrib/libs extra arch=any
+ starpu-contrib-examples deb contrib/science extra arch=any
+ starpu-contrib-tools deb contrib/utils extra arch=any
+Files:
+ 821aba044064f8c6f3aebbb3683d2e99 2993 starpu-contrib_1.1.5-0ubuntu4.1.dsc
+ 88de3bceece7e22260edd0a37d28ae08 5209660 starpu-contrib_1.1.5.orig.tar.gz
+ 50ac10bbc8881ebcd3cb37fceb623622 9668 starpu-contrib_1.1.5-0ubuntu4.1.debian.tar.xz
+Checksums-Sha1:
+ 043bd30f43a02bda1198065e9b4af731cd396d44 2993 starpu-contrib_1.1.5-0ubuntu4.1.dsc
+ e190565fce36249aa1201cfd4c9c54d039f0f61d 5209660 starpu-contrib_1.1.5.orig.tar.gz
+ 34b7f6bb222d39604803a5e374fae7d122d82c46 9668 starpu-contrib_1.1.5-0ubuntu4.1.debian.tar.xz
+Checksums-Sha256:
+ e1708b2da03d1b4b3f589af4cad7452cb52c1cf65d0b374734f89dbd1b1acb01 2993 starpu-contrib_1.1.5-0ubuntu4.1.dsc
+ 3b93d3d54b2bd4c96d49ca4a46f6d4ed077c7d7602baa2044152ef55ad5d9b15 5209660 starpu-contrib_1.1.5.orig.tar.gz
+ 256aeb50a04540a218dfc7df9c00acfa5fec1aa556e3d44505782f3c5ba4d598 9668 starpu-contrib_1.1.5-0ubuntu4.1.debian.tar.xz
+
+Package: steam
+Format: 3.0 (quilt)
+Binary: steam
+Architecture: i386
+Version: 1:1.0.0.48-1ubuntu4
+Priority: extra
+Section: multiverse/games
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
+Uploaders: Michael Gilbert <mgilbert@debian.org>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9), libxcb1, libxau6, libx11-6, libxdmcp6, python-dev
+Homepage: http://www.steampowered.com
+Directory: pool/multiverse/s/steam
+Package-List:
+ steam deb non-free/games extra arch=i386
+Files:
+ 6e7910d15119463d98b2c2f0c7790008 1905 steam_1.0.0.48-1ubuntu4.dsc
+ e599a048a8925a27eb69376ec2266053 940104 steam_1.0.0.48.orig.tar.xz
+ 43ab9fc4c797c618429117dd1d856c1f 9080 steam_1.0.0.48-1ubuntu4.debian.tar.xz
+Checksums-Sha1:
+ ec15d4e3c76037443d2290f8f05515ae2d3c74ec 1905 steam_1.0.0.48-1ubuntu4.dsc
+ a25c7845135140b1d4b6851395579cb5a214d9ad 940104 steam_1.0.0.48.orig.tar.xz
+ a1d8204d6e48391f9beec21f5cfc14654a4f9145 9080 steam_1.0.0.48-1ubuntu4.debian.tar.xz
+Checksums-Sha256:
+ bcaf16d38184142a3949db246de9eedf5ae839847b805038a824daf4c3dd01c2 1905 steam_1.0.0.48-1ubuntu4.dsc
+ 9da87642682dc3f7f49437acaf63363468ecca4306acd89c29014fb74f71dbc8 940104 steam_1.0.0.48.orig.tar.xz
+ 81950ad353e0ed1aedbe719b9485d674596a11099594140e63f169d5ecb3deb4 9080 steam_1.0.0.48-1ubuntu4.debian.tar.xz
+
+Package: virtualbox
+Format: 3.0 (quilt)
+Binary: virtualbox-qt, virtualbox, virtualbox-dkms, virtualbox-source, virtualbox-guest-dkms, virtualbox-guest-source, virtualbox-guest-x11, virtualbox-guest-utils
+Architecture: amd64 i386 all
+Version: 5.0.40-dfsg-0ubuntu1.16.04.2
+Priority: optional
+Section: multiverse/misc
+Maintainer: Debian Virtualbox Team <pkg-virtualbox-devel@lists.alioth.debian.org>
+Uploaders: Ritesh Raj Sarraf <rrs@debian.org>, Gianfranco Costamagna <locutusofborg@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: bzip2, debhelper (>= 9), default-jdk, dh-python, dh-systemd (>= 1.5), dkms (>= 2.1.1.1), docbook-xml, docbook-xsl, dpkg-dev (>= 1.15.6~), g++-multilib, genisoimage, gsoap (>= 2.8.16), iasl, imagemagick, kbuild (>= 1:0.1.9998svn2695), libasound2-dev, libcap-dev, libcurl4-gnutls-dev, libdevmapper-dev, libdrm-dev, libgl1-mesa-dev, libglu1-mesa-dev, libidl-dev, libpam0g-dev, libpixman-1-dev, libpng-dev, libpulse-dev, libqt4-dev (>= 4.4.0), libqt4-network (>= 4.4.0), libqt4-opengl-dev (>= 4.4.0), libsdl1.2-dev, libssl-dev, libvncserver-dev, libvpx-dev, libx11-dev, libxcomposite-dev, libxcursor-dev, libxdamage-dev, libxext-dev, libxi-dev, libxinerama-dev, libxml2-dev, libxml2-utils, libxmu-dev, libxrandr-dev, libxrender-dev, libxslt1-dev, libxt-dev, lsb-release, lynx-cur, makeself, module-assistant, python-dev (>= 2.6.6-3~), texlive-fonts-extra, texlive-fonts-recommended, texlive-latex-extra, texlive-latex-recommended, uuid-dev, x11proto-gl-dev, x11proto-xf86dri-dev, xserver-xorg-dev, xsltproc, yasm (>= 0.7.0), zlib1g-dev
+Homepage: http://www.virtualbox.org/
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-virtualbox/virtualbox.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-virtualbox/virtualbox.git
+Directory: pool/multiverse/v/virtualbox
+Package-List:
+ virtualbox deb contrib/misc optional arch=amd64,i386
+ virtualbox-dkms deb contrib/kernel optional arch=all
+ virtualbox-guest-dkms deb contrib/kernel optional arch=all
+ virtualbox-guest-source deb contrib/kernel optional arch=all
+ virtualbox-guest-utils deb contrib/misc optional arch=amd64,i386
+ virtualbox-guest-x11 deb contrib/x11 optional arch=amd64,i386
+ virtualbox-qt deb contrib/misc optional arch=amd64,i386
+ virtualbox-source deb contrib/kernel optional arch=all
+Files:
+ 650b296eb656a16a983e2b3de952a147 3676 virtualbox_5.0.40-dfsg-0ubuntu1.16.04.2.dsc
+ 196368d9f4878b8b2d08d174267ca209 51307520 virtualbox_5.0.40-dfsg.orig.tar.xz
+ d90bd2088f42dd6938e03a0627f376b9 82196 virtualbox_5.0.40-dfsg-0ubuntu1.16.04.2.debian.tar.xz
+Checksums-Sha1:
+ b8b67a3df74cb190a58f97088d60382be31be6e3 3676 virtualbox_5.0.40-dfsg-0ubuntu1.16.04.2.dsc
+ 3e9df68b408662f95c79d92382d49a78bfaef2db 51307520 virtualbox_5.0.40-dfsg.orig.tar.xz
+ bd9241b0ec80fb2e74d391a7791a84a9c4987071 82196 virtualbox_5.0.40-dfsg-0ubuntu1.16.04.2.debian.tar.xz
+Checksums-Sha256:
+ c2ffc35ce22cbc686c037c9080d8b3fbd7c4d4e5fdcbedccb5d819d0966819ba 3676 virtualbox_5.0.40-dfsg-0ubuntu1.16.04.2.dsc
+ d4967a0155983778fd43a74341c896c4c83a11954e51e8b0150ccc602b90f89e 51307520 virtualbox_5.0.40-dfsg.orig.tar.xz
+ d6cd8b2712b822eee273d67d4ec3ac54ce5c9252ee14ac1e0e6d90c9288c4277 82196 virtualbox_5.0.40-dfsg-0ubuntu1.16.04.2.debian.tar.xz
+
+Package: virtualbox-ext-pack
+Format: 3.0 (quilt)
+Binary: virtualbox-ext-pack
+Architecture: all
+Version: 5.0.40-0ubuntu1.16.04.1
+Priority: extra
+Section: multiverse/misc
+Maintainer: Debian Virtualbox Team <pkg-virtualbox-devel@lists.alioth.debian.org>
+Uploaders: Unit 193 <unit193@ubuntu.com>, Gianfranco Costamagna <locutusofborg@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9), po-debconf
+Testsuite: autopkgtest
+Homepage: https://www.virtualbox.org
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-virtualbox/virtualbox-ext-pack.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-virtualbox/virtualbox-ext-pack.git
+Directory: pool/multiverse/v/virtualbox-ext-pack
+Package-List:
+ virtualbox-ext-pack deb non-free/misc extra arch=all
+Files:
+ 3888ee638163f6ba7f1a7f6fdf855703 2175 virtualbox-ext-pack_5.0.40-0ubuntu1.16.04.1.dsc
+ e26da785a20233e410397627c5ff658d 192 virtualbox-ext-pack_5.0.40.orig.tar.xz
+ 7c8258dd7cc2995c62d3cf7858abf0b4 12240 virtualbox-ext-pack_5.0.40-0ubuntu1.16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 19fadfdfefec898d550ed73127c657c982690dc2 2175 virtualbox-ext-pack_5.0.40-0ubuntu1.16.04.1.dsc
+ cd7a7f1ad097dd50db5bc080e87e268357b4c17a 192 virtualbox-ext-pack_5.0.40.orig.tar.xz
+ b341d7032f6c2fb2ca5545beafc53a260249d687 12240 virtualbox-ext-pack_5.0.40-0ubuntu1.16.04.1.debian.tar.xz
+Checksums-Sha256:
+ bba784bebf018a4d5cb1a8f80d4147e159ac4680aebf3ba650fdd624691c11a8 2175 virtualbox-ext-pack_5.0.40-0ubuntu1.16.04.1.dsc
+ 58a182e82df94777a75b87951fd718349259acadcaee3566e6133f0234bcd3ba 192 virtualbox-ext-pack_5.0.40.orig.tar.xz
+ bc97af21f746fed13b2bbeead912e369c9850169717360f45ba5beb3389830bf 12240 virtualbox-ext-pack_5.0.40-0ubuntu1.16.04.1.debian.tar.xz
+
+Package: virtualbox-guest-additions-iso
+Format: 3.0 (quilt)
+Binary: virtualbox-guest-additions-iso
+Architecture: all
+Version: 5.0.40-0ubuntu1.16.04.1
+Priority: extra
+Section: multiverse/misc
+Maintainer: Debian Virtualbox Team <pkg-virtualbox-devel@lists.alioth.debian.org>
+Uploaders: Ritesh Raj Sarraf <rrs@debian.org>, Gianfranco Costamagna <locutusofborg@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9)
+Homepage: http://www.virtualbox.org/
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-virtualbox/virtualbox-guest-additions-iso.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-virtualbox/virtualbox-guest-additions-iso.git
+Directory: pool/multiverse/v/virtualbox-guest-additions-iso
+Package-List:
+ virtualbox-guest-additions-iso deb non-free/misc extra arch=all
+Files:
+ a26ad4a460a785a6678f59e3ebdd93b8 2278 virtualbox-guest-additions-iso_5.0.40-0ubuntu1.16.04.1.dsc
+ e7ff65c9fe1bbdac4b014a99b361c6f1 38845456 virtualbox-guest-additions-iso_5.0.40.orig.tar.xz
+ ac8978126b6b369cbd294dfbbadf1feb 8056 virtualbox-guest-additions-iso_5.0.40-0ubuntu1.16.04.1.debian.tar.xz
+Checksums-Sha1:
+ 7e3607f4ea523cbea70681e9007d6538c4e17f36 2278 virtualbox-guest-additions-iso_5.0.40-0ubuntu1.16.04.1.dsc
+ 045dfb82cc32254a11e734cb41a64151abf94418 38845456 virtualbox-guest-additions-iso_5.0.40.orig.tar.xz
+ 2e73a2c2bc5b18cb7dae478a8f3f3b9968c7ee70 8056 virtualbox-guest-additions-iso_5.0.40-0ubuntu1.16.04.1.debian.tar.xz
+Checksums-Sha256:
+ 1c5cf8118ea188da96382f2f811e4a1303d4132db91afde315e547cbc0d5ea74 2278 virtualbox-guest-additions-iso_5.0.40-0ubuntu1.16.04.1.dsc
+ 8e4645303c38d9ff268a8108eb8d950ce67b1f0ac88eb40fec87c548afd009b9 38845456 virtualbox-guest-additions-iso_5.0.40.orig.tar.xz
+ a0e8820db3680b91f9a273f9af3c7a8998bc2f44b0b046b46c70f44afa4c99e8 8056 virtualbox-guest-additions-iso_5.0.40-0ubuntu1.16.04.1.debian.tar.xz
+
+Package: virtualbox-hwe
+Format: 3.0 (quilt)
+Binary: virtualbox-guest-dkms-hwe, virtualbox-guest-source-hwe, virtualbox-guest-x11-hwe, virtualbox-guest-utils-hwe
+Architecture: all amd64 i386
+Version: 5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4
+Priority: optional
+Section: multiverse/misc
+Maintainer: Debian Virtualbox Team <pkg-virtualbox-devel@lists.alioth.debian.org>
+Uploaders: Ritesh Raj Sarraf <rrs@debian.org>, Gianfranco Costamagna <locutusofborg@debian.org>
+Standards-Version: 3.9.8
+Build-Depends: bzip2, debhelper (>= 9), default-jdk, dh-python, dh-systemd (>= 1.5), dkms (>= 2.1.1.1), docbook-xml, docbook-xsl, dpkg-dev (>= 1.15.6~), g++-multilib, genisoimage, gsoap (>= 2.8.16), iasl, imagemagick, kbuild (>= 1:0.1.9998svn2695), libasound2-dev, libcap-dev, libcurl4-gnutls-dev, libdevmapper-dev, libdrm-dev, libgl1-mesa-dev, libglu1-mesa-dev, libidl-dev, libpam0g-dev, libpixman-1-dev, libpng-dev, libpulse-dev, libqt4-dev (>= 4.4.0), libqt4-network (>= 4.4.0), libqt4-opengl-dev (>= 4.4.0), libsdl1.2-dev, libssl-dev, libvncserver-dev, libvpx-dev, libx11-dev, libxcomposite-dev, libxcursor-dev, libxdamage-dev, libxext-dev, libxi-dev, libxinerama-dev, libxml2-dev, libxml2-utils, libxmu-dev, libxrandr-dev, libxrender-dev, libxslt1-dev, libxt-dev, lsb-release, lynx-cur, makeself, module-assistant, python-dev (>= 2.6.6-3~), texlive-fonts-extra, texlive-fonts-recommended, texlive-latex-extra, texlive-latex-recommended, uuid-dev, x11proto-gl-dev, x11proto-xf86dri-dev, xserver-xorg-dev-hwe-16.04, xsltproc, yasm (>= 0.7.0), zlib1g-dev
+Homepage: http://www.virtualbox.org/
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-virtualbox/virtualbox.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-virtualbox/virtualbox.git
+Directory: pool/multiverse/v/virtualbox-hwe
+Package-List:
+ virtualbox-guest-dkms-hwe deb contrib/kernel optional arch=all
+ virtualbox-guest-source-hwe deb contrib/kernel optional arch=all
+ virtualbox-guest-utils-hwe deb contrib/misc optional arch=amd64,i386
+ virtualbox-guest-x11-hwe deb contrib/x11 optional arch=amd64,i386
+Files:
+ 91dd4c742d2422c7eff5785624c04eb6 3494 virtualbox-hwe_5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4.dsc
+ 196368d9f4878b8b2d08d174267ca209 51307520 virtualbox-hwe_5.0.40-dfsg.orig.tar.xz
+ a40e95dc8d3745832f3b0971fbc269af 81812 virtualbox-hwe_5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4.debian.tar.xz
+Checksums-Sha1:
+ ea3487c3c4b21c2ac3cd9137d8c49acdf52724f8 3494 virtualbox-hwe_5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4.dsc
+ 3e9df68b408662f95c79d92382d49a78bfaef2db 51307520 virtualbox-hwe_5.0.40-dfsg.orig.tar.xz
+ ff33c9d6ed201b6c49d10a06037bc9dbab12f0db 81812 virtualbox-hwe_5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4.debian.tar.xz
+Checksums-Sha256:
+ 9fbd59278fa5b5994f7a603f1a337be261e68d6922ca2c76a7f3e1d6f3e0e8f3 3494 virtualbox-hwe_5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4.dsc
+ d4967a0155983778fd43a74341c896c4c83a11954e51e8b0150ccc602b90f89e 51307520 virtualbox-hwe_5.0.40-dfsg.orig.tar.xz
+ 6ed942e2849029942454c928b0b1347479edba74a8ae99c7992b8b7fc7bdf0a9 81812 virtualbox-hwe_5.0.40-dfsg-0ubuntu1.16.04.1~16.04.4.debian.tar.xz
+

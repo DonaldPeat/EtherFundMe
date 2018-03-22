@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Mostrar a etiqueta de conta atrás">
+						<longdesc>Para mostrar unha etiqueta no lado dereito da icona co tempo restante ata a próxima alarma.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Orde">
+							<longdesc>Otde para executar polo tipo de notificación «orde»</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Repetir son">
+							<longdesc>Se se repite o son da alarma</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Ficheiro de son">
+							<longdesc>Ficheiro de son para reproducir no tipo de notificación «son»</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Tipo de notificación.">
+							<longdesc>Tipo de notificación para usar cando a alarma se apaga. Isto pode ser un dos seguintes: «son» para reproducir un son (especificado na propiedade «Ficheiro_de_son») «orde» para executar unha orde (especificado na propiedade «orde»)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Repetición da alarma">
+							<longdesc>Unha lista de dias nos que a alarma debe ser repetida. Estas comfiguracions son só aplicábeis para alarmas de «reloxo»</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Estado da alarma">
+							<longdesc>Indica se a a alama comezou.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Mensaxe da alarma">
+							<longdesc>Unha mensaxe curta que describa a alarma</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Hora da alarma">
+							<longdesc>Hora para a alarma. Debe estar en GMT para alarmas «reloxo» ou o tempo en segundos para alarmas «temporizador»</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Date e hora da alarma">
+							<longdesc>Marca de tempo de UNIX para a alarma. Debe ser definido antes de que a alarma sexa activada.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Tipo de alarma">
+							<longdesc>Tipo de alarma. «Reloxo» para unha alarma a unha hora especifica do dia, ou «temporizador» para unha alarma despois dun período de tempo especificado</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

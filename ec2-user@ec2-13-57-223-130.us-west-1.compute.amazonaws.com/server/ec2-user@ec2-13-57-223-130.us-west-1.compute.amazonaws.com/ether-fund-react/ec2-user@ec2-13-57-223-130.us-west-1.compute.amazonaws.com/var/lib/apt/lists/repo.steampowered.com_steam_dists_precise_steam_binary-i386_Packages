@@ -1,0 +1,41 @@
+Package: steam
+Version: 1.0.0.54
+Architecture: i386
+Maintainer: Valve Corporation <linux@steampowered.com>
+Installed-Size: 28
+Depends: steam-launcher (>= 1.0.0.54)
+Homepage: http://www.steampowered.com/
+Priority: extra
+Section: oldlibs
+Filename: pool/steam/s/steam/steam_1.0.0.54_i386.deb
+Size: 4944
+SHA256: 81a286d0c05762049e96ddb2c0f1bc77d3fdfff16e18428f647a8a61c4021f68
+SHA1: 2a29272701f2317ad32602fc7c59a51e6f439b36
+MD5sum: 00fbc95f4f31068c5ed9f5213aaabad8
+Description: Launcher for the Steam software distribution service
+ This is a transitional package that can be safely removed once steam-launcher is installed.
+
+Package: steam-launcher
+Source: steam
+Version: 1.0.0.54
+Architecture: all
+Maintainer: Valve Corporation <linux@steampowered.com>
+Installed-Size: 2830
+Depends: python, curl, libc6 (>= 2.15), python-apt, xterm | gnome-terminal | konsole, xz-utils, zenity
+Recommends: jockey-common
+Breaks: steam64
+Replaces: steam, steam64
+Multi-Arch: foreign
+Homepage: http://www.steampowered.com/
+Priority: optional
+Section: games
+Filename: pool/steam/s/steam/steam-launcher_1.0.0.54_all.deb
+Size: 2752252
+SHA256: 45aa0aaec0183f667ae985667ef2ca4bab9391fbe0fa398ac9f2ca32dfb526d8
+SHA1: 06a27dac25aa0298b823ee51abfca0301807c85b
+MD5sum: 826ce064640e5ffc3c54bd8cfa3032e4
+Description: Launcher for the Steam software distribution service
+ Steam is a software distribution service with an online store, automated
+ installation, automatic updates, achievements, SteamCloud synchronized
+ savegame and screenshot functionality, and many social features.
+

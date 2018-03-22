@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Wyświetl etykietę odliczania">
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Polecenie">
+							<longdesc>Komenda dla powiadomienia typu &quot;komenda&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Powtarzanie dźwięku">
+							<longdesc>Powtarzaj alarm dźwiękowy</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Plik dźwiękowy">
+							<longdesc>Plik dźwiękowy dla powiadomienia dźwiękowego.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Typ powiadomienia">
+							<longdesc>Typ powiadomienia po wyłączeniu alarmu.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Powtarzanie alarmu">
+							<longdesc>Lista dni w których alarm by się miał powtarzać. To ustawienie tylko dotyczy &quot;zegarowych&quot; alarmów.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Stan Działania Alarmu">
+							<longdesc>Wskazuje, czy alarm został uruchomiony.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Wiadomość alarmu">
+							<longdesc>Krótka wiadomość opisująca alarm.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Czas alarmu">
+							<longdesc>Czas alarmu.Według czasu Greenwich dla alarmów zegarowych, długość w sekundach dla alarmów czasowych.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Znaczniki Czasu Alarmu">
+							<longdesc>Znaczniki czasu UNIX dla alarmu. Muszą być ustawione przed aktywacją alarmu.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Typ alarmu">
+							<longdesc>Typ alarmu. Zegarowy - dla alarmów o określonej godzinie, czasowy - dla alarmów po upływie określonego czasu.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

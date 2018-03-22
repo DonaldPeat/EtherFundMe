@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Toon aftelling">
+						<longdesc>Of een label getoond moet worden rechts van het pictogram met de resterende tijd tot het volgende alarm.</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Actie">
+							<longdesc>De uit te voeren actie voor het &quot;command&quot; notificatie type.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Herhaal geluid">
+							<longdesc>Of het alarm herhaald moet worden.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Geluidsbestand">
+							<longdesc>Het af te spelen geluidsbestand voor het &quot;geluid&quot; notificatie type.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Notificatie type">
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Herhaling van het alarm">
+							<longdesc>Een lijst met dagen dat het alarm herhaald moet worden. Deze instelling is alleen van toepassing op &quot;klok&quot; alarms.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Alarmstatus">
+							<longdesc>Geeft aan of het alarm is gestart.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Alarmbericht">
+							<longdesc>Een korte omschrijving van het alarm.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Alarmtijd">
+							<longdesc>De tijd voor het alarm. Dit moet GMT notatie zijn voor &quot;klok&quot; alarms of de lengte in seconden voor &quot;timer&quot; alarms.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Alarm timestamp">
+							<longdesc>De UNIX timestamp voor het alarm. Dit moet worden ingesteld voor het alarm is geactiveerd.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Alarm type">
+							<longdesc>Het alarm-type. &quot;Klok&quot; voor een ingesteld alarm op een specifieke tijd, of &quot;timer&quot; voor een alarm na een verstreken tijdsperiode.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

@@ -1,0 +1,8 @@
+Package: brackets
+Description-md5: b97b71667368ead4ed493901200be067
+Description-en: Brackets
+ Brackets is an open-source editor for web design and development
+ built on top of web technologies such as HTML, CSS and JavaScript.
+ The project was created and is maintained by Adobe, and is released
+ under an MIT License.
+

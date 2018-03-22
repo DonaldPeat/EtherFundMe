@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="أمر">
+							<longdesc>نوع الامر المستخدم لتنفيذ نوع التنبيه.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="تكرار الصوت">
+							<longdesc>سواء لإعادة تشغيل صوت التنبيه.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="ملف الصوت">
+							<longdesc>نوع ملف الصوت المستخدم للتنبيه.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="نوع الاشعار">
+							<longdesc>نوع التنبيه المستخدم عند إيقاف المنبه.قد يكون شيئا مما يلي:&quot;صوت&quot; لتشغيل صوت (يحدد في خاصية &quot;sound_file&quot;.&quot;أكر&quot; لتنفيذ أمر ما (يحدد في خاصية &quot;command&quot;)</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="تكرار التنبيه .">
+							<longdesc>سرد الأيام التي يجب أن يتكرر فيها التنبيه.هذا الإعداد فاعل فقط لمنبهات &quot;clock&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="حالة تشغيل التنبيه">
+							<longdesc>التحقق ما إذا كان المنبه قد بدأ.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="رسالة التنبيه .">
+							<longdesc>رسالة قصيرة تصف التنبيه .</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="وقت التبيه">
+							<longdesc>وقت التنبيه.يجب أن يكون بتوقيت غرينتش لتنبيهات &quot;ساعة&quot; أو بصيغة الثواني لتنبيهات &quot;مؤقت&quot;.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="طابع التنبه">
+							<longdesc>بصمة وقت التنبيه ليونكس.يجب تحديده قبل تغعيل المنبه.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="نوع التنبيه">
+							<longdesc>نوع التنبيه.إما &quot;ساعة&quot; للتنبيه في وقت محدد من اليوم,أو &quot;مؤقت&quot; للتنبيه بعد فترة محددة من الزمن.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

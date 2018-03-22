@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="Geri sayım etiketini göster">
+						<longdesc>İkonun sağ tarafında bir sonraki alarm için kalan sürenin gösterilip gösterilmeyeceği</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Komut">
+							<longdesc>&quot;Komut&quot; bildirim türü için çalıştırılacak komut.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Sesi Tekrarla">
+							<longdesc>Alarm sesinin tekrar edip etmeyeceği.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Ses Dosyası">
+							<longdesc>&quot;Ses&quot; bildirimi için çalınacak ses dosyası.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Bildirim Türü">
+							<longdesc>Alarm çalıştığında kullanılacak bildirim yöntemi. Bir ses dosyası çalınacak ise &quot;ses&quot; (&quot;sound_file&quot; özelliğinde belirtildiği üzere), bir komut koşulacak ise &quot;komut&quot; (&quot;komut&quot; özelliğinde belirtildiği gibi) olabilir.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Alarm tekrarı">
+							<longdesc>Alarmın tekrar edeceği günlerin listesi. Bu ayarlar sadece &quot;saat&quot; alarmlarına uygulanabilir.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="Alarm Çalışma Durumu">
+							<longdesc>Alarmın başlayıp başlamadığını belirtir.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Alarm iletisi">
+							<longdesc>Alarmı açıklayan kısa bir ileti.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Alarm Zamanı">
+							<longdesc>Alarmın çalacağı zaman. &quot;Zamanlayıcı&quot; alarmlar için saniye mertebesinde, &quot;Saat&quot; alarmları için GMT olmalıdır.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Alarm Tarih bilgisi">
+							<longdesc>Alarm için UNIX tarih bilgisi. Alarm etkinleştirilmeden önce ayarlanmalıdır.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Alarm Türü">
+							<longdesc>Alarmın türü. Günün belli bir zamanı çalması için &quot;Saat&quot;, belli bir süre sonunda çalması için &quot;Zamanlayıcı&quot; olabilir.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

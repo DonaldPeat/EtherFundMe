@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<entry name="show_label">
+					<local_schema short_desc="ගණන ලේබලය දැක්වීම">
+						<longdesc>ඊලග සංඥා සලකුණේ නිවැරදි පැත්ත දැක්වීම</longdesc>
+					</local_schema>
+				</entry>
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="විධානය">
+							<longdesc>&quot;විධානය&quot; නිවේදන වර්ගය ක්‍රියාත්මක කිරිමට</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="ශබ්ද නැවත කියවීම">
+							<longdesc>එක්කෝ සංඥා ශබ්දය නැවත කියවීම</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="ශබ්ද ගොනුව">
+							<longdesc>ශබ්ද ගොනුව ශබ්ද නිවේදන වර්ගය ක්‍රියාත්මක කිරිමට</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="නිවේදන වර්ගය">
+							<longdesc>නිවේදන වර්ගය අනුව සංඥාව පැමිණීම.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="සංඥා නැවත කිරිම">
+							<longdesc>දවස අනුව සංඥාව නැවත දැක්විය යුතුය. කට්ටල අංග යෙදිය හැකිවන්නේ ඔරලෝසුවට පමණි.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema short_desc="සංඥා ක්‍රියාත්මක තත්වය">
+							<longdesc>සංඥාවේ ආරම්භය දැක්වීම හෝ</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="සංඥා පණිවිඩය">
+							<longdesc>කෙටි සංඥා පණිවිඩයක්</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="සංඥා කාලය">
+							<longdesc>සංඥා සදහා කාලය.සම්මත කාලය ඔරලෝසු සංඥා හෝ කාල පරාසය අනුව කාලගණන සංඥාටද යෙදිය යුතුය.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="සම්මත සංඥාව">
+							<longdesc>සංඥාව සදහා යුනික්ස් සලකුණ.සංඥාව ක්‍රියාත්මක කිරීමට පෙර සැකසිය යුතුය.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="සංඥා වර්ගය">
+							<longdesc>සංඥා වර්ගය අනුව දවසක විශේෂිත වේලාව දැක්වීම සදහා &quot;ඔරලෝසුව&quot; හෝ  සද විශේෂිත කාලයකට  පසුව සංඥා දැක්වීමට &quot;කාලගණනය&quot; යොදාගැනේ.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

@@ -1,0 +1,8 @@
+# This is private data. Do not parse.
+WHAT=sleep
+MODE=delay
+UID=0
+PID=878
+WHO=NetworkManager
+WHY=NetworkManager needs to turn off networks
+FIFO=/run/systemd/inhibit/1.ref

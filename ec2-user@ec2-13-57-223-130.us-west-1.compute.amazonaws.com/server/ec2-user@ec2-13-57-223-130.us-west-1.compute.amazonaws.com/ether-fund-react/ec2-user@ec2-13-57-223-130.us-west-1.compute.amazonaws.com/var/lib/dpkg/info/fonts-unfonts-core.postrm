@@ -1,0 +1,11 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/fonts/conf.avail/gbp.conf 1.0.2-080608-9~ fonts-unfonts-core -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/fonts/conf.avail/90-ttf-unfonts-core.conf 1.0.2-080608-4~ ttf-unfonts-core -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/defoma/hints/ttf-unfonts-core.hints 1.0.2-080608-1~ ttf-unfonts-core -- "$@"
+# End automatically added section

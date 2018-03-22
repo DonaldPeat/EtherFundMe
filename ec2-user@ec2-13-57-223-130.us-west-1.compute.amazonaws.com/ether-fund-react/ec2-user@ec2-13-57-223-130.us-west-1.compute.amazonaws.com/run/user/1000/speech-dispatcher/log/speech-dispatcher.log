@@ -1,0 +1,107 @@
+[Mon Mar 19 01:51:53 2018 : 475715] speechd:   Speech Dispatcher Logging to file /run/user/1000/speech-dispatcher/log//speech-dispatcher.log
+[Mon Mar 19 01:51:53 2018 : 483238] speechd:  Configuration has been read from "/etc/speech-dispatcher/speechd.conf"
+[Mon Mar 19 01:51:53 2018 : 483304] speechd:  Initializing output module dummy with binary /usr/lib/speech-dispatcher-modules/sd_dummy and configuration /etc/speech-dispatcher/modules/dummy.conf
+[Mon Mar 19 01:51:53 2018 : 483308] speechd:   Output module is logging to file /run/user/1000/speech-dispatcher/log//dummy.log
+[Mon Mar 19 01:51:53 2018 : 483587] speechd:  Module dummy loaded.
+[Mon Mar 19 01:51:53 2018 : 504635] speechd:  Module dummy started successfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Mon Mar 19 01:51:53 2018 : 529154] speechd:  Initializing output module espeak with binary /usr/lib/speech-dispatcher-modules/sd_espeak and configuration /etc/speech-dispatcher/modules/espeak.conf
+[Mon Mar 19 01:51:53 2018 : 529160] speechd:   Output module is logging to file /run/user/1000/speech-dispatcher/log//espeak.log
+[Mon Mar 19 01:51:53 2018 : 529451] speechd:  Module espeak loaded.
+[Mon Mar 19 01:51:53 2018 : 693052] speechd:  Module espeak started successfully with message: 
+---------------
+Espeak: Initialized successfully.
+---------------
+
+[Mon Mar 19 01:51:53 2018 : 695052] speechd:  Initializing output module generic with binary /usr/lib/speech-dispatcher-modules/sd_generic and configuration /etc/speech-dispatcher/modules/generic.conf
+[Mon Mar 19 01:51:53 2018 : 695058] speechd:   Output module is logging to file /run/user/1000/speech-dispatcher/log//generic.log
+[Mon Mar 19 01:51:53 2018 : 695305] speechd:  Module generic loaded.
+[Mon Mar 19 01:51:53 2018 : 707751] speechd:  Module generic started successfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Mon Mar 19 01:51:53 2018 : 710704] speechd:  Initializing output module cicero with binary /usr/lib/speech-dispatcher-modules/sd_cicero and configuration /etc/speech-dispatcher/modules/cicero.conf
+[Mon Mar 19 01:51:53 2018 : 710711] speechd:   Output module is logging to file /run/user/1000/speech-dispatcher/log//cicero.log
+[Mon Mar 19 01:51:53 2018 : 710956] speechd:  Module cicero loaded.
+[Mon Mar 19 01:51:53 2018 : 712275] speechd:  Module cicero started successfully with message: 
+---------------
+Cicero initialized successfully.
+---------------
+
+[Mon Mar 19 01:51:53 2018 : 714843] speechd:   Speech Dispatcher Logging to file /run/user/1000/speech-dispatcher/log//speech-dispatcher.log
+[Mon Mar 19 01:51:53 2018 : 714856] speechd:   Speech Dispatcher started with 4 output modules
+[Mon Mar 19 01:51:53 2018 : 716996] speechd: Speech Dispatcher started and waiting for clients ...
+[Mon Mar 19 01:51:53 2018 : 718037] speechd: LINE here:|200-afrikaans af none|
+[Mon Mar 19 01:51:53 2018 : 718045] speechd: LINE here:|200-aragonese an none|
+[Mon Mar 19 01:51:53 2018 : 718049] speechd: LINE here:|200-bulgarian bg none|
+[Mon Mar 19 01:51:53 2018 : 718052] speechd: LINE here:|200-bosnian bs none|
+[Mon Mar 19 01:51:53 2018 : 718055] speechd: LINE here:|200-catalan ca none|
+[Mon Mar 19 01:51:53 2018 : 718059] speechd: LINE here:|200-czech cs none|
+[Mon Mar 19 01:51:53 2018 : 718062] speechd: LINE here:|200-welsh cy none|
+[Mon Mar 19 01:51:53 2018 : 718065] speechd: LINE here:|200-danish da none|
+[Mon Mar 19 01:51:53 2018 : 718069] speechd: LINE here:|200-german de none|
+[Mon Mar 19 01:51:53 2018 : 718072] speechd: LINE here:|200-greek el none|
+[Mon Mar 19 01:51:53 2018 : 718075] speechd: LINE here:|200-default en none|
+[Mon Mar 19 01:51:53 2018 : 718078] speechd: LINE here:|200-english en gb|
+[Mon Mar 19 01:51:53 2018 : 718081] speechd: LINE here:|200-en-scottish en sc|
+[Mon Mar 19 01:51:53 2018 : 718084] speechd: LINE here:|200-english-north en uk-north|
+[Mon Mar 19 01:51:53 2018 : 718087] speechd: LINE here:|200-english_rp en uk-rp|
+[Mon Mar 19 01:51:53 2018 : 718090] speechd: LINE here:|200-english_wmids en uk-wmids|
+[Mon Mar 19 01:51:53 2018 : 718093] speechd: LINE here:|200-english-us en us|
+[Mon Mar 19 01:51:53 2018 : 718098] speechd: LINE here:|200-en-westindies en wi|
+[Mon Mar 19 01:51:53 2018 : 718102] speechd: LINE here:|200-esperanto eo none|
+[Mon Mar 19 01:51:53 2018 : 718105] speechd: LINE here:|200-spanish es none|
+[Mon Mar 19 01:51:53 2018 : 718108] speechd: LINE here:|200-spanish-latin-am es la|
+[Mon Mar 19 01:51:53 2018 : 718111] speechd: LINE here:|200-estonian et none|
+[Mon Mar 19 01:51:53 2018 : 718114] speechd: LINE here:|200-persian fa none|
+[Mon Mar 19 01:51:53 2018 : 718117] speechd: LINE here:|200-persian-pinglish fa pin|
+[Mon Mar 19 01:51:53 2018 : 718120] speechd: LINE here:|200-finnish fi none|
+[Mon Mar 19 01:51:53 2018 : 718123] speechd: LINE here:|200-french-Belgium fr be|
+[Mon Mar 19 01:51:53 2018 : 718126] speechd: LINE here:|200-french fr fr|
+[Mon Mar 19 01:51:53 2018 : 718129] speechd: LINE here:|200-irish-gaeilge ga none|
+[Mon Mar 19 01:51:53 2018 : 718132] speechd: LINE here:|200-greek-ancient grc none|
+[Mon Mar 19 01:51:53 2018 : 718135] speechd: LINE here:|200-hindi hi none|
+[Mon Mar 19 01:51:53 2018 : 718138] speechd: LINE here:|200-croatian hr none|
+[Mon Mar 19 01:51:53 2018 : 718141] speechd: LINE here:|200-hungarian hu none|
+[Mon Mar 19 01:51:53 2018 : 718146] speechd: LINE here:|200-armenian hy none|
+[Mon Mar 19 01:51:53 2018 : 718149] speechd: LINE here:|200-armenian-west hy west|
+[Mon Mar 19 01:51:53 2018 : 718152] speechd: LINE here:|200-indonesian id none|
+[Mon Mar 19 01:51:53 2018 : 718155] speechd: LINE here:|200-icelandic is none|
+[Mon Mar 19 01:51:53 2018 : 718158] speechd: LINE here:|200-italian it none|
+[Mon Mar 19 01:51:53 2018 : 718161] speechd: LINE here:|200-lojban jbo none|
+[Mon Mar 19 01:51:53 2018 : 718164] speechd: LINE here:|200-georgian ka none|
+[Mon Mar 19 01:51:53 2018 : 718167] speechd: LINE here:|200-kannada kn none|
+[Mon Mar 19 01:51:53 2018 : 718170] speechd: LINE here:|200-kurdish ku none|
+[Mon Mar 19 01:51:53 2018 : 718173] speechd: LINE here:|200-latin la none|
+[Mon Mar 19 01:51:53 2018 : 718176] speechd: LINE here:|200-lingua_franca_nova lfn none|
+[Mon Mar 19 01:51:53 2018 : 718179] speechd: LINE here:|200-lithuanian lt none|
+[Mon Mar 19 01:51:53 2018 : 718182] speechd: LINE here:|200-latvian lv none|
+[Mon Mar 19 01:51:53 2018 : 718185] speechd: LINE here:|200-macedonian mk none|
+[Mon Mar 19 01:51:53 2018 : 718191] speechd: LINE here:|200-malayalam ml none|
+[Mon Mar 19 01:51:53 2018 : 718194] speechd: LINE here:|200-malay ms none|
+[Mon Mar 19 01:51:53 2018 : 718197] speechd: LINE here:|200-nepali ne none|
+[Mon Mar 19 01:51:53 2018 : 718200] speechd: LINE here:|200-dutch nl none|
+[Mon Mar 19 01:51:53 2018 : 718205] speechd: LINE here:|200-norwegian no none|
+[Mon Mar 19 01:51:53 2018 : 718208] speechd: LINE here:|200-punjabi pa none|
+[Mon Mar 19 01:51:53 2018 : 718211] speechd: LINE here:|200-polish pl none|
+[Mon Mar 19 01:51:53 2018 : 718214] speechd: LINE here:|200-brazil pt br|
+[Mon Mar 19 01:51:53 2018 : 718217] speechd: LINE here:|200-portugal pt pt|
+[Mon Mar 19 01:51:53 2018 : 718220] speechd: LINE here:|200-romanian ro none|
+[Mon Mar 19 01:51:53 2018 : 718223] speechd: LINE here:|200-russian ru none|
+[Mon Mar 19 01:51:53 2018 : 718226] speechd: LINE here:|200-slovak sk none|
+[Mon Mar 19 01:51:53 2018 : 718229] speechd: LINE here:|200-albanian sq none|
+[Mon Mar 19 01:51:53 2018 : 718232] speechd: LINE here:|200-serbian sr none|
+[Mon Mar 19 01:51:53 2018 : 718235] speechd: LINE here:|200-swedish sv none|
+[Mon Mar 19 01:51:53 2018 : 718238] speechd: LINE here:|200-swahili-test sw none|
+[Mon Mar 19 01:51:53 2018 : 718241] speechd: LINE here:|200-tamil ta none|
+[Mon Mar 19 01:51:53 2018 : 718244] speechd: LINE here:|200-turkish tr none|
+[Mon Mar 19 01:51:53 2018 : 718247] speechd: LINE here:|200-vietnam vi none|
+[Mon Mar 19 01:51:53 2018 : 718250] speechd: LINE here:|200-vietnam_hue vi hue|
+[Mon Mar 19 01:51:53 2018 : 718253] speechd: LINE here:|200-vietnam_sgn vi sgn|
+[Mon Mar 19 01:51:53 2018 : 718256] speechd: LINE here:|200-Mandarin zh none|
+[Mon Mar 19 01:51:53 2018 : 718259] speechd: LINE here:|200-cantonese zh yue|
+[Mon Mar 19 01:51:53 2018 : 718263] speechd: LINE here:|200 OK VOICE LIST SENT|

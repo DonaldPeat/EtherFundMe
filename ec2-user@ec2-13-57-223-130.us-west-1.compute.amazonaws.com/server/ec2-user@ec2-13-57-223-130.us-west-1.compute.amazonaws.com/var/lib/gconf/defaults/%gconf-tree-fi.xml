@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="apps">
+			<dir name="alarm-clock">
+				<dir name="alarm">
+					<entry name="command">
+						<local_schema short_desc="Komento">
+						</local_schema>
+					</entry>
+					<entry name="sound_repeat">
+						<local_schema short_desc="Toista ääni">
+							<longdesc>Toistetaanko herätysääni.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="sound_file">
+						<local_schema short_desc="Äänitiedosto">
+						</local_schema>
+					</entry>
+					<entry name="notify_type">
+						<local_schema short_desc="Huomautuksen tyyppi">
+						</local_schema>
+					</entry>
+					<entry name="repeat">
+						<local_schema short_desc="Herätyksen toisto">
+							<longdesc>Lista päivistä, jolloin tulisi herättää. Tämä asetus pätee vain &quot;kello&quot;-tyyppisille herätyksille.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="active">
+						<local_schema>
+							<longdesc>Ilmoittaa onko hälytys on alkanut.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="message">
+						<local_schema short_desc="Herätysviesti">
+							<longdesc>Lyhyt herätystä kuvaava syy.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="time">
+						<local_schema short_desc="Herätysaika">
+						</local_schema>
+					</entry>
+					<entry name="timestamp">
+						<local_schema short_desc="Hälytyksen aikaleima">
+							<longdesc>UNIX-aikaleima hälytykselle. Täytyy asettaa ennen hälytyksen alkamisajankohtaa.</longdesc>
+						</local_schema>
+					</entry>
+					<entry name="type">
+						<local_schema short_desc="Hälytyksen tyyppi">
+							<longdesc>Hälytyksen tyyppi. Joko &quot;kello&quot; jolloin herätys tapahtuu tiettyyn päivän aikaan, tai &quot;ajastin&quot; jolloin hälytys tapahtuu tietyn ajan kuluttua.</longdesc>
+						</local_schema>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

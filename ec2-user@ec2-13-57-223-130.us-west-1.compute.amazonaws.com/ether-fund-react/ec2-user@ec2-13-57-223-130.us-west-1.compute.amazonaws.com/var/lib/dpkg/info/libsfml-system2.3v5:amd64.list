@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libsfml-system2.3v5
+/usr/share/doc
+/usr/share/doc/libsfml-system2.3v5
+/usr/share/doc/libsfml-system2.3v5/copyright
+/usr/share/doc/libsfml-system2.3v5/changelog.Debian.gz
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libsfml-system.so.2.3.2
+/usr/lib/x86_64-linux-gnu/libsfml-system.so.2.3
