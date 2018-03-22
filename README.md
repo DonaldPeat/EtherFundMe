@@ -6,21 +6,21 @@ EtherFunded is an Ethereum dApp which allows users to create, contribute, and ac
 
 ## Getting Started
 
-### Prerequisites
+### Dependencies
 
-[Node & npm] https://docs.npmjs.com/getting-started/installing-node - install & run
+npm & node (9.4.0^) https://docs.npmjs.com/getting-started/installing-node - install & run
 
-[MetaMask] https://metamask.io/ - browser extension to interact with Ethereum dApps
+MetaMask https://metamask.io/ - browser extension to interact with Ethereum dApps
 
 ### Installing
 
-After cloning the repository run the following in the home directory:
+Install modules (must have node v9.4.0^)
 
-`npm install`
+`npm install` 
 
 ## Running the tests
 
-run mocha smart contract tests:
+run mocha smart contract tests
 
 `npm run test`
 
@@ -44,9 +44,12 @@ This is the new contract address and should replace the instance address in fact
 
 ## Deploying application
 
-You can then run the development environment:
+Run development `npm run dev`
 
-`npm run dev`
+Production build `npm run build`
+
+Serve prod build `npm run start`
+
 
 ## License
 
