@@ -17,13 +17,15 @@ beforeEach(async () => {
 
   factory = await new web3.eth.Contract(JSON.parse(compiledFactory.interface))
     .deploy({ data: compiledFactory.bytecode })
-    .send({ from: accounts[0], gas: '1000000' });
+    .send({ from: accounts[0], gas: '3000000' });
   factory.setProvider(provider);
 
-  await factory.methods.createCampaign('100').send({
-    from: accounts[0],
-    gas: '1000000'
-  });
+  await factory.methods
+    .createCampaign('100', 'Campign Title', 'campaign description', 2)
+    .send({
+      from: accounts[0],
+      gas: '1000000'
+    });
 
   // [] assign first element of returned array of campaigns to campaignAddress
   [campaignAddress] = await factory.methods.getDeployedCampaigns().call();
