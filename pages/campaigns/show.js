@@ -17,7 +17,10 @@ class CampaignShow extends Component {
       balance: summary[1],
       requestsCount: summary[2],
       manager: summary[4],
-      approversCount: summary[3]
+      approversCount: summary[3],
+      campaignTitle: summary[5],
+      campaignDescription: summary[6],
+      approvalThreshold: summary[7]
     };
   }
 
@@ -27,10 +30,25 @@ class CampaignShow extends Component {
       manager,
       minimumContribution,
       requestsCount,
-      approversCount
+      approversCount,
+      campaignTitle,
+      campaignDescription,
+      approvalThreshold
     } = this.props;
 
     const items = [
+      {
+        header: campaignTitle,
+        meta: 'Campaign Title',
+        description: 'The title of the contract, project, or campaign.',
+        style: { overflowWrap: 'break-word' }
+      },
+      {
+        header: campaignDescription,
+        meta: 'Campaign Description',
+        description: 'Description of the contract terms, goal, purpose.',
+        style: { overflowWrap: 'break-word' }
+      },
       {
         header: manager,
         meta: 'Address of Manager',
@@ -43,6 +61,13 @@ class CampaignShow extends Component {
         meta: 'Minimum Contribution (wei)',
         description:
           'Minimum contribution is the smallest amount that can be contributed to a campaign. Each contribution address has the ability to approve funding requests.',
+        style: { overflowWrap: 'break-word' }
+      },
+      {
+        header: approvalThreshold,
+        meta: 'Approval Threshold',
+        description:
+          'Percentage of contributors required to approve funding requests.',
         style: { overflowWrap: 'break-word' }
       },
       {

@@ -15,6 +15,7 @@ contract CampaignFactory {
 }
 
 contract Campaign{
+
     uint public minimumContribution;
     address public manager;
     uint public approvalThreshold;
@@ -92,14 +93,17 @@ contract Campaign{
     }
 
     function getSummary() public view returns (
-      uint, uint, uint, uint, address
+      uint, uint, uint, uint, address, string, string, uint
       ){
       return (
           minimumContribution,
           this.balance,
           requests.length,
           approversCount,
-          manager
+          manager,
+          campaignTitle,
+          campaignDescription,
+          approvalThreshold
       );
     }
 
