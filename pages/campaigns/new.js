@@ -44,6 +44,28 @@ class CampaignNew extends Component {
         <h3>Create a Campaign </h3>
         <Form onSubmit={this.onSubmit} error={!!this.state.errorMessage}>
           <Form.Field>
+            <label>Title</label>
+            <Input
+              placeholder="optional"
+              labelPosition="right"
+              value={this.state.campaignTitle}
+              onChange={event =>
+                this.setState({ campaignTitle: event.target.value })
+              }
+            />
+          </Form.Field>
+          <Form.Field>
+            <label>Description</label>
+            <Input
+              placeholder="optional"
+              labelPosition="right"
+              value={this.state.campaignDescription}
+              onChange={event =>
+                this.setState({ campaignDescription: event.target.value })
+              }
+            />
+          </Form.Field>
+          <Form.Field>
             <label>Minimum Contribution</label>
             <Input
               label="wei"
@@ -54,6 +76,18 @@ class CampaignNew extends Component {
               }
             />
           </Form.Field>
+          <Form.Field>
+            <label>Approval Threshold</label>
+            <Input
+              placeholder="optional"
+              labelPosition="right"
+              value={this.state.approvalThreshold}
+              onChange={event =>
+                this.setState({ approvalThreshold: event.target.value })
+              }
+            />
+          </Form.Field>
+
           <Message error header="Oops!" content={this.state.errorMessage} />
           <Button primary loading={this.state.loading}>
             Create Campaign
