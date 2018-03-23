@@ -9,6 +9,9 @@ class CampaignNew extends Component {
   state = {
     minimumContribution: '',
     errorMessage: '',
+    campaignTitle: '',
+    campaignDescription: '',
+    approvalThreshold: 1,
     loading: false
   };
 
@@ -18,7 +21,12 @@ class CampaignNew extends Component {
     try {
       const accounts = await web3.eth.getAccounts();
       await factory.methods
-        .createCampaign(this.state.minimumContribution)
+        .createCampaign(
+          this.state.minimumContribution,
+          this.state.campaignTitle,
+          this.state.campaignDescription,
+          this.state.approvalThreshold
+        )
         .send({
           //MetaMask will auto calculate gas necessary to send transaction
           from: accounts[0]
