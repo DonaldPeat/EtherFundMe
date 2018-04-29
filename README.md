@@ -1,6 +1,4 @@
-# EtherFundMe
-
-https://EtherFundMe.com
+# EtherFunded
 
 EtherFunded is an Ethereum dApp which allows users to create, contribute, and actively participate in a new or ongoing project using MetaMask. Campaign creators set the minumum contribution and deploy a campaign contract. When funding is required by the campaign manager to fund a particular part of the project, a request is created to release contribution funds. The funds are released to a specified address after a majority of contributors approve the request.
 
